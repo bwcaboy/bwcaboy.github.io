@@ -27,14 +27,14 @@
             }
             .grid {
                 display: grid;
-                gap: 1rem;
-                grid-template-columns: repeat(auto-fit, clamp(6rem, 10rem, 10rem));
+                gap: 0rem;
+                grid-template-columns: repeat(auto-fit, 9.5rem);
                 grid-auto-flow: dense;
                 justify-content: center;
                 height: 100%;
             }
             .suitImage {
-                width: 10rem;
+                width: 9rem;
             }
             .fullWidth {
                 margin: 1rem;
@@ -47,6 +47,8 @@
                 align-items: center;
                 gap: 0.25rem 1rem;
             }
+            
+            
             .isHidden {
                 display: none;
             }
@@ -214,6 +216,15 @@
                 font-size: 2.5rem;
             }
 
+            @media only screen and (max-width: 500px) {
+                .grid {
+                    grid-template-columns: repeat(auto-fit, 4.5rem);
+                }
+                .suitImage {
+                    width: 4.5rem;
+                }
+            }
+
 
         </style>
     </head>
@@ -273,7 +284,6 @@
                 shuffle(suits)
                 
                 for(let i = 0; i < suits.length; i++) {
-                    console.log(suits[i][0])
                     if(suits[i][0] == "Dead Calm") {
                         var deadCalmNumber = i
                         console.log("Success!")
