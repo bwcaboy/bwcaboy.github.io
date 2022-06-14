@@ -18,6 +18,9 @@
                 0% { opacity: 0; }
                 100% { opacity: 1; }
             }
+            ul {
+                padding-inline-start: 0;
+            }
             li {
                 list-style: none;
                 
@@ -25,14 +28,13 @@
             .grid {
                 display: grid;
                 gap: 1rem;
-                grid-template-columns: repeat(auto-fit, 10rem);
+                grid-template-columns: repeat(auto-fit, clamp(6rem, 10rem, 10rem));
                 grid-auto-flow: dense;
-                justify-content: left;
+                justify-content: center;
                 height: 100%;
             }
             .suitImage {
                 width: 10rem;
-                margin-right: 1rem;
             }
             .fullWidth {
                 margin: 1rem;
@@ -43,7 +45,7 @@
                 flex-basis: 10rem;
                 justify-content: center;
                 align-items: center;
-                gap: 1rem;
+                gap: 0.25rem 1rem;
             }
             .isHidden {
                 display: none;
@@ -56,9 +58,14 @@
             }
             #buttons {
                 display: flex;
+                align-items: center;
                 justify-content: center;
                 gap: 1rem;
+                overflow: none;
                 flex-wrap: wrap;
+                white-space: nowrap;
+                margin-left: 5vw;
+                margin-right: 5vw;
             }
             button {
                 align-items: center;
@@ -68,11 +75,15 @@
                 font-weight: 700;
                 color: rgb(24, 29, 34);
                 background: rgb(241, 249, 255);
-                border: 3px solid rgb(24, 29, 34);
+                border: 0px solid rgb(24, 29, 34);
                 border-radius: 100px;
             }
             button:hover{
                 background: rgb(201, 211, 252);
+            }
+            p:hover{
+                background: rgb(201, 211, 252);
+                cursor: help;
             }
             .categoryGenesis {
                 color: #FFF;
@@ -205,12 +216,22 @@
         <main>
             <img id="title" src="https://monstersuit.io/images/home/logo.png">
             <div id="buttons">
-                <button onclick="showSuits('All')">All</button>
-                <button onclick="showSuits('Dragons')">Dragons</button>
-                <button onclick="showSuits('ClanLeaders')">Clans</button>
-                <button onclick="showSuits('Animals')">Animals</button>
-                <button onclick="showSuits('Heroes')">Heroes and Villains</button>
-                <button onclick="showSuits('True Flame')">Flame Holders</button>
+                <button class="categoryGhost" onclick="showSuits('All')">All</button>
+                <button class="categoryDragon" onclick="showSuits('Dragons')">Dragons</button>
+                <button class="categoryClan" onclick="showSuits('ClanLeaders')">Clans</button>
+                <button class="categoryAnimal" onclick="showSuits('Animals')">Animals</button>
+                <button class="categoryHero" onclick="showSuits('Heroes')">Heroes</button>
+                <button class="categoryVillain" onclick="showSuits('Villain')">Villain</button>
+                <button class="categoryTrueFlame" onclick="showSuits('True Flame')">True Flames</button>
+                <button class="categoryETHLORD" onclick="showSuits('Etherlord')">Etherlords</button>
+                <button class="categoryDarkFlame" onclick="showSuits('Dark Flame')">Dark Flames</button>
+                <button class="categoryGenesis" onclick="showSuits('Genesis')">Genesis</button>
+                <button class="categoryAnomaly" onclick="showSuits('Anomaly')">Anomalies</button>
+                <button class="categoryMystic" onclick="showSuits('Mystic')">Mystics</button>
+                <button class="categoryCosmic" onclick="showSuits('Cosmic')">Cosmics</button>
+                <button class="categoryBot" onclick="showSuits('Bot')">Bots</button>
+                <button class="categoryNinja" onclick="showSuits('Ninja')">Ninjas</button>
+                <button class="categoryHonorary" onclick="showSuits('Honorary')">Honoraries</button>
             </div>
             <ul id="genesis" class="grid">
                 <!-- EXAMPLE OF LAYOUT
@@ -274,7 +295,7 @@
                         }
                     }
                     //If set to dragons, show only dragon suits
-                    else if(x == "Dragons") {
+                    else if(x == "Dragon") {
                         for(let i = 0; i < suits.length; i++) {
                             if(!suits[i][1].includes("Dragon")) {
                                 document.getElementById(i.toString() + "Image").style.display = "none";
@@ -284,7 +305,7 @@
                             }
                         }
                     }
-                    else if(x == "ClanLeaders") {
+                    else if(x == "Clan") {
                         for(let i = 0; i < suits.length; i++) {
                             if(!suits[i][1].includes("Clan")) {
                                 document.getElementById(i.toString() + "Image").style.display = "none";
@@ -294,7 +315,7 @@
                             }
                         }
                     }
-                    else if(x == "Animals") {
+                    else if(x == "Animal") {
                         for(let i = 0; i < suits.length; i++) {
                             if(!suits[i][1].includes("Animal")) {
                                 document.getElementById(i.toString() + "Image").style.display = "none";
@@ -304,9 +325,19 @@
                             }
                         }
                     }
-                    else if(x == "Heroes") {
+                    else if(x == "Hero") {
                         for(let i = 0; i < suits.length; i++) {
-                            if(!suits[i][1].includes("Hero") && !suits[i][1].includes("Villain")) {
+                            if(!suits[i][1].includes("Hero")) {
+                                document.getElementById(i.toString() + "Image").style.display = "none";
+                            }
+                            else {
+                                document.getElementById(i.toString() + "Image").style.display = "block";
+                            }
+                        }
+                    }
+                    else if(x == "Villain") {
+                        for(let i = 0; i < suits.length; i++) {
+                            if(!suits[i][1].includes("Villain")) {
                                 document.getElementById(i.toString() + "Image").style.display = "none";
                             }
                             else {
@@ -316,7 +347,97 @@
                     }
                     else if(x == "True Flame") {
                         for(let i = 0; i < suits.length; i++) {
-                            if(!suits[i][1].includes("True Flame") && !suits[i][1].includes("Dark Flame")) {
+                            if(!suits[i][1].includes("True Flame")) {
+                                document.getElementById(i.toString() + "Image").style.display = "none";
+                            }
+                            else {
+                                document.getElementById(i.toString() + "Image").style.display = "block";
+                            }
+                        }
+                    }
+                    else if(x == "Etherlord") {
+                        for(let i = 0; i < suits.length; i++) {
+                            if(!suits[i][1].includes("ETHERLORD")) {
+                                document.getElementById(i.toString() + "Image").style.display = "none";
+                            }
+                            else {
+                                document.getElementById(i.toString() + "Image").style.display = "block";
+                            }
+                        }
+                    }
+                    else if(x == "Dark Flame") {
+                        for(let i = 0; i < suits.length; i++) {
+                            if(!suits[i][1].includes("Dark Flame")) {
+                                document.getElementById(i.toString() + "Image").style.display = "none";
+                            }
+                            else {
+                                document.getElementById(i.toString() + "Image").style.display = "block";
+                            }
+                        }
+                    }
+                    else if(x == "Genesis") {
+                        for(let i = 0; i < suits.length; i++) {
+                            if(!suits[i][1].includes("Genesis")) {
+                                document.getElementById(i.toString() + "Image").style.display = "none";
+                            }
+                            else {
+                                document.getElementById(i.toString() + "Image").style.display = "block";
+                            }
+                        }
+                    }
+                    else if(x == "Anomaly") {
+                        for(let i = 0; i < suits.length; i++) {
+                            if(!suits[i][1].includes("Anomaly")) {
+                                document.getElementById(i.toString() + "Image").style.display = "none";
+                            }
+                            else {
+                                document.getElementById(i.toString() + "Image").style.display = "block";
+                            }
+                        }
+                    }
+                    else if(x == "Mystic") {
+                        for(let i = 0; i < suits.length; i++) {
+                            if(!suits[i][1].includes("Mystic")) {
+                                document.getElementById(i.toString() + "Image").style.display = "none";
+                            }
+                            else {
+                                document.getElementById(i.toString() + "Image").style.display = "block";
+                            }
+                        }
+                    }
+                    else if(x == "Cosmic") {
+                        for(let i = 0; i < suits.length; i++) {
+                            if(!suits[i][1].includes("Cosmic")) {
+                                document.getElementById(i.toString() + "Image").style.display = "none";
+                            }
+                            else {
+                                document.getElementById(i.toString() + "Image").style.display = "block";
+                            }
+                        }
+                    }
+                    else if(x == "Bot") {
+                        for(let i = 0; i < suits.length; i++) {
+                            if(!suits[i][1].includes("Bot")) {
+                                document.getElementById(i.toString() + "Image").style.display = "none";
+                            }
+                            else {
+                                document.getElementById(i.toString() + "Image").style.display = "block";
+                            }
+                        }
+                    }
+                    else if(x == "Ninja") {
+                        for(let i = 0; i < suits.length; i++) {
+                            if(!suits[i][1].includes("Ninja")) {
+                                document.getElementById(i.toString() + "Image").style.display = "none";
+                            }
+                            else {
+                                document.getElementById(i.toString() + "Image").style.display = "block";
+                            }
+                        }
+                    }
+                    else if(x == "Honorary") {
+                        for(let i = 0; i < suits.length; i++) {
+                            if(!suits[i][1].includes("Honorary")) {
                                 document.getElementById(i.toString() + "Image").style.display = "none";
                             }
                             else {
@@ -397,52 +518,68 @@
                         category.innerHTML = suitCategories[j]
                         if(suitCategories[j].includes("Dragon")) {
                             category.className = "categoryDragon"
+                            category.onclick = function() {showSuits("Dragon")}
                         }
                         else if(suitCategories[j].includes("Animal")) {
                             category.className = "categoryAnimal"
+                            category.onclick = function() {showSuits("Animal")}
                         }
                         else if(suitCategories[j].includes("Bot")) {
                             category.className = "categoryBot"
+                            category.onclick = function() {showSuits("Bot")}
                         }
                         else if(suitCategories[j].includes("Ninja")) {
                             category.className = "categoryNinja"
+                            category.onclick = function() {showSuits("Ninja")}
                         }
                         else if(suitCategories[j].includes("Mystic")) {
                             category.className = "categoryMystic"
+                            category.onclick = function() {showSuits("Mystic")}
                         }
                         else if(suitCategories[j].includes("Ghost")) {
                             category.className = "categoryGhost"
+                            category.onclick = function() {showSuits("Ghost")}
                         }
                         else if(suitCategories[j].includes("Cosmic")) {
                             category.className = "categoryCosmic"
+                            category.onclick = function() {showSuits("Cosmic")}
                         }
                         else if(suitCategories[j].includes("Honorary")) {
                             category.className = "categoryHonorary"
                             category.title = "Honorary suits celebrate notable individuals and communities within web3."
+                            category.onclick = function() {showSuits("Honorary")}
                         }
                         else if(suitCategories[j].includes("Hero")) {
                             category.className = "categoryHero"
+                            category.onclick = function() {showSuits("Hero")}
                         }
                         else if(suitCategories[j].includes("Villain")) {
                             category.className = "categoryVillain"
+                            category.onclick = function() {showSuits("Villain")}
                         }
                         else if(suitCategories[j].includes("Clan")) {
                             category.className = "categoryClan"
+                            category.onclick = function() {showSuits("Clan")}
                         }
                         else if(suitCategories[j].includes("True Flame")) {
                             category.className = "categoryTrueFlame"
+                            category.onclick = function() {showSuits("True Flame")}
                         }
                         else if(suitCategories[j].includes("Anomaly")) {
                             category.className = "categoryAnomaly"
+                            category.onclick = function() {showSuits("Anomaly")}
                         }
                         else if(suitCategories[j].includes("Dark Flame")) {
                             category.className = "categoryDarkFlame"
+                            category.onclick = function() {showSuits("Dark Flame")}
                         }
                         else if(suitCategories[j].includes("ETHERLORD")) {
                             category.className = "categoryETHLORD"
+                            category.onclick = function() {showSuits("Etherlord")}
                         }
                         else {
                             category.className = "categoryGenesis"
+                            category.onclick = function() {showSuits("All")}
                         }
                         information.appendChild(category)
                     }

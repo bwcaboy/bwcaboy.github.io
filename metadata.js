@@ -722,7 +722,7 @@ suits = [
     ],
     [
         "Mech",
-        "Genesis",
+        "Genesis, Bot",
         "https://lh3.googleusercontent.com/EEiN0JKtsSXV6aC2MFijljQfIt_nQttfiF7zcgDafZj_jtv4juPo2vESi4XfLLvao4zVroclquzWGS7uGAKzn_XhHJP7b4HJ_ifmj_s=w160",
         "#103",
         "#72aaec"
@@ -1842,7 +1842,7 @@ suits = [
     ],
     [
         "",
-        "Special",
+        "Special, Bot",
         "https://lh3.googleusercontent.com/4EAf99CDFrYkFJyNk9PfB5Qf2hOa8DmP-PECmp23Qaf_3wzTBIhpFJNWseBTmK8iPDBxMHSKELInoXxcEpo0fHUz_XaFe8AI5g3QMQ=w160",
         "#4310",
         "#B2B9F8"
