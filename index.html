@@ -445,6 +445,16 @@
                             }
                         }
                     }
+                    else if(x == "Ghost") {
+                        for(let i = 0; i < suits.length; i++) {
+                            if(!suits[i][1].includes("Ghost")) {
+                                document.getElementById(i.toString() + "Image").style.display = "none";
+                            }
+                            else {
+                                document.getElementById(i.toString() + "Image").style.display = "block";
+                            }
+                        }
+                    }
                 }
                 
                 activeSuit = -1
