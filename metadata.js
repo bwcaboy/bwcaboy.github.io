@@ -2016,14 +2016,14 @@ suits = [
         "#86AACC"
     ],
     [
-        "Mugen",
+        "Bearus",
         "ETHERLORD",
         "https://lh3.googleusercontent.com/4xFmn6eNCV9O4bjunmLDavjzJn8sp3UN8Pbe_XAYeTLb7ikXclr8eJxs-j-qssHo69rDtGFdyu0fNOil4VtsDx57SMVLwPYsuft6rg=w160",
         "#4510",
         "#7BBEE9"
     ],
     [
-        "Bearus",
+        "Mugen",
         "Dark Flame",
         "https://lh3.googleusercontent.com/NyFW433IkWr1DUiXDqeKrfQpjPBaOIXwnYRyVuUjtAuaSir5q8XCg02VCa3bWDZUOwXH9K7ut8GSMJuj1bnGRbGua6c1Ba9fqUawsQ=w160",
         "#4514",
