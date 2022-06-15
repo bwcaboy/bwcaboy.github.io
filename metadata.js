@@ -778,7 +778,7 @@ suits = [
     ],
     [
         "Kurama",
-        "Genesis",
+        "Genesis, Mystic Neko",
         "https://lh3.googleusercontent.com/EtYt0zxWioWR-oCsGDxnvuSUqp7nDeU1NWkX8UFWouXb6d3ifH522-jnBHLM-l5q-2YjLqyj_MiJaB6xkZ2AbH_fZKixk5rh4EpT_A=w160",
         "#111",
         "#FCFF4B"
