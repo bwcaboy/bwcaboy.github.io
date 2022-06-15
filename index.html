@@ -35,6 +35,12 @@
             }
             .suitImage {
                 width: 9rem;
+                transform: scale(1);
+                transition: transform 0.5s;
+            }
+            .suitImage:hover {
+                transform: scale(1.05);
+                transition: transform 0.5s;
             }
             .fullWidth {
                 margin: 1rem;
@@ -62,7 +68,7 @@
                 display: flex;
                 align-items: center;
                 justify-content: center;
-                gap: 1rem;
+                gap: 1.1rem;
                 overflow: none;
                 flex-wrap: wrap;
                 white-space: nowrap;
@@ -79,18 +85,27 @@
                 background: rgb(241, 249, 255);
                 border: 0px solid rgb(24, 29, 34);
                 border-radius: 100px;
+                transform: scale(1);
+                transition: transform 0.5s;
             }
             button:hover{
                 background: rgb(201, 211, 252);
                 cursor: pointer;
+                transform: scale(1.05);
+                transition: transform 0.5s;
+            }
+            p {
+                transform: scale(1);
+                transition: transform 0.5s;
             }
             p:hover{
                 background: rgb(201, 211, 252);
                 cursor: pointer;
+                transform: scale(1.05);
+                transition: transform 0.5s;
             }
             img:hover {
                 cursor: pointer;
-
             }
             .categoryGenesis {
                 color: #FFF;
