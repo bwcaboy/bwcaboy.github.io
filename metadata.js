@@ -1624,7 +1624,7 @@ suits = [
         "#EBE5FF"
     ],
     [
-        "Kappy",
+        "Kappa",
         "Hero",
         "https://lh3.googleusercontent.com/8z4azvmypeApbcheZTKUltt3Wm7s1LEAxCdl_K-2zkQtVh3jvE-W1zfx6SbC8GGxaTD4R8K-cUlsWiehLprG2zkw2JVM5M-xtsdCU6E=w160",
         "#4156",
@@ -2017,14 +2017,14 @@ suits = [
     ],
     [
         "Bearus",
-        "ETHERLORD",
+        "Dark Flame",
         "https://lh3.googleusercontent.com/4xFmn6eNCV9O4bjunmLDavjzJn8sp3UN8Pbe_XAYeTLb7ikXclr8eJxs-j-qssHo69rDtGFdyu0fNOil4VtsDx57SMVLwPYsuft6rg=w160",
         "#4510",
         "#7BBEE9"
     ],
     [
         "Mugen",
-        "Dark Flame",
+        "ETHERLORD",
         "https://lh3.googleusercontent.com/NyFW433IkWr1DUiXDqeKrfQpjPBaOIXwnYRyVuUjtAuaSir5q8XCg02VCa3bWDZUOwXH9K7ut8GSMJuj1bnGRbGua6c1Ba9fqUawsQ=w160",
         "#4514",
         "#B79AFF"
