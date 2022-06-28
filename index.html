@@ -252,6 +252,15 @@
                 background: rgb(240,148,223);
                 background-image: linear-gradient(to right, #BBF7FF,#FEFD53);
             }
+            .categoryV2 {
+                color: #FFF;
+                border-radius: 100px;
+                padding: 5px 15px;
+                font-size: 0.75rem;
+                background: rgb(104,170,96);
+            }
+
+
 
 
             h1 {
@@ -292,6 +301,7 @@
                 <button class="categoryNinja" onclick="showSuits('Ninja')">Ninjas</button>
                 <button class="categoryHonorary" onclick="showSuits('Honorary')">Honoraries</button>
                 <button class="categoryMysticNeko" onclick="showSuits('Mystic Neko')">Mystic Neko</button>
+                <button class="categoryV2" onclick="showSuits('v2')">Version 2</button>
             </div>
             <ul id="genesis" class="grid">
                 <!-- EXAMPLE OF LAYOUT
@@ -326,6 +336,8 @@
                 }
 
                 shuffle(suits)
+
+                suits.unshift(newsuits[0], newsuits[1], newsuits[2], newsuits[3])
                 
                 for(let i = 0; i < suits.length; i++) {
                     if(suits[i][0] == "Dead Calm") {
@@ -534,6 +546,16 @@
                             }
                         }
                     }
+                    else if(x == "v2") {
+                        for(let i = 0; i < suits.length; i++) {
+                            if(!suits[i][1].includes("v2")) {
+                                document.getElementById(i.toString() + "Image").style.display = "none";
+                            }
+                            else {
+                                document.getElementById(i.toString() + "Image").style.display = "block";
+                            }
+                        }
+                    }
                 }
                 
                 activeSuit = -1
@@ -677,6 +699,10 @@
                         else if(suitCategories[j].includes("Genesis")) {
                             category.className = "categoryGenesis"
                             category.onclick = function() {showSuits("Genesis")}
+                        }
+                        else if(suitCategories[j].includes("v2")) {
+                            category.className = "categoryV2"
+                            category.onclick = function() {showSuits("v2")}
                         }
                         else {
                             category.className = "categoryGenesis"
