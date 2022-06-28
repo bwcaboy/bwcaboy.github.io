@@ -2017,7 +2017,7 @@ suits = [
     ],
     [
         "Bearus",
-        "Dark Flame",
+        "Sins",
         "https://lh3.googleusercontent.com/4xFmn6eNCV9O4bjunmLDavjzJn8sp3UN8Pbe_XAYeTLb7ikXclr8eJxs-j-qssHo69rDtGFdyu0fNOil4VtsDx57SMVLwPYsuft6rg=w160",
         "#4510",
         "#7BBEE9"
@@ -2031,14 +2031,14 @@ suits = [
     ],
     [
         "Pixis",
-        "Dark Flame",
+        "Sins",
         "https://lh3.googleusercontent.com/GpSSn0NDKsu8gqEE1NJ0RNO-Yxm25u0dk2EZugjRrP3azhMIK0r5SOqc0wyLB_mKPRU-awYVR0Dpso62_iNFV3BgxAJlNMrXHr7yhrw=w160",
         "#4520",
         "#78FFFB"
     ],
     [
         "Sage",
-        "Dark Flame",
+        "Sins",
         "https://lh3.googleusercontent.com/lTXLVcjD9aLSPrHhUi1zT4FQLYev4Vpfxst_-Bqt0L75FSj1iz1dN9wFk9dBhaouKapSzkKENs6uzS23eDb3uoEvKHQHdVjdrJoZFQ=w160",
         "#4522",
         "#77C0EE"
@@ -2059,7 +2059,7 @@ suits = [
     ],
     [
         "Shenra",
-        "Dark Flame",
+        "Sins",
         "https://lh3.googleusercontent.com/P9FnivCYjKRS6z3Vfi_6Q21YqS2CEVKxdWyF8qxV9sBHHQBmE3GZxWmMtk8n1l_-5N0E8eiGR9fySl_XIJcZWYBsBknSTRXmC5o-zw=w160",
         "#4538",
         "#FEC085"
@@ -2073,14 +2073,14 @@ suits = [
     ],
     [
         "Crisis",
-        "Dark Flame",
+        "Sins",
         "https://lh3.googleusercontent.com/t1P5emSS9ReRRw8TNpZtpQo-IVoC3P58OPfvDTjWR4rFA7qAz00o6B3A1y5SpcOhuMlMGoownQ8uY9YyazLf6P-S_JhKFOunL-rk=w160",
         "#4545",
         "#E01E39"
     ],
     [
         "Undead",
-        "Dark Flame",
+        "Sins",
         "https://lh3.googleusercontent.com/PYpac9cnpWMZqQdZZqAlCJXXvIqjePOZdEU5mYWtJAa8hLzGTmgRcEidA-zWwIssI0-dUazGTAUOi9WSIf074Y1k350LosVBRzr8Ug=w160",
         "#4550",
         "#6ABD88"
