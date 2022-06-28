@@ -229,6 +229,13 @@
                 font-size: 0.75rem;
                 background: rgb(85,94,125);
             }
+            .categorySins {
+                color: #FFF;
+                border-radius: 100px;
+                padding: 5px 15px;
+                font-size: 0.75rem;
+                background: rgb(51,13,86)
+            }
             .categoryETHLORD {
                 color: #000;
                 border-radius: 100px;
@@ -276,6 +283,7 @@
                 <button class="categoryTrueFlame" onclick="showSuits('True Flame')">True Flames</button>
                 <button class="categoryETHLORD" onclick="showSuits('Etherlord')">Etherlords</button>
                 <button class="categoryDarkFlame" onclick="showSuits('Dark Flame')">Dark Flames</button>
+                <button class="categorySins" onclick="showSuits('Sins')">Sins</button>
                 <button class="categoryGenesis" onclick="showSuits('Genesis')">Genesis</button>
                 <button class="categoryAnomaly" onclick="showSuits('Anomaly')">Anomalies</button>
                 <button class="categoryMystic" onclick="showSuits('Mystic')">Mystics</button>
@@ -419,6 +427,16 @@
                     else if(x == "Dark Flame") {
                         for(let i = 0; i < suits.length; i++) {
                             if(!suits[i][1].includes("Dark Flame")) {
+                                document.getElementById(i.toString() + "Image").style.display = "none";
+                            }
+                            else {
+                                document.getElementById(i.toString() + "Image").style.display = "block";
+                            }
+                        }
+                    }
+                    else if(x == "Sins") {
+                        for(let i = 0; i < suits.length; i++) {
+                            if(!suits[i][1].includes("Sins")) {
                                 document.getElementById(i.toString() + "Image").style.display = "none";
                             }
                             else {
@@ -647,6 +665,10 @@
                         else if(suitCategories[j].includes("Dark Flame")) {
                             category.className = "categoryDarkFlame"
                             category.onclick = function() {showSuits("Dark Flame")}
+                        }
+                        else if(suitCategories[j].includes("Sins")) {
+                            category.className = "categorySins"
+                            category.onclick = function() {showSuits("Sins")}
                         }
                         else if(suitCategories[j].includes("ETHERLORD")) {
                             category.className = "categoryETHLORD"
