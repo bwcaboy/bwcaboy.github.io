@@ -1695,7 +1695,7 @@ suits = [
     ],
     [
         "Zippo",
-        "Dark Flame",
+        "Sins",
         "https://lh3.googleusercontent.com/l70uTvfuCRNhoQbeK4ykx3_kJ6VHixvyk_JD3EUoQdlIor1dc6OTXCBdoKbgA3PdxfXe18Y9VwiF-9N6ew0pODpVatUriq7vWnfYtw=w160",
         "#4182",
         "#D5FFCF"
