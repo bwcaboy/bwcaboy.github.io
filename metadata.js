@@ -1,4 +1,4 @@
-suits = [
+masterSuits = [
     [
         "Demon Lord",
         "Genesis",
@@ -206,7 +206,7 @@ suits = [
         "Urchin",
         "Genesis",
         "https://lh3.googleusercontent.com/4uKmWbtAg9F7EwcR9gKsxcSwYRCfQ6XUqjun1WpNA_8vGI2y1c_qXCM7s9orQGlkH0yxziOE31akHTg8zhpmxZ8RiSDpzRO9MpqEmg=w160",
-        "#29",
+        "#029",
         "#b7e3f2"
     ],
     [
@@ -784,116 +784,172 @@ suits = [
         "#FCFF4B"
     ],
     [
-        "Craw",
-        "Cosmic",
-        "https://lh3.googleusercontent.com/fife/AAWUweWIW-UNhRBCLRsML7qbURT_9uDOgRAE-bkxJRgE8RS_Y26V6BqVRcKZUzJXgej2DMQ4-PBGJ6IFUPuJ4YINbyVj2EbCwF2ioUSIvrQr_e_pmBZX4WJELibQurBj2JDYWZ2AtDSTAn56ds0FDH247cBzZdSkfln7KtSGD6m9itWKqUhzdNT-oKF1O9gh8K3j5e_Zt8Rrb-gMOjq7f64XgbyBFa822ZKZ2Ax4CAp7yahKhdC-F0a2KAbq6DLpkHkgCKbk5jxu2-DP2BxAPKwfXS-8-V3oXGE_CI4y2ZseJ0Tic0gC2cM_HqbfENwfIABRw4WyXSEK3JSvMtWB_bf6ElVioOs065JkvqjmqSyBoNySRYD4pK0DVS13cmqlNCmjixSbqu4EuqfsDHGUSnyEcwwAGZCjAQ92w6pflT7nh-YuJ3nUJlZ62C418oeEB4Z1ajYwtcFmHju_g0qsEC1l6czHFiWj4pt3a9r-CAQM7k1dxv1ih3D23uNYIxjk2EBQGuxwud361gmg7uZIBYrwLWGW3zGPTb3UaB6pGqtkVUJFYR55io8-Xa12RVAQMMjBmDSUK__guvzcjnoGPYUGICxgAlxLpntLICM4IiypdXqC-LpvGvZqNLgabmT9-B6JYUBsGHdEg25yCVpNC0bf9ugRe_Y29J0dMPg8Risc7ylPLWrdmoo21dOEwTK2Ql5Bf_q6_8BrkZbYJknHNQgzyRdES3FCn3IJd_x8YzVF4TElOLoTbDlqAT9v5IRzunzO16yHV_0jY49pJ2d890pdl6CA1tM5sx0ZP3_PbKYZw_zkTFs_gjve2o2i68bMJHeDQC9_wMefDj-CFwPrAdlnPIXgGfehfSoZO_R_J6CymA0cIRfglNe2JiKNRNzJfYtj-nPgbNNjObV01QIGeHQ-IYrNddXF8oH4dZ1UzBtQE5kpkR5wPULbVrEdiNysc3kyv7Vaz-PhqJcre0olED_sFcTviFF6QfSmu1SlY97h7VW755tAitkW1HFoi-XIbdfPODr9GhM1admrA6yty9vFjKDQO6vOqgmKy6dSeZvyoH-VvrHPPmlGZg0Itezg3LVLQD-atKCrJks2RbtbNxLeibgKTNDo_oUeJu_jYV61KViopWjR3GKvF-_vEX35q_Uzbx1Xh6bIkSggNotB4FjqcS3nbM4gTLb9Hzc8gp9n0ewZPepxryYVdk3xzyFBDchSNIh2qfR4Sox9MZhVklukxUhUHRP0EYyGfXed2HuzHIz5URIwq8BsKXQr9ZK6e64tkISh8vwT82u_gbqf7NQ0YZ87X9yYLGcLjqmFypnriinmjfc=w160",
-        "#0150",
-        "#f17a7b"
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/LTrpEjUS1R30Cyi5wc87lLN0J1FIhtlcHJSVIuHvq9oWt_H1S_raD05qpvUzzFX4GgS1LS4s2Duxwt0xxcZDKHMk0lR1iTc-ny1KmQ=w160",
+        "#0015",
+        "#4486B8"
     ],
     [
-        "Reaper",
+        "Coney",
+        "Honorary",
+        "https://lh3.googleusercontent.com/93ic4sn6FpiN-azZNdFe7F-U8vO_tYCBdGiflWwuRTME7QR2XnsA0rAXJb-oPFC-9JJHMzlem5XwOQBKSbfupyqgl9veZfd4od5I=w160",
+        "#0017",
+        "#86AACC"
+    ],
+    [
+        "",
+        "Special, Ninja",
+        "https://lh3.googleusercontent.com/pL8rMVr3xXw5YxnlpfO5RsQG1WiGe-iiEXKmqU_iOzyBIMAtMQlJwVCbXNdl8AnuXu6Xe2pvSZ2AdAi2LrY0vJiYWgJcjwpUyekYzg=w160",
+        "#0127",
+        "#825DAD"
+    ],
+    [
+        "Tear",
+        "Hero",
+        "https://lh3.googleusercontent.com/R1iHeDI85DBpV5qDPy1nPa6PX2FYwG9gBkcVvv9AAtA6nOY3P6mn7ym7aAOUXerA6c6vXWfth4QB4p-pYhi1vu7qkJ5f6D92m7sp=w160",
+        "#0187",
+        "#f0d39b"
+    ],
+    [
+        "Stan",
+        "True Flame",
+        "https://lh3.googleusercontent.com/23hI5PEQ7m91H16qFC8fCw1WWyiY3aRLard7FBoIoOsx4TWhdfz0yOwbn929lFtfIYek3A4t5aGLUD0h9rhSIiJbyKzd1q_iOLAiCbE=w160",
+        "#0191",
+        "#70D170"
+    ],
+    [
+        "Siren",
         "Cosmic",
-        "https://lh3.googleusercontent.com/fife/AAWUweVVAsPod3ZTydt9oLADykwQ1w8MBe0r1W7CAJitoPd1Ca-D8d2mM6EIkIMy9CCi_JRciVAip4z8ftx6qvA344t5641HQDfRXNCbZgYO7UBk95T40c8GYB0DOICJqLyIecjJ0_J416OSuUOwbgwV_-Hdyx4fdp-saRQT7y-4RsGkmHub4ObQoJrwuceVhs4ak1pNKRVgnRXUNvsjQHyMQWNpbWQINH0xK1N1b_ML6FR6aC3zpZmlJZfx_oBabWVtLHwaxsbumxYw_2S8dQIM9riosxzdP0Csm4PjN3XIK_6AuuNSbRshSfVKqowVby1H-k7Pjf_Y-rLMGwmVWAimSWxk_kdryOY2K18oefc95SpaUSLWtOScJRz4U2f-iva9sRiodf3Rrh85meoy8GpxeUGEW-KCwtjNsZIXCZF3nLJOL2Jvl7EUgoWUB8WSmF6RLgGOkaMSyFwrUxsaXPRxaIl5WP7IJaHyZlP88MZjm3-t01C2FE5eguxWaNbpmHeA9Dh0DRrRcdhavMLTCebF6QVyNcDdAeEHBLx-e03Vsp860zQNeqadB0tHfW-ZaH4Z3_byQnCh-wNSaRsQ6SPyvpAMsFYjbzdJ0eA07WdQXutJ2gTmO6OplWHKoEnTn8vDgs6nmCoc-zPCl2xZqGQRMoKSitf75xFQ7gGDQbSZgOzvjLbxHC7DQ9EfJBhCS1TBNYmxClwL6EsfyqLbUoABPbZw8HxOCOFnq-7e4jSePe6_Ti0WFhN7AADZwOivmY91G0j46Ayy_bYJ4w7GmKszbPhdk1foTXcz7Oxn3L7Pcxb0v7HlnrYjWYp79Zrj5hG0lVqVvBiK_w0Za9Iw2ETstE42Z2TRWoD-2s_CRFw2jFA3juLc-QkdLtlDFN1kYnbyxSbu7ZPY01oNpYA-HhC4sgvYTK-wHElIEM5L97cpddDGxIN5KH6J6Ff5D3XZ9t4ZFm8-DtfS-pRfPgIvsZPF1tgVcqUvNXkdgyVof-LtujDsBv0I4nNr4pSkRKuwIZPSuKwLPBgBZyI1qQsKzlahRMDlkX0Wf6Gz-08b4TI6QhwfXzKExcxvZX408X84QyGi9O6G5Wu5VevJcJa_3Q4QZj44KX_Z7WfPG0HuiIXLi09I29nqHP24gXj2GTRMC45RVq1lcr1fDg8cUNiTfhvDFy-326RSQkT8uxU3tpjRD6xncc4rJa7HwRO2X072Q-EH_dl3ua-dYEoH5nZ4tCe-E69vW0xqpuGffOo_8zx4NfXe8385TJ-OWIO-MgHDQ9DhJXuRefJDHAgFI1Em0EMzGnU01tW0otJwAUb1CMh1bjKjup8=w160",
-        "#0229",
-        "#3c456c"
+        "https://lh3.googleusercontent.com/fife/AAWUweV89Q_u2MuyP-iSohqhZ5_RBXwpmWPsEhYsRn7Q_UtV9MrjI-JFk7gS2ujwhdXe-yBw6deI8UtauJ2L95xF91zm0DADGP9ND8EdcZqMFfq4Fo9ZYG0tPw89U2UunUvQMrWw6J2-dJ6krnP-rfU66hd1JPTShSIt2dvfY2ymnAT49QtNijMOZyKI7bleWnbdhOZw6vmEvQ5sLBuWvK_Sb8Ez7v1mzh-qoZgRo4pt2QZpYOeY26eQjxts-Qs3g4V_t_Vtj10LzpQCVAs701SSEwBwi-5Ifq_A2tvj16HYXM7svrr3da7dY7xTZT0FLqOermN_kBH86PnY8h68JAVgDEs7ZkUD4_JeJQ9GSDxVTPG0HzSQFenIWBPcSGGg42Y_ocf6P8_yf_hH1Oji-L54KNp5HglwFEQUfaGflK2luH_yUYMNs8xlWk9eli3VdNNTcmQ00Nzi2FWYgREX6UHk-SxdPNxsNYT-M5t_SGWCAHRKN35bqhqP8s4bExaxHEAa3sw0S3A0oRcG-O3WFVPg7h6Zbi8hTTb_ORkoAcynkRh_L4hux1VBKw5JLXnFpftYkdjO-ITPOwySFOFgRYwxJ1gsxSTwN7vDJX5AUFQU4SfUenL_H8JPvK_l2SaJnvm1bKktmBsYwwNNiG6JXS1D4GpMTFyT6uPDR7kMi0eSl6wIyacryYnLqp9SQ6AAJ5FKFWJoOLuCG-ZzrDcEe_MCrvjlvj-AKZdkUiOn7FlWaqtXwjDC1X5ta2RQ6CCTtJM-EzFchaJQ1V9gYdtnufDLxqZBbYpGUaI3fT5veTeTJII7Bjxd1WiFh7ogpFK7xmrk6dxpNYnAh10_kqWTY4BICol7XqeULGMtG2WKsxj0S0ufYtocIOwGvLTq3I-BIGmJR6ET-yNQuuLrvMMm4HCKF7mYWRj9dh1YKrdVTewU3R2d8AHw2ss1E_RoAhvihO-Ql53NZ8_5m8nt1i89YWid0VyF2Qp3L8cnyxHD5sQEYS_kCTLdkJDvZMr1Pp0c2uIga-woqZg4b6jwWKBilBFSn7CqrQRio9bgCwUocdrCrAFaz6a7TUSNSUU-il3a7HTOj1dMdFXfmDrrhmTqT0Ni9TwmdHrh8oViXHbmBY1pRleZ7gSaN6wPj9k8bExqzqvYpyYk3ZsX4UvzB4lwTnqRDkJKO1RIs59Xt11e6cOe-XTeAYU_cuq6LTLxiqGy1yioPC5H36pj2Pbxdcqknalfg6xCnUeYvImoxPL2wvhLBJFdo1Zou7cqi7KG4FY0C_LzA-HXhY5LJcVVC_giWl_W_lxpMINLfSlwQgKmbTJ0_JlM9BU=w160",
+        "#0205",
+        "#C18EFF"
+    ],
+    [
+        "Starcatchers",
+        "Honorary",
+        "https://lh3.googleusercontent.com/1paxNLyxoHUQlniaLQm475I45tpQ0_KrG8uc_OKuwhSS7nxwv7ckA1PsqRLc1cdTAUveWQVolOs1QmK4nc67yimy1xWwu-zmPhOp3A=w160",
+        "#0240",
+        "#FFD50F"
+    ],
+    [
+        "Starcatchers",
+        "Honorary",
+        "https://lh3.googleusercontent.com/es8akDM2QwiH-TmNZSm1WiWz0uBtMvT4pplBTA-N9ELCdGmAD_jvydwGP6jW_qNX5TfPiczVjAZrx6cCBSmAs7NGYYzyTW7Swb4MTg=w160",
+        "#0241",
+        "#5FAF84"
     ],
     [
         "",
         "Honorary",
-        "https://lh3.googleusercontent.com/pFA6O9JL6NXMuhPW62KcgVzQgN5mW-LfzSkqDX8-Cy2fSCU3rpQW5lGFTky6tsh6-W5_uBSJvUxqeTJyAr9ej8u4_6NXWHk3h7ecKw=w160",
-        "#0252",
-        "#38cd7e"
+        "https://lh3.googleusercontent.com/nrAgrNLiOMnuN2f0HLHPuHhC-KYy6ZhfkmqtYi4IR3S4R3kFF53xunCy8cLl3IcKxRGdXACJR-aGMKJSFYuInHpIhDgnkY_lOCWklA=w160",
+        "#0271",
+        "#f0d34d"
     ],
     [
-        "Shroom",
-        "Cosmic",
-        "https://lh3.googleusercontent.com/fife/AAWUweW7cNHB3z17N9Kx8RaW7sj2jUfzptebr0_s_JmplsoxNdilmroR3jiYdK_keoHePnbCQyeJFiQQbNlmA878kAa5ybKhELObx24nygY2XZQaxXTNhLobC9wKeyAgc0sVqlDkCei4_rB2WSV8mXeVDVeEanuEYva5pzYYvkC1lj_SZmaxLhzv4PXZX3FSZQSev88hC7_VVnuj-hCioyGIEHl6UI2nIwoB2HqCOLXecwgZNOXNG55MXTCbKR6fqFdjoN5z1L2tnL9JLjArUMxKPx4jO6o8E-vuNhHiFMRlA3uqq1MjM_-AJFoXqRpxRpPElUE7iZ5Ep0TgLRItnWWAbAFcz0BiBiNkTtVqSPTeBpquEuwoFpvrmx8Ljxbzbe7XAwfvSgNFSi0qIP789Z5xCU1ukPZ6mbdmYnR-YMjHhlHmMieNsN6cE53pco0k0neVqF_uzGtp6iJxRslVWnlrq_cB1UDHGimw6LOxAq1S7-oEwqOnq-U8JVu96Sc-95sZUwlbhMZkvnIBm8b54nlg8cqFPkQI2s_JnR-1iXNzYT1xYtS21u2sEjzAg-tK68JPOH7kOp0quwmXvXJnzkWrPbgxLClpkpIHkTyUxpTsWSiyCnHJqTUOwMCZMm4DMvhbK10M56xRVCZSSp6Bc1GaYhsrISAKYLlWGIjdNE-XL3dtQBcjZpVgSxXwscq6MuCNnrnN46B8bFaA2vDk51IDVPb1uR12BI79ypBwudobUdFiiI61aC7wp3Rm-NmsLr92wIyhOEbjt3nqU1As2PavPYBnLPxyCZ4umPigUyFtORasXaPiRvVEv-aDr1UtYtgu5itHpnc_K1xcWQEnr08Wgw07uBdFQfVz5U12KHyzbUr9tcczYY9VowGzBOsiGaRlnM9xtUHEOGawua5U_sM3vnjRVmrb4qIB3HXI8cryoQMrT3AXbjj7t2dP3AZzE7XfkVUa1LdmKnipsKyLwyc_K4qhx0E-pmj-OlCdRcG8-rpJ_ho7fzGOuFXh4gZnRrjEqe9cS4wr_uMc_CneLGAXYMaruJMR8_wXLAQ42mynPcNG7KOD0hqSnswq6U0PSe-85Tyc6bxjY48R6YaHHZlkw1Tb5id7UcNjtzVpLsTPK4Idal-9zWUxXVZHiJNcDybd7lQfCmFmq5KE5DBG3_UthJY_RcxhOb0mq0GFcMPEcuWkh_DQPi2T-k88hQXEyVqoF-ikuUl7sk5hVRB88QsOZ4ouYwhbWah6Bnx_a9b0rzTjJErqR2MrCjtTRcRrfvOtS2pwDGdy93IFiueO1f8ZFPhbk6DlIa4ObxnPtdic8f_OUFg=w160",
-        "#0254",
-        "#FF84B8"
+        "Scar",
+        "Villain",
+        "https://lh3.googleusercontent.com/lnmMJtHw6-46FeC3QinY4V9Js_sCeZNi8yu4rRRB7JAeEaHXnCwAMWwkrORHQ1S0_zo_b8ZKiDlLNIaMepe9ckHW85DcXwFdYTR9eA=w160",
+        "#0274",
+        "#F3595B"
     ],
     [
-        "Rabbit",
-        "Cosmic, Animal",
-        "https://lh3.googleusercontent.com/fife/AAWUweUrcm2RKqoNqeJlEi_dTlCMuTaf1tbLQXqZTmlVnhBOubmOhRPyjJ689gZoYsl0A9eGThWUHfRYrHuQDx_p6E1ljQ9mHrqQcqOQto7pWytgH2hafUhzMyW6p7uVB1xZIXBR9oVyp-Enr3uAHg5uGjt9s5qmFqs-uZjA3oil3JRQf0p7pAOXM6TfTuaaZ6qYHLESklxjD_0qsEDSYPJhVh2HPzaPrguI8r5NjsKtQ0D6MZQrGB9bt-sGUNO1DSbZsH_1fm-c6jZuXS4VIvsREGZFBQuAadeUgyTYWA9huHEPmdgqyqCmmOD1v-NjseOf3vyJQVxR5tfz8ymp1W7DJY7adyzMIQWWsXG0nw5wcfslb-1aTbem6k7X56OH3q-KlHHGDdTaGvZStEn17Q317YRFAVbNPzzAYcQOA9DA8ghnNnf2afcFxmZMV04OMeKu8_Q73LQEqVTrz_UYYa5QeH4JTw3EhWSWOZm4JEYAcrZyVBnuEmvRMI6x-0vufgUc8jX_w9KE9zivA6fG7F8s2pIG18U9-KOZjbccCf1UCU6CXALo4y5CjBLXm2b9mTVjFpUwzBlneDK08O3sXy9iw40FwaDWha-b5v6hA9TFTTv15eMQOUhw3OJgYL0PQR9VS_a6OVFcopYj9wymy_WGy6wzSD_pLa42BOYdFIXizpXYIU1tuJKpHCGMkeyzSutjSmWQlyK-V8-cU-K1vKSdbwL4qmBn7h0P2Byuts4pTJFUp1HnuA9WdRf7JpB89SirvaiNOtlb1ajYk6_hYWSBYxHo76XgjI39KH3VqVv2Rpge3HYiR5DwAOytcvbIuUrQLVPxxET5zOODOfoLOO-bx1hWzXDNWkJVIrDP8ii0dJ5ex6LVU6kZUW4AKYDl9rWYGiLS6BMyPoO0imUnZavOYFsPvYUVfgXeiVjup43_NO2i0eMBq9NKyf2vQcI6O9ZYnzKVe66vsbpfwn9v60tTsb73ytDB7JDSuWYxjTxLHa8d0yFjDCcOpC4In71QzjX2UY5ki2_tSrmuvTxI3wL53kx0wudrIPcYyqXgvSaLDIpdtNAk5f0hQm-CGLdvyt1fvVa7ZPvYxsRqWIYvq1NzHBeeeLxezrrwsY6U5f3rbsUBqG5S-07-H346zNPISV8UfnR_Sgkl17qR9M9AdbWJV71p3mM2PYUhO1roPrUI_p68LRsahBoeAOM0qQWCM3Y1qu1Rng8_ahKEuPTlYmEJe7P2Nx9GFKl_W88WokkDOrFLv2FvklrXr_7osQN_dFCZVu3af5nCEnlVYJBgNTZzKAQNDLjmvdO0YtbIsEtLNnlmUQ8=w160",
-        "#0261",
-        "#FF7DB5"
+        "Lamb",
+        "Animal",
+        "https://lh3.googleusercontent.com/nW1hXvYJUGyyv-PcCYX3Z9g7KDYgBd1E4_n1kYA8ncWCX92XPaXUGtoMtxnX4VovVTzj6lp69OutpsIKrdM9-PlTDscamULBS1LdatQ=w160",
+        "#0281",
+        "#EBE5FF"
     ],
     [
-        "Venom",
-        "Cosmic",
-        "https://lh3.googleusercontent.com/fife/AAWUweVsXL1fT-hfvpNeEqistv_ZR8pN60eEZQWeokJQ4pZOsC253JtyGI_CpqIWgjs5p0_LI7OHjWTnXy0mEP8HEDiK_yM2lLk97JU-XCt_5BZf1m78fpeEhgK3HJKbl0vah9me5z8McF_xANG5-Pxl68dZvUz4F3ev7c_ZFmg5r2DHCATCP5g6M5xuiEla8QVSIQy6jr_o_aGEIH4Pkldhn7LqKOWS4mudc2nX_4sTMEsDduKKzP29Kqwst2wm95snD52b6uw8-SwDdJHzQrUcEvtJ88TDzQtqmnF9Ayo3vkpW6NxquxNgZqaL3mfeWl81xiOpcjXjDMNUH0dDrP4luZ1ydIa7RpikopAy-UKqjZgl7X64-hMNX2JFuMXPaIr4etF_PgqAkx3_qRhO7Vb4ekpOAYxwieDkPW1jxnmm4b_NnOAOD2_9gzsGxcZVZxrCvixP7pI_f7VkKIR6Ch45B7CTZM5s0eBDF-fc6-DSBA_NZRAsZX26Q5E1amAZzjDKsbKda5qn4e-NQRvynwvq9v5Hu0JX7ECg4IgVMNeabxfIYfcMfRVnfnU9ER4lh_FftqghJdnbvyLqqxW3YxAPB7jNxx_rxS78lUmJPuctIld5Ke870zLFaAeMMUNwodaUsBTUJL69Cp_Zs1olrnR0IMSoVfAJfNlG6MSXi21HChhRiqOJkKAoVTYeamJvoFK64xhRy32qkhNkiW2EqX2MUEfKrBN7zbwSXxWPJGUcLdRtatOrb4IVbkcUkxX5UDoONBP59ArhYx5Szd7EOzrpzyDf9iYjFIpRPP2Qkq9gHP5t8Uzm9HrwQibAhYRyYC_706MJFxhUxX-H8lHcwNJ4LYmP2LsiaB8z8owMGp_NGno7STRo51e2fQfa-sPKDpGjWBK8fLrgPRr3NmUhvYb_mVBnoFb8hmuute1rO67kZEtKX6ROnudM8mITCrk9RiNOXiRqT5qf9roJ5qYpet8cJuUqK3AIMYLWQ5LAiRt20X7i5PhBhVZcckVctRI2Bav831Md-8JfZsY0ZJsDtNHNJZr9D1TsYbntPW9tOA6NWT0p7pp8D8V0nv3-iz5-mhoZkEw8q1VY-0ydJa35aKb5weGMu6FPI9dljbWMPA1yrpquI_oOALeIh5RuXEFzJHWXxo8B-NFf-MOUU0yJxQIJXVuqWImDpa4ARIHMklZtKi8ISY8FzCcipyiHJnaKRBsHb3h4LQ6gBQkOSshW6IO8IEz8lhGsUL2Cir0Vbrgj93pjbXuaEcNZn18qdKElepsZbkGVOkXiu9jAdoMTAe9mCQbLEwaKzDII31F6HTXnDjdLXx0=w160",
-        "#0264",
-        "#85c4a3"
+        "Kappa",
+        "Hero",
+        "https://lh3.googleusercontent.com/8z4azvmypeApbcheZTKUltt3Wm7s1LEAxCdl_K-2zkQtVh3jvE-W1zfx6SbC8GGxaTD4R8K-cUlsWiehLprG2zkw2JVM5M-xtsdCU6E=w160",
+        "#0287",
+        "#B4E297"
     ],
     [
-        "Neko",
-        "Cosmic, Animal",
-        "https://lh3.googleusercontent.com/fife/AAWUweVACB1JrMTNLAPSr8riNbXrp3gF8ING0UcgbcAYINj74cp64Bv6-HrntvaCElVhLX3sqzngNX3NvQUpJ28dvzQCXnJbO5NpHDL5Yu_EbcU27D51AzP9J-6O7BXnOcfxa2nvYEwwFqQEyKDfXSX6hRKH1lPMhxYeaoh2uER4s7yYtGMRx_2_BPr5qPiXJSNFwzD7oQaslbb2qsVLuwvJz5pOtU9QgLrbOYu46FIGsNMUI0wd7RQ1d2WqS_-dJwegBRWRCXZ7Ho8NQFJ-bbeVAFN0WEXMaSHFelxwctMSgqDUrg3iARDWoDYSnAZLinqnoN0e8zwNFCk1oYtaBAj3cYVDmvrdRTKcoQ7UUCQcIw55L39J-vcgqkhnQkeYxlqhKRfrOEalCaoK6Pt9AEV7hi0aQG-PWD4g9YzN7YoIiOmKZ0tYQXiPkU1yivWJU66R7Z4RPwlynITj8hVfPxZxOUSGT9m8IGTNqgc3euuucBusNmrKB0QUV-Y1lp-wZuurpxePcRilZAIBVodMDgPzUKgmJw5ynzByvklyb4zlX0v7veGCRJov2zCawCgIFTEDcCsGQVPUnpOM2rMx8HK8zlJKRKDGpq587gWuJxIVt3deyO5Tm94AdctK-DSKN3Hm3RnsgipG98NCW0-HxYrHlLLEUP3d27OiTVpGiKvY4uUrq2FkrjZddLVb-IU78FaviC5cTwYCf47dcIj2MVgcEK7OjgBm1fCOk_K39qQT1-UElXPW8J18ZWGPE1Q2yPvJuQcCL9L__e-Cyef7mLDQeK6ykTVbQKXDaxoEJIToZdHPWlanOrdGIL2j7VcHk50XeS9-Akqcm3aupsvq0t-v7bPW-tbGggSOeocY5-ZWozMLUsf0SMO7IlQn8eKKi-OwBr0vOcg9_wtgG4syH10kYT1G9wgys95OstkXDWeli5ucPszoFW-qvcn2aD9xxr7kLu_JvDccOoiSq9i0gmpsUdQAuBgwCNudSCECSZKNWjJ8XbXDKo97IaNK9YdrPG94OzduRfcEc6ZMHdiLuiHMF_cfGu6YSS0QR9lDM9GbvZZLENX7Tk3QGAc26uIZUFRSyZVZRHuo1w6j7zDMyreR2e8G65EFKeG4PmvO-QBYDBCGp7LWs55gvYaA3XMUmmcWJvgaD97nwcxTngPrSMC2qLS_92SZzrXlSgwJdVBF7IX-zxVNtFWS1-ByA4PLsAd22nfGiiTHTm-xKVXniju1K2rIfVFi7gAmN4ZyJRysY7Ahy2dpULVLJnGeSBJudS5370XoujKPIvl_kKhkgsNGYmmiWJPC-6PJchi7a5jcF7r9Hcc=w160",
-        "#0318",
-        "#FC986D"
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/SsxDN1aj6B6mjdrqWm_f2D7niBFcByqOQWXd3YSxzXjadwaLaHzMUTR4yPPURwUTQuRSlFT9znygPX1RyUUT0x_zktiyfsii3OHw=w160",
+        "#0289",
+        "#4E4E4E"
     ],
     [
-        "Hulking",
-        "Cosmic",
-        "https://lh3.googleusercontent.com/fife/AAWUweXFKijWd2eNfsx2gsWXwNjc_RA0WApRmkzn7sBbux9ui7v-zzHAKAXmjfWV-arjnl0llKXgS5UC7TWhhHN6HU7Ori_mrjtSwQG4aoZfMuaEu2dFaWleQhte3cGhJU6axlALiW8L01HhoUAOf4nnthgt-4RqDwGywemyDzzXEwI3Q7SOGT0E_wHw3nSTYwued6hpcspsuyAnMWC7l4ciyTgQKmGG84sjXs6eDUe_0TP0QCqLafFaQBTR5nIJhOXLHAXW5YWiertE8PvtPmBZzO1d6kj0zA6TGNHB29zI3Ym-2fXkzyOwUOtuGuA4rdg5zLTTgWpoguPn95uyLTAzxNi0kw674eF4NadY1b7DIVNspvmtee_WGFmHkvl4UpcOoUdSU2tvt-GytEhwHMnBOpRVszDc4SMpoOtEDRa4VLWlOJPFy9lTdx6xSlzUABkyWw43O-fv1FnBjGqY20otXIsOIEVcpbDkCBP-jYziOTjUPJqCdkZBDkli2ReNvmslzVbth6H05x5qkttFOJfdgAcFRJctuYFCrLsVzAJHQM-hkmnv6ucbATqGF7_vQfrnnpm92-ozPfwq3nNaYzDEl6k-2SY0VFNPCfnClCWP7Apthe7BdOugv6ICnSzFaUfuRSoOfGXX96QWvm0_aauEl7IGEeeebO_s3aY30L_IOXW7cVk1d-gfllkwwvFNBlj2ZxoKkjs4D-FuMK2rHv8DL6PxHeiFUNuZrOOAZpqrwGIj7npxirsrY4mgTX2Thjv8MOS9veZhhwQtKyBNNApwGQ89jyYPCEdgAtbWGzoG_s28bRruX2Yr4SXX9il0y-EcPil5n9CnipkK-J--JfvCvT1Biv9tjj8dY3RJRD2UMsp00UcK8-RoS5ayiiyg3T7qTJtis2F8JfC2d8L6uxnQl2G_s20d1fCbg4_A_D8gjshhdPoN3vyJNk5bZ2UxO2leVsEo2p-Y9StPM5WNN5mjQYUWByg5DJgEfzew8z5VQZdKV7DVwJgDTKbKmeT48CmqBTs3OS5B3WjHn7x3jt4VOjlchm_vZYFtP3HqZMZbvwNxxDGJwHdIjyR49Nq9ojRp-rD9EETWPzKlrEFmef9KqOKE1xvI-bthxbNiew2Uh6NbWbnZibPBHmH0btTHhGKjsXCxiGr7qQH_UyBiv8IQUFjelrdTOgpzNWtoSYJcvxZknEWMmjCC7ic0Hv9wsMhI9UlcVUcGNGVcIvcVOIOxZTGYg_2YjTThZCy_vPK5z-eqw5Th-21S_Gp_j2k5z8hggQBr7sbopQgKnhnoIaOOlfduLdLbAFOaOdr2qQAbAlLSFcY=w160",
-        "#0404",
-        "#f3d553"
+        "Goop",
+        "True Flame",
+        "https://lh3.googleusercontent.com/gu9trBs4LZZOFiZOI1q9x-fidtzJue_rqf6_Dd6APZ_tnKO-im7_zi09xZ2PvEQ8u6UQq9T94AazWk6wlFXW1aa3GZOq2UbSSHVZc2M=w160",
+        "#0293",
+        "#86CC91"
+    ],
+    [
+        "",
+        "Anomaly",
+        "https://lh3.googleusercontent.com/ayIg763A-LrkF1Ss4BOWDcBX7fw3_BjGA-_rMafSfMXp2KCfAVdCgn89hvxS70HRnYcQpDtDJKrN4wtDB5UC-_wIle8MToIpTQCxDg=w160",
+        "#0332",
+        "#FF8B8B"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/GHZ5Pw_14NilABwomEHeTKKL8KN1ZF4gngltuFY7giTdDT4uHjrygu7fIgbFGAWpuqnfa52d1n6ZV25sqqZYZ-MG4Js4sXuqIFsv=w160",
+        "#0393",
+        "#7E8CC2"
     ],
     [
         "Beads",
         "Cosmic",
         "https://lh3.googleusercontent.com/fife/AAWUweV3a4WzgDF2H4qppE_sDZFjDg93WJVlSQ8fuaZ-OMGWjHsC8991O_-zYIexGW0zof-4k5EmFkZDscm-FXlK4gEf__yQMsuOVI1FiE76YYSIgCSJ2WIPE0KIjMJ8DpvvLojQgw92DdG2ZWU6LAJXtJwwnNhs9KYstJ3chdQL_A5BV8gdpCqNHk9MNVxNlF_nsj-wpjCwWEh29n4YDiPSfS0dnfPinY2DbfM_sjhQP40LtPV4tcbczpclfvpK-0Mb8h-o6gE2dPT-8r6s5VmswVGLjNmvCP6wo-qgVQ0YeGjNgjOEow4HIEiQ21P7xhJSfxJ2efmvJd3hdwcm9qhMyF99tLGZ33ImojRJm4ryNC_C7XydQt5YnyDtHHobSFCW_bl2HYcg7EJk750MyfPoZXzDNfporhLLdFiqxrEMyAB4Er-BYCYVfxCgA4pXXet5p0TkegEq6-H2drxis0mvxnQp8_zIPmKhQ2bqNyTOERBQMEE6t_HQfR69VhGXfJVWZFA4spuoQa_dwh90vxumny3T65KVTFVj6zrn2xNO0GLrWQlfeRB5Ty1eBsmr3JClCsSdrcgmG5lKcxud038WmRkU8waKNWbApD2v1SFZXr1tMXd5KWeMirV0o-fobxlALAco7S5yiiN5z_3KoigM183NRy-yctjdB93_Gtuu-ydcUds3j0RF0QRniFiI9cTclNgXNmcQLKk5CLZBXUcWfU7iF5cYgmcCs4IkVEfQ0oPqUir1WuV2CFt4tahmITzJATorF_tjBSJD12Z8z8-xm0tdNCC6sg9F0HpAeM_NM20tLKdbTeNzvnL3ezGJYXOiQyn_g9QBJdv77XALUsMtugbGzk7V1PljCCSbX1UPgoJRWnTBZLruYMhNoRvScSWESPpCvsRVfot1G-duztGF-zWKnnoVB4EJ6Sw5cbG22bXTDoZTaXMR0Wx8NbygD9iqeNsURjrcPt2195KrEDpfkcJh1CNIl_fwlAiTNxE7k7ym-qtv6cfFUm3gvZ9jIrcTTNX0ylZpSKJPaHlfbyymECdGEmH1I-GF6Anp56UwqBoPYNtppKQyFAkPaX51a5QlRNUG7-QKQXeUJzvpF55j4EQ6zvidTdk3wNM6u_5DGn62x07qAY7b3NJi8UibbHu5bX0Sn0EHS8ZUx5ImqMThPvAuZ6jDZCFvbZ-vhQ7sc1xWCfonE7Xn4_CjGJihjHqpBjUYUW5raRP1vuh9a7wn8GREkZiK8UYZiVWDTADcAtIswH-uMOLTlUo-FWX9mGUnUs3RcDKxQ0gIw1hLB1NyFi_TpSDW3OrqLMSQrktyZ88gmpQ=w160",
-        "#0411",
+        "#0432",
         "#FFCCD9"
-    ],
-    [
-        "Cloud",
-        "Cosmic",
-        "https://lh3.googleusercontent.com/fife/AAWUweXOpUqJMncRfYxKBWjFjNfLpahujKY2SY5zar2ZviaL_w8C3TRIR8vmFesNLa902RqNHUhhu9qWZn0KW6vxUJJemvMnaFQLRnqcZmoDHyxyJULKS616Iydt3yc8z-Fu2hS0AXySq_f9WhRpclN7cn20DFpAN_IMTb96pV-770CIlrxRQmTvIhzTmgbN2YJtmByQvMLTyRZlZHfX3dskcKKC3Y6UF9CwJ57d6H8VqTlJCfJKl0PAH75IbPmLk3ovLxdBZbMeW2V6LmZoJv8QDXw1u-Bhdi7FiStHBLtjjbvgwYcMdISb6uMvHM4J0LSyHoHlpKyVMWL8z9jDiTGt17HonmgnsTGxMSye44GcAq3FEQX8CzjbrWLpE5kcu2x1Ts8ElDfitg1Wlq9qtpb_g3dzka2Xw3EWIGFVlNS6xSO0M-3bfAbub4EibZf3ojy4YZSd-6shllAY0H1p3CQn7P9226RXrIabI7LeZWHBMvUxlb0F8WzDMHDbKcTMUx7ikG45z9pOml1TJv3n-fdkVHPicyZKc6HRxvF4EyuQsfE4FddZvqQl2Kuc0GOXTZEhV2iOjI-8LdVB1DVLk57cQeaapTSDEWFDxDxAhrLZ0wzk87TH-t8DfA2R_CnS5HIXgANf5XjgbCCWqbsKYLtyb-jyUZpFWzQoK-m4i9fER9G0bf8g0v2XzZnueu6zPUIYLlg-Pb-3WVw9rBTmiQrYOD-OtXzdRzVI6PeKRbbzyFITbo439u243eF-DEbpNBittgUUpKDk3tgoGykaFDPOmMP_AW8NRB56YYQdyM7zwKZCcxclG7dyXfnMTXFQT4Yn7Tz_m2yMtf3iSpit1KJzNyi0iiGgpI-DH2yU0H0uPGECJINXhGkoxIy4uAoyV5vmZjJJUDSn1H74WoYYtQnqi3-VDGIsy1zDLsAy6sQSySgsIi1zi83w4tkgietwyjRSg6me3PL555lq52418x5Gx4dzbkzc5LRsm6f-p6r6yDrm45pYzGVrkLSKartCmZgFo-WkgxjXAVqYEkcgWIAbJ2AWsYEcQN5VWnbt2G76sutBGOSOib5x-vSkLrdBnymFylME6h9NzggzmVOxka88LzGvd9xPWUJVZswuRhNj3zaYkvLDz-3hMt9RdT9kfX6oa950A1P2knIyx5w-zfRdEq5CAB5PYWVWVMKDP1xWzXqX-6FkSEMQOnehchxfaIBzD9l-XzzhpXRv_sBJE7vE2l1GIhBTMwfdffYbmBl8sYWS-OXTFFiCjp97jF4NNrug11UJ-GNmX-WuyVZhoLI--wXAbLPQwu3GVx_qCD6jvyA994s=w160",
-        "#0477",
-        "#bbe6f1"
-    ],
-    [
-        "Planetoid",
-        "Cosmic",
-        "https://lh3.googleusercontent.com/fife/AAWUweVb-jW8au3vo4s0O1KNghjnUMBEVkeQBTIZ-3bCpBBI6SYhRXyiS-pI9XYy3q0k25IaDlRKihZFOWP7EH3GpwmjIv3h7rc-ONBrVtb9F4ikpnR6spfFFM1BNVJKqxOglrBJuBNSAPNIGziV8-mbGKugy_TyNrXoJDUEGnCUgtQD_J8Gkx9Zq1FoxGlfharuBNjq-pfVpslDgONlBMyCNjFZ_nq77cABAoFA2e0UhUl5KSfveiL58AaM-VyeDQdRdZz2-agyycwwayninbuuPPik5ARzuqHwmEoH_vLtHIlLZUMUbK9C6XZ8OkPwqVjnL15Od70E1OUyhxVqFuwCj8O7KyjSJL9nNw7U1P1uqC-oXInMBuxvoehPZmrbTqWmOmC-zjAFX2vysUtSzw4ZHaqY77NhbCVKx53gppO6F6loYrylPddgWgML8uw2tOOzxmffS2TDhKf2FJ4-Mji23xdStXUIbAh275EfsVNRbGilF47zYOvqRxt1wyO0IsVvGTcz_G7sMJvVl9C985aNH2XK_Tb9EP9ytAW4XbrTkR4YuSY3XISmzL5Azs4Ccf6f-XioC0iGG0b0g1s3ZTGhYJeP_xC-pCEMghDehO-jwmLogoEL6idbX348WgADmims86sUSb8r0S5PgjIJ3vrDHQrGn3movSv9q41NcowGkE797wqiAng9kk1i9jiyodqni5A3F2p4nVQ0hEv2Vk7TWXSbGsHGE_KJ1NI9RYEEckO6s_pesU1o1-yqTW0ZC6bu7LpATlm9Ht5KZPx8jNocR_Br9x-j-Y3MXemlz5tG6JFzSsy5dLlFsXCSUpW77ZOMKBbZ4pYH7greNRCJOIBA5BvqLDxvUii5Kk5vcPyiwXmgWUQSF40Uxy9T_hGH1pEkx4kBnouT16VpKv7lGb-JVijMq8N1xrn6okiUKYHe12mR0PWFenFjEk6YoJaSbrPMrE2xDVDKSYOUBtDGCDnRW695l8_Lihy1ADhmolMPfXwWl0MUnO2QNwQaqrFwy_owXEiwU-FM6YIwnOEMGYOT4uPItK9jG_927wBAp1gNIURVvQ-A6kbzSowPcrcCaUMZ7lRyGf5Y_Q4jqByF-roJS6xk2Cn7S0WQVWFoCCt9_jKY_HmurM9kZ0qtt8KPOFM7XnF_DRf8zooBLzdPNI-nOwXMC32uzvwdS6Y6_JA4C-iOn1q95XtyqiNw1JpswLz6zWs9EUWBlV2WD5BkMDcROrFfDCJxfy5FSXlEAuxXFpAf12gtxLyI8lSEYWC0KNz95UB_naH5h2E7m2HB16Vgwwtf9ZwJEn6dtd9Pj6By-t20nTI=w160",
-        "#0486",
-        "#FF7F5C"
-    ],
-    [
-        "Rowdy",
-        "Cosmic",
-        "https://lh3.googleusercontent.com/fife/AAWUweXXMRomQeYMERc2L8NUPZ_U701K0Wm0dBUmritB2lxrctnTmDG1_P_l6eF6EJGovUZkJ9Xnic2dXDLbsZ_T1UXZwWbc64PkhPfszsZ-NIpAS6jdpSGSO5mmwymGKjp717XNVqmRHHJ_idgnE0j7PkWfgQ25VvPnf_yyw2UxxRzr2HI0Wg6skqlPIxRG_pI41uWjE5eUWlzx3ujZRvtDt4GxEZ2CIdXVOBUl1RSIEXU-HkWg6JJO5NMurdkNGuXVvQ5lwfosJMNuFAn1HCWU9NKuIFD30DPbqMUsL9O_DZC16kcJfYLIns1Fy0BbkMV0JtM1bzL-cO2piC6XHWHX34xRAfykWe3SpVYJZ3mNYG5NFH6DsCByDY_4057RMwG6uFs8GLRTgsl4GSkO_-jxaI90lXRxFdyqQLn22fuw-FLjx5Xqacft6Eb0oTXXd-NagF8NVddeL5ngMI-_xIi0Cx4pPPdQ5VsOOaXLXx0557idz8pDHtxQlWj8zN3ccUUep2CFa8NTPiEtKAh95fMiKwAb4UMRCtHdsyIFh8pugO3B4E7_pnmrJgbIJYis_5sJJNIb7zi_ckEu7QH6Zirdv-z-DpBEu6HQLuTJRRbMx5hThwQnkNzSbuejLewSOI1Wh_63jSvhC5fMTeOv8hpWP8l-p_ShkaZuzkFgEXZGOLyydyNCnLK0J8DPGk7U6I9l-oEKgSSDokeIf2MsMgZB9IvXb1MBKFouGvmd7W16xGH1zG08lR32K8TFBM7be3ZAnp3NdWGjhpCgghESEuiCk5vVNgQ-RqXDLrpkywL2_NcTRAwEBJWzDRFZakpeGp9cNox3hwMmxRuMISzd1lUdUCuRsGBXdKjkKaP9UTvKnIQA8XPQLtJzdFOmzZK-XnfPFvmadHjTmFw3XWMODmIkHeWBkhUsjUQ_vr-JMLBkqppts7G7cplOu_ITEUUnOWLJ-VM0EHhYrmxFdPI7_CnF_z5PoJ_7oiLNQMpP9rjsFm7HwcbA_f7rUiYD7JQeOMvJTD9hNqIFsiDwQU36rZmxhSELpi_So58U2G3Ir042uN3Dtoo-m3mzG4ri0GBCWw8gEUv3H_qhwBUjHbw-V41HMP2WGqkiJHIlhe2VZ2sb0ueKTGLO2n29OF3v-QMqrVdtcUFpaufbbHmQ5j_hFLGIAhR39iBW7a_I_FkFjKPar1WjX-KfivEWCxcciUc8Ap7mOTd8Eq37LNbq0NP1v9QXiNlbv1rrI7nMfUkQGWB7ShDnRTmBwVTJQKOmvTTOkUfS8MsFCYrxCh2Z8weaZMxNMpVu7z6OczoVcOaX9J61Qhey-Eg=w160",
-        "#0545",
-        "#8D63FF"
-    ],
-    [
-        "Neko",
-        "Hero",
-        "https://lh3.googleusercontent.com/5EnI7M1M_AJ2QTLHN_Ku_g-SD_OEigYQPpR59vCoeYn0oL2L-i83gUvnDR7xcfLCW6yTUKyoWO6wPNsqqW4ulES964opfuw_sQ4r=w160",
-        "#0567",
-        "#FFC158"
     ],
     [
         "",
         "Honorary",
-        "https://lh3.googleusercontent.com/uWkpMhqc8ayCcdKPW3jFYvDRX-BlXoLuUNv5bGOXLqj7ev5f5RenuytzU5s5T4FVvHiIxSJI0N2Q5_IU30CyK3jYZ_cCJcPTFKEDmA=w160",
-        "#0597",
-        "#96c1bb"
+        "https://lh3.googleusercontent.com/-BsqKev1ewLVHiAjPeZzm600B7iBthIwZRUl0vrKLzBvpeRG0v0k94a3VVy0jXZw0TX_phX7dZDTTT3LzwUIdKwsF6Ah6sV-5F_i=w160",
+        "#0542",
+        "#343D7E"
     ],
     [
-        "Dragon",
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/_obUle8k11AXSvJ2aOkf2qpxmWRtfd0JIIkXa1NyH4w0nWfCowUTzmwZi-UHjK6ROWW4Rm5HF2pSoDLJUiXrTVb1UBBUPgIRLya0=w160",
+        "#0544",
+        "#FDCA34"
+    ],
+    [
+        "Aura",
+        "True Flame",
+        "https://lh3.googleusercontent.com/Cvpn1miWOYU7VI78vN7fqDwI47zfSX4V_6jmS0X37bllVpCiJsx75WsDZC3WgEAlvyoyQ8fg9eAWnuwFqdT7g_lR2FFEIMhobu64=w160",
+        "#0574",
+        "#97cbe2"
+    ],
+    [
+        "Craw",
         "Cosmic",
-        "https://lh3.googleusercontent.com/fife/AAWUweXB4IwJu8J9CIZBmH1kyXEuVkhP7BH6n2fmPIoIo9a5rHCn1ntfAblDK_G37nrGc6uHOc8C8jtU5nz6n0r9vQk2lQwSnaBfuDlfr7fgL9DXjnrXzRTGNuKec-I57riEDU9LAY4-CtE7VCfVAjey2ouuaBRMpOiJWkstBbFZJay2V5wzQAy8Rid9dwrNE3D8oLnfjV6jruSmHxxvZGDVQm2Ofg8T8Grbyvj7pHRIjG0KU6_DnlbG4i7LBfQdSSGsxAw8HL5Icgn2nXjAFu39FAFC43GkFENMzmBV-WfwvU7CP-RpeH11iDqTBSGSK6Q4Vd__otBXznLfOdWYDY9y93Bh-FNEJIXXw2shnZZTSFrcsGlHMuj1v83tyzXXmPw4Ef4QI2ZDFYrcR0G3YbuwuwzVP0g2EPgaoew7VZ_a4i4VFUbB6JD72ySub8QtdieALuGd9rifFofmnUxELfv0cpa21W7eduve8Vkv-YBeidKWskHLy-hrBtJ3uibfQrDQzdlC9VD7z3U-P-x5ehMYiOfmMJmANeEhZlnoZN86MzTMze4aZA51q_mnkUCmh2VOprA_EvIyGuTH7IVEtIDwfXtPKrzJuCvPSwfCC_X5WYUHBjAMUp28HJQhnzhy7Xto3Uk4VAo5bls_MIQloRCCqIx4gw9-dKMecHNhTcS6yj3xIykngvFFwBjPznpkjhQ-lPy189bTfcFXlRfmqv2ZkMCEM4M9Acub7HZfyjC2E1BWnJjjkgo9EU9SI-VqhmU8AGi5woT8QsFmQvqcLEOHqHlR8jN0nCjU8IP2ftD2W2rVnRkv5mbFh_eVRIrfc1hcYacdn8h8G0AgZqClHO-aOrhtD7VWSSTtdfpARXgUfILcH8cC31WGCTFhpn4Y9gv8qwklmqMys_T5Upc7Xw_zCvkB_y6vuVl1leqrVoHlmlasYCasnvQLsS73cdRK0-vZOksfIzttggaNL38pe3uR_tEliCbSjAvuqan9fKJjDIiC69dslcdd3fSSVOxC9W9kfme8hLzU5qP9CuSfRhqLpTjLeet4neXC9WIsz0e_aiP1dvp5tU6O1EKMyMTYn3Jy7TZXtlhCN3KdFfCvp03s0G6cn9JcxvL2DZeNtS41sYcK3X9WOmM49sST7rAg7Yl7ZjGQMCVd8d8_d1wpTETGGXzqEGnAH6a8wW_k27D9x5rb0QeCBDuuFMRO2XXl1WH51ukabKTgcq0yqgA-rZpYQF4dKB13-3BJbxasxOUAZvFf2PWL0oKED2AR6sKF76gv51PJd4_BMTUE3WmJJPi6iFiv3Zsee45d4agTMXSzELuW0G8=w160",
-        "#0628",
-        "#7ed6ac"
+        "https://lh3.googleusercontent.com/fife/AAWUweWIW-UNhRBCLRsML7qbURT_9uDOgRAE-bkxJRgE8RS_Y26V6BqVRcKZUzJXgej2DMQ4-PBGJ6IFUPuJ4YINbyVj2EbCwF2ioUSIvrQr_e_pmBZX4WJELibQurBj2JDYWZ2AtDSTAn56ds0FDH247cBzZdSkfln7KtSGD6m9itWKqUhzdNT-oKF1O9gh8K3j5e_Zt8Rrb-gMOjq7f64XgbyBFa822ZKZ2Ax4CAp7yahKhdC-F0a2KAbq6DLpkHkgCKbk5jxu2-DP2BxAPKwfXS-8-V3oXGE_CI4y2ZseJ0Tic0gC2cM_HqbfENwfIABRw4WyXSEK3JSvMtWB_bf6ElVioOs065JkvqjmqSyBoNySRYD4pK0DVS13cmqlNCmjixSbqu4EuqfsDHGUSnyEcwwAGZCjAQ92w6pflT7nh-YuJ3nUJlZ62C418oeEB4Z1ajYwtcFmHju_g0qsEC1l6czHFiWj4pt3a9r-CAQM7k1dxv1ih3D23uNYIxjk2EBQGuxwud361gmg7uZIBYrwLWGW3zGPTb3UaB6pGqtkVUJFYR55io8-Xa12RVAQMMjBmDSUK__guvzcjnoGPYUGICxgAlxLpntLICM4IiypdXqC-LpvGvZqNLgabmT9-B6JYUBsGHdEg25yCVpNC0bf9ugRe_Y29J0dMPg8Risc7ylPLWrdmoo21dOEwTK2Ql5Bf_q6_8BrkZbYJknHNQgzyRdES3FCn3IJd_x8YzVF4TElOLoTbDlqAT9v5IRzunzO16yHV_0jY49pJ2d890pdl6CA1tM5sx0ZP3_PbKYZw_zkTFs_gjve2o2i68bMJHeDQC9_wMefDj-CFwPrAdlnPIXgGfehfSoZO_R_J6CymA0cIRfglNe2JiKNRNzJfYtj-nPgbNNjObV01QIGeHQ-IYrNddXF8oH4dZ1UzBtQE5kpkR5wPULbVrEdiNysc3kyv7Vaz-PhqJcre0olED_sFcTviFF6QfSmu1SlY97h7VW755tAitkW1HFoi-XIbdfPODr9GhM1admrA6yty9vFjKDQO6vOqgmKy6dSeZvyoH-VvrHPPmlGZg0Itezg3LVLQD-atKCrJks2RbtbNxLeibgKTNDo_oUeJu_jYV61KViopWjR3GKvF-_vEX35q_Uzbx1Xh6bIkSggNotB4FjqcS3nbM4gTLb9Hzc8gp9n0ewZPepxryYVdk3xzyFBDchSNIh2qfR4Sox9MZhVklukxUhUHRP0EYyGfXed2HuzHIz5URIwq8BsKXQr9ZK6e64tkISh8vwT82u_gbqf7NQ0YZ87X9yYLGcLjqmFypnriinmjfc=w160",
+        "#0578",
+        "#f17a7b"
     ],
     [
         "Linty",
         "Cosmic",
         "https://lh3.googleusercontent.com/fife/AAWUweU3oTsWtXh5fnXO8WWICebG6Y67rVNvWEi0sRPLUeSSMeZ6IfiJ5Zxj1KgsNV0uO1Y_W0062WkJtu8DIuGjNlV_s9n8MHkJPn_yF6qE-J5nDvFR2RPJ7zp66YFbVdQH5RnkC77hoDnD70VUxpDfERpRPVK0HyMdD2e02DLCckj09OAG-Tb3ozuKZ7zstH2je2FY_EXfXBltBT4TsimIi0SViV3JzJ6Q5VvdiIT03U1O4bxbAyAObYV4te2iO2vz894a87yh7BmK9A4F9x9CdNYTO-Kk9XcHgA7X7VZdOtTNfLkGBOcu0SzbHkWFMe_Hj0FfuFDH7BJl9yFmjDGJYWSDaT4NeLRUe-P3hJACM0LRKw7IWoivkRKbLgjVzL8l3xS5P_HAN8JR-kc-t7Suf4ooelFpgSmhKUH10QD0P3puTNvc3eeSJmxLbL-A_d1l7zPg1mbMwP_zMxZoVwfJYRFIdNyGpN3WxBNEtyEizJt61HuOFLn9mtE57zJER_bfrtkVHfY8HB4NiXtvGF7hTS0Qsoa11UwCedneoeGk_iDsVBQr-V-fhHT2Q3__sxwNWD4XLpB7U7mi_h97nvk7RMjOgYaoP4ty4wX5mQXPOcVnrazHVJtDMFfKIUv1h7TyN3Qzug34J9hH35xMu9x-Ho4JyRvamF9ZhWLLo2l1d9Vk7Bzp7pRvVWD8DHuqP1ICfXs68D2kziksUA44ZsXPWX3GGQALZWE7m6y7X3nL2cVHg9l1kxL4Q1y1KeneEQbbZc-ijvXtupKzSHZsMYtcQ58h1IHti0nzPTIftxuS0zPuKHp5TJbBZ75spkwZGxYNjRZRLKhLDsx56ZYbj7mJqpwL4qtGv2Mjug4X8G94XbfLwXG3H5GLo8yxVrIf8EpYEelrmlHMIF1YSrWAFH4guH6r1HRdOjNcuX4tnFbg83JpIUOqM_0h8lYvBWHqIb5G_9WBlJ-YizpBVKzdfGB1ANBC_MGEQq6oEH5k0B7NTx1_0n8k6dRi9Uu8T3b9PiO_CbSDCgpYoYyx4sZ54CDcljWEHw6almi_ZIaE39sDGwBu0Cb5NvKLXiQRd2Yf3z7MTZWPeJ2WxLoQXJj_42naTKsDtnEODcxLVNcRxWcoSokOq3GYkH9ZCzVkiJyWFQwxzH-Xkae4nGIe7xwqBODjqLEHiHWC59BnMIy593F72gQvpk6EQd9M_oduz7gpp_HjEVxmRTg5vQlJ9IFGCX_xtoqLPIymjXhQsvRarXfz6iCPevZwEZyFb30TDcOGEfl5vPO90FoHsn2Jpfm0sFAEoOpvcMLq6cZAAJUqj_Jxgs98dC0=w160",
-        "#0667",
+        "#0591",
         "#737bf5"
+    ],
+    [
+        "Phoenix Knight",
+        "Clan Lieutenant",
+        "https://lh3.googleusercontent.com/7AFFhGvkZUxdyTusaZiwr7V7SxXBONFDP5weamXMEJ53OK0LS5Vjvl_aiYfNPIS3Rx-zB4m8VleyNRadwPGhIrfwUtmqny4QPToQJg=w160",
+        "#0630",
+        "#e0606a"
+    ],
+    [
+        "Delta",
+        "Hero",
+        "https://lh3.googleusercontent.com/ZwRzzulUgHpdqUI9Q_7xMoxdPYjYeftH6GlQCqVbH_xF8mgiDRfZ4gSUuUK7lGRbp-xTz1CG0OIoUZmYKyybKTXNEx7l9d5nWtfJiA=w160",
+        "#0638",
+        "#FED787"
     ],
     [
         "Astral",
@@ -910,949 +966,830 @@ suits = [
         "#3cc83d"
     ],
     [
-        "Magus",
-        "Cosmic",
-        "https://lh3.googleusercontent.com/fife/AAWUweWBMjvHPA_RHBT-3ImM518y-dGctwsTms2jRYZOQFYkcmBO5mOOHbR7k9iXjatCxP7qIWiknutU-ww4pL1lH1hgVhsAf2PCvQfDMAva4ocEmpVBOjzdfxHtnrx-_HgAweYBpoLlaZbyRzzZrdIh6QRzlQ1vNiiZMiw0SMvMrRzQEixBtSCGGKDB4i_DuVoUkCVliMCCx3CYUmtygru7gXwjoIZ1jY58Jxy8EvTbUxsfJTSPjytXYXV4BjA0hEfMVf2m6KsrNJDOPJpUmoqEQ2N9TMK6LJdhf0oi6NXJqOjp6s8MlCofyYjEUCuwztRCGipFhFFWzjHnDDbhNSsEQbYJte7OfAjQUav3ot1BV-zIJw54Sk32IVJMx2Uzda6n728SY08RN7Ljur27lck6UhXKdvX3-eKpAPUJXyvGWrrj2XU7ZAXejpw-mDF029EkZZFk3V1DlyW30Gs7RM2Ad4cYua-_hMPD0pKKiTuckuNTyxOXGF4d-upqfh2DEZmZwaBgKiuTp50E1z0i8VuC1-O5Q4gYBj_0iMr1Kb2bnvM-dyPNz5dM5wal1sbUpidQTnUUVoTgcEv6nYv8VMhKbXCzlbcqCD8l2IHMccFUr96DnXY9oNNcBhp9oaGG0st3itKkSVh9AqmdmXZ3fAFiehJ1mwTHzi0yQJgFbd7L1lA1R7DDuMvh5ogEwEC32rf-mer44tTaO-Z-zsLu-ZFoYjnX2bUBPpx1gm9nxdJX4FJ7oS6tWd2TKUiSc8gRzA-jzw9iGhQFsI7taKtxNcx-_e6CU5EdCODwa4x8Zz8X-v1dlbbzJulCnZQNe_VmarMD_cLKRKN3Apof8FpAJbbfGFnilTM7KPtbe8b9qFJsmgB6mwVbyP9uQR4C2g5z89oa37vCnQHHT3l59-uBlfYlS9XLAnAzpFQLVICD1EuxHp3VBYGofxy2TGi3Ow2OcxlgfgIIXhxnBzbsS9aWIaDNus176tcASo5DEmLj-3iI-zGR6xRTBZ-a-Y30tyzf6dlH4ZGfISOzYimkhgs7wl1xclbz4on3__cQm-QWdkIoCSZL-H1cS4Oo4hMXas5s_a1reE5vrIBsV029lvrli5h8E2xoLXWXbIYo0Kc1rkl79zef6UnKE3I6O-GqKNVYLzFR4_Tm1RJfHTR2R0hve6VXOOcS7QvSn5yksVmUMTKBXsBEdQF89iZAaCxR0rSc5XxU5G4H6fOR4lvZG3cSHi_8sQkYxRLKGp5K0CbgVIaXt2FerfyLyXMuQKMHlO0fQsu-Z_awgoVvOWzfLxJZ_7hdXJUNiNltPiJ_JYMU13vU8IVTvqI=w160",
-        "#0718",
-        "#51E8FF"
-    ],
-    [
-        "Demon",
-        "Cosmic",
-        "https://lh3.googleusercontent.com/fife/AAWUweWeb8WkXpfJm8iNR55FuL0eg8wOpYYHc3QKCi0YJAgO1NGO2v-OGa0u0PzGM62JtqoxrAwCJmj-7q9MPKIF8IzmQmDphftYOD47TmgRPgFqdEWrl3YIPVzy1IxFQff8IkYOAoVq3J-1MaWVl4YM9irvfBubxHV1pE-G599Zlz5DoJfzHTCHes6iW9qj9CsEW8RMQ2iffJUguUcSP2nzJ9Vg7vUw_mVetGEQerWupL5dzdi3rP_pMid2z9gIscJWtZnF9HmoMxsNUsouCJBvLE7Xn7dAOSGHuK44xQFLk6yNJrCd7hHaSfMFZy1K96gCsbRovR0juGQBCggpNAnqZVWigu-ELJpf1nnWar9HS-jJjyEzUI0fk_Y1l8VurnIeEPsDRUplRq3HesxhAzw4aMDEkQYeG-LR0Oh5WYO_Wbb5qZewoQtV1fT2jyx2nPFLUSa1LM39HEb9iVct4l5dd7je_vOqzucyzcuUjSmZdpzFm0DYfOLNW86h0zM68VQwj8qtCH4dw1zjynduzZOp3XWjnP6P_KLa6swtebol7h_H1XPpik2gHy1PlMbpSw57Dy0esXg3igRS0J0Egkknnw9SRd4s4YlNRak362vqzqOJ8RYFtqbusA2vezGWwj5IKTbJzSt6o6YkiT5cjQxyPpFs4anEOJ7mIN-6p9j_z6oaorYuZIkcNGtOcQmcmtsPF67dgMX23N-rU1g0s8eN11w2MNKcLr9gx1UhYdogoAoUP8xby9QvwX9xx9rWoReDs2axp9Rvz67yNlLYb5LZtVZNvb8TpJwRcYJT97GhN8977fQHjVSe3q6gUxQ1AGL-Sz5g-8k7F7QozQHIzPiSMouVzUSo0L-HKJFNQ8xMg2vl6yxqO7xFtmPtdoHyU2aWnsgOsDZYWVzmp8OGs7Dob2wHdX6xKFIg4sxjD36of64ab7KMTnNfZM3iUNCWhg4xnmTKitK8vcLagarciNLNNYSND88j5Z3-hxueusvEQE6fyNZ_qoa7fcJU9oTLhyVlUWplZZfuT33qImQUtXlOLU72ArchzkRkHZoCP4vxUs1PoNgWAgIuGoSoo68HHDP9U26K2b9WtNlILj_2tka0lv9UZIPb9jdEANkOvLpUVWJTLEUAV3Yhw3wRIoPSegn7o78_pVdym9MqJ10Kh8G6Tgdji5VtBShVzCE0Vfr7Jtivp2azTUhW2oVdPHY3I-VvTMe1Ouawop-98l9O_Aefhqf9BEjSJ9nSkS0R_JpKQ6uNF6V43zKc9PXSkJLBq-ya8jkQ-A9Pb_8_wOxT3WXNhbU5NGjgjXZArCJlW2s00jXNIIo=w160",
-        "#0729",
-        "#6c62af"
-    ],
-    [
-        "Curl",
-        "Cosmic",
-        "https://lh3.googleusercontent.com/fife/AAWUweW4hE5yzrhr2hry52zjLw8-5DbFEq5XrFkKS2uiG6LWt9RYQXjp7xZZyXnsJl5d5GeDfyaD_xVFAfDtshfoM2ajr-31gSr-a3FxO73iEQ5DzwhN2U04_bB_qNXylhnmqJ8VaLVP9cdPUGOtTs-WmAUE-PGiQzTwSLTKXJgDggzNOGhz_2HKjUHumBSevsFuXAynMuudh8Pd1ET1Sxus4dT0Wak2h0_lzQRpvihffKPzdsXLoFV1rymuemWRU209kE90jEDc45Xoq1-J8kBUQb_udhVhs4U62c6x6VSeo-RR-4_S3o_qFLTzGE6R37aPbLl_qjwCWOdP6iMP8kEz1nCsOBabl84fMBg1b2n4e9QtKhwjc7UW5nU3xiWn6K5AoQnY3S3bOmDW6f294_dKr4Hw7ufRQY8abFvwH_aIvaUcUQ0942xZehPh_L3vz7lAYnvHmO-hR2x40e-CNJUIsCOYWuqQchWhKDIyNVakxbJnhzV1vwG6ztRkZQI4vw07s99ozaYHcobTtjTV840CWUZ6LfNPRBSfi07oQ6pSO1FKX_CrBIgmZYY22ziaKszbcDpd_FismjNrK4z0WHr_TWk8pMn8ehbB8kJPHYgE3DC6j3E7Eq539V1YcRHBDre9oDn2KG1O-SJBGY7W0tBkzocklDz0xmCLWVz-IZfjKF3eJnIKhuUENZ0irtPOB6IWS_M0jwAimRcNSmvo8zJffDN6ei2M_jpV9Wnm8uB88nOh-UxfP1iut5Jz15m0N2aUPfVzdX5aRpM_q67BCnZvd8wRZHWol97oLnJ87XNucXozAcyDJG5ZG7NdOQGHVD3jl9o7FGdCDLCyrgkpGgeRd5upb5B555eDl2caIgMxFN8VdBQ6pU5WcMkYdHVNgn3Oa8NSNmfKbBKUmJ-zx0Bgnseun2L2-VXrTaau3CypzXHoZe9PecCYSogLCei4pbxL-04V51kMtLQyDwB3HcWemAVzMjTbzO4kNqG3lvOtoSQuJAwaCIgaSE1eYOUNsql6I9tsXYfTci8c_xWVvTKc8dpGrZFz-Rsi17UBXq5enyPJ4Q4id3H-W5B8Oce0goqGW4NVOgzMfIj96yYI74X1sC0FRY0M3J_WT3p77iD3BpaltPqzDeZiKEaJnBjV4Uc0LMclJPjyN37mdlZEPXrBwyV0ikWMtxXGbWE0I6FSeTLfD7fU2FNP7GLkxNyjV-d58eHDnJ5i6QE9AI66cPPWrG-GHh-Q0i25kem4yJtia0-l-6Y_Fg2ISfpltZqt7WuZ4G2vsOQWZYD4eUmAfjtVdaYlFKdPQt-47ObzGmY2IW7V8mc=w160",
-        "#0904",
-        "#FF994B"
-    ],
-    [
-        "Brutus",
-        "Cosmic",
-        "https://lh3.googleusercontent.com/fife/AAWUweViQFFvWx1mMYW0eIHcUDPjmT1ItkokMtHgA6dFAjPTzsCmQtyigK2KO0eNyg8p7ewBcUyTDzHDbZg1b8zRCm6w-zpEXI1FPvXv515ED4CID1pEc6A_TIUffFrVSjRZfsqDpQe_hb6YIf0yyGOwkBwHuECQTKY8EzzngJ1Tyqg9TmY8gYnc9CxmX22RoKXDrnljQQWPoRg_x_A3NXpQQsRImoljdq8knl3JCqkFNnoaCslbepOK9imzVjd9C7RdvjVSVjly5uNHjcYDmjAF5hVWJllno20czqla0kYH8eAo0fDfoQx4gqexJE_N31cUuPLv9WXodq2vjGBjhgWksD4BMfgrCAJuIC3RL-WCW3jDCR_fw0w3cYgljPjELeLhyNPcS_H_qdJrNP5pkZo3kjLLATG7RsTR3m7shkn45WFqw8FVd5bzqgeXqRMjLD9j10zx99vUkzFrTm1TBizmeub6OgRI3SUpFIQ0ub2N2vx0q7ghH7qnCsjAsavhdPq2zY5kUEtgoIS2fkr63fH4FkMTEE1nUrGKH4XPqVc61dL3FrWCRikbVFfCBGzeP7tGR0Qp58Xy1Hk2Qik_MI0KsfofBpRmeYP-dZU2-hj4Dq6-4dLyPnGJuXqSMHGfqV3ytxKsy0F-aicrkcc2RE49M1uVsnlQXa7HygJz_dsKWsgjnyOISmhGppsoCp7Lvjt-u9Zmdtxg9leEquXqKvTI27uGLK0Kf3fLMTJp5-wlDRzMvZ2qClcyWHFzZ1wvASlsR3g27p1FiCEWdEKU1DRGlbDVLPv1pkfR_qjVo2pcybRl3rtJxNT1png6vHA1o129aedhDK7xEY1LnChdTCrtJGJDl7oK96aah-cH7xL8EQljAv-WZzsRVqBRMaFGQjKIHGXjc1K0_bkvzgWW2MGr-_mNhLkGT77Mg3YhRYLyCfV7oRc1ykNnyobG1CUXcriTibhGLnN4LJj-Abwfv4x62mKij-gIZEnQlvosuj8Uhep3Vi-CkYkuVMqnNM8rY4vJbIpZfwvlW4VTaMTJ0AKMvwy1RiPpi5oGPM8yZh9X1XZKn4Es9-nMlSjylGwZOUu_r_uwpO9Jlda-1D78X0FH5IWHWdODTOGQJiX5rGHAlDEOcaESBrRVRxKXKNugBBpB-yXW7p1KEIdVY2cA-1hpAk67PFUgyLUR7uar7yJJ-JqYs_kwjJsYw2dFwpFYPHdgCSqZ-6BPCib2Y84pOugr7_S7JunQy-9TdJciTO4o3qDhLv6foPCkPuQ_bR6BWnEJ47OOVEUGnOCOPhKI6_cmsSBczZcHyC3PBpltorU4T2wGROo=w160",
-        "#0988",
-        "#f27163"
-    ],
-    [
-        "Specter",
-        "Cosmic",
-        "https://lh3.googleusercontent.com/fife/AAWUweVq4uGnJYherCBs61KZC-erIHpu2yVf9dcr9bjmJ0FGHsb-O_V38ARQA0ybr06zt0ZeI_evBxNnpqWAF_akrPO0upnjYJ2OQwzaMB1coZ5lifQaJaEOmg_prmqVRiFH2k-SWn2Kf338If9lP1UCFW4wmnmvpKM2vh-WLj-_LNsQyHjn6FYisgih3-sHz6VMTpieUK5YyiX5VKclhuVBKQBPS0-V8QQUPnKSw4uG9KcqSAF08yAadzYaGW7gC2zxhJCRrn5RV5ZkdUXs0WkQMKi6xE8WcREx0Dia9s04arp_5UswbDE4jwuiEs70RAMd1GmArwqOiD_d3qxLSKrgzQrBsR4C7eSfXXOQxKsGcCs2lMDVwZAgJ-dUz1hwG2sWwd5cRmhJRU-K1WFOyha3yq8tfQBdgTduIbML9Va5CoQNR1HgQKxDPBL3txcHgXD8IDZs6xOYhcnDPgvIfaDfu5JXs1CqiMiLNH9Y2XjzfxDTmL8y-25g_T3vpWjwECANwzGbvj0d3bv9tDFZM2_-c0K2I2j3tcL2gF5qN7wrZFw-PlDiSFcFuFCID2osbV6F2DmEndVFvOnqtoeji-ACoYyoNBbIlI9DW7AFRp-9x2Y5r2v2yndE-Eoys4zbllJWXIBISC2C-9-8_MdiGX-rwqCzrgmExMHZCDtC0za7xLTY7yNaCuCnQ6mojQI1G6mmM2prReJG-vMnp7QEQ8sjC-VT-zAIEkjGbkWEhJ2uoinB4a01n56een0D358M3K87L6iOydsMmgZtlFDBNr7cie7xtbZ50gBDqtkBdC-aCNa3Y2anIQBLx0OdC6spWZNspSqF44PSJsy-9fwSlHw2Zoat0vun129bN_9Rfd2qm_YGdRnCSn03xpOoGHWcQHbI_P-KLorB895MAEcr5Fzz26io-oYg7kt5Aix7n5qgCMs43v-asDtpuOFx3l9nrrQ6LBIQrB_M26vq15Hq8BP1fqHTyYS1QygQZX9sSX8E4Xp-lPB-X2EjZ3uM2A0GQYzKS_AuZtow_SEQFzizVkFiHpccQS9SSESSwDGm5H7QXsaVCLvqxPZ_MNv40WFiP0uFWBZCucxMqtdXUjDJMVbqzVB7jQRc4C7kWPt5irB51C8AQHv8y6gD-d9VheEyT6IOBFGigViPxA7pHXIauRjwouz1Xxt8JDs9IC5pEihBltI7Wsi2LTEyL5gUZSjy-l1gzem0rMYtIRaSjyYLlZdW2HxJZmyTydRivHP6jmX6Fyd3lo2Io7Mrgc77jY_3ejmZTHK072P7EMwFRz_HqWl5gMArbLg8QiHh3fix11X2LwTG5YM=w160",
-        "#1015",
-        "#7796f4"
-    ],
-    [
-        "Orbit",
-        "Hero",
-        "https://lh3.googleusercontent.com/hjiB4-J8idCcZ9Ivn7tDSev5HWu7U3hgbA-yrL0OKafj2EzLGAB3Nh5GYpef77xCRZvOy9UNpCyjONIYPRNA3JwvtnOJs8Fv71e38g=w160",
-        "#1108",
-        "#FFC35F"
-    ],
-    [
-        "Scrappy",
-        "Cosmic",
-        "https://lh3.googleusercontent.com/fife/AAWUweXrb-TGf7hyt9o11J_oHFSGa3qTn5fsd0B251DFS_e4ZZBkbMsYHoOEFDkUWGnjdi7dogtfV_-CaeVGv3fU_LGqh0W7s0P20TEGZRclX_292a4f6aR5REEZc82GxfwKaoWWALn1YWxgjrmcZpgHethtlpkxmZXOKXlkxRIWMgeHpygVKuN8If__Otj3yy2L4orWBsEKAy8lOXLk9O1_Z7-82GgUXJVJ4u3oOOyGHw6v1orvCsAOitOjp20gIaWN9CgyDj7ORSUIDuoP-xeDYHnDIYAl-Vfrw2usy1Jz0K3toTmXyoRjgKcWGcNT7p9e1RhJznmDgwYOSSsxOZGGfJvUECYruZ2QQi6TZ_3xpRyiEWnNfKJauT7ZIMhFU5TzpyBg3DIShI9JacrhTc5lH2_iQ10qFBW0mSMDaQvf1HprByrfTrCwPBLegaeSe08t7ZelNdiT0TtEHtBsRgmBlrsZ7iqMbkQQzQ0UNWkWUaAWBGfss83yWOR7Sil_Gppiy7mys6qne2c7YJEj2OcWSExJZsT3meYLlicSmdVpZ8rz1DeW98WtYlfPnb6X648K88V1_CIrOMcPzMGLWsoKAWZwyzmpT1HhtVgx73bFyVjhv_Vb5J3zLOahQA4Mi_FdbFK6z5lOxwK8y0L3OIU8tcsYEDY-d5Ez7KluQEDsUKdHnQCwv7xNVJKCn4KRUWQwjc9za9TjPHm1CxOB3jBbnQzCP8wL_XFlIqryWVQNItOacAL8K8jrHIzhXCZLy7h2GLeLE4gAudid_Ry0lZkZS3i1UUtUvdd_5sCJgaYePB6c0qQmT_Uac7Bm-AiTQIUNnmHy49hHxaQ4Zo1xqO-3PGoJTeWpFcFLWg2tkopLKxjdwB0B3gclBt3hUIulLETqP52RXFGdVE6FQZGgVVl0JKcyvzNQeLjQd-EpljSdh24Kdg7Qg34w68E24-hKxEDiIZlwJqbkJ7-mKivR44-VJY19qZ34p_3OXV5VcNtR0KSLPBeJ_qzxJ8538cHt22JNQDznje613Lfi1t1VxKtTbqwEfLhMxbsD8pEPK3CK-gXrZp_We0jQ1HUSA_GZmseKfkAj6gEb5PRqfolBq6N_iwVWfv0qwRezCQXHRvOFDEUwXVFD65Y3H4EtBfVykw9dCyLwv96LkKU7hwDxRkUOKfO74y4NM-cIcvLL5A2BR0MnX68Do2TZIipM_k2oYbhF9LqDdreBzR5H6dNzO-WxpeMcgQ7p9TI6D_-6aD0Trzl9J7qUfpeAxCv4heUxEUMNVZAO4Uagz4LitRssFaCUagqda9A7HYiZNGhKi59Hn1tArYc=w160",
-        "#1172",
-        "#98f374"
-    ],
-    [
         "Axie",
         "Hero",
         "https://lh3.googleusercontent.com/Fo5r-5IDnCdWB7IQLh5OhCWkA6y3ppBZ4sVHqf_NKfVsiKi8rWlUh787NU2hHW2TFHXfcsMIkC4uF5o1UABwb39YUNBVL5vgftuHi_c=w160",
-        "#1581",
+        "#0699",
         "#c6d687"
-    ],
-    [
-        "Siren",
-        "Cosmic",
-        "https://lh3.googleusercontent.com/fife/AAWUweV89Q_u2MuyP-iSohqhZ5_RBXwpmWPsEhYsRn7Q_UtV9MrjI-JFk7gS2ujwhdXe-yBw6deI8UtauJ2L95xF91zm0DADGP9ND8EdcZqMFfq4Fo9ZYG0tPw89U2UunUvQMrWw6J2-dJ6krnP-rfU66hd1JPTShSIt2dvfY2ymnAT49QtNijMOZyKI7bleWnbdhOZw6vmEvQ5sLBuWvK_Sb8Ez7v1mzh-qoZgRo4pt2QZpYOeY26eQjxts-Qs3g4V_t_Vtj10LzpQCVAs701SSEwBwi-5Ifq_A2tvj16HYXM7svrr3da7dY7xTZT0FLqOermN_kBH86PnY8h68JAVgDEs7ZkUD4_JeJQ9GSDxVTPG0HzSQFenIWBPcSGGg42Y_ocf6P8_yf_hH1Oji-L54KNp5HglwFEQUfaGflK2luH_yUYMNs8xlWk9eli3VdNNTcmQ00Nzi2FWYgREX6UHk-SxdPNxsNYT-M5t_SGWCAHRKN35bqhqP8s4bExaxHEAa3sw0S3A0oRcG-O3WFVPg7h6Zbi8hTTb_ORkoAcynkRh_L4hux1VBKw5JLXnFpftYkdjO-ITPOwySFOFgRYwxJ1gsxSTwN7vDJX5AUFQU4SfUenL_H8JPvK_l2SaJnvm1bKktmBsYwwNNiG6JXS1D4GpMTFyT6uPDR7kMi0eSl6wIyacryYnLqp9SQ6AAJ5FKFWJoOLuCG-ZzrDcEe_MCrvjlvj-AKZdkUiOn7FlWaqtXwjDC1X5ta2RQ6CCTtJM-EzFchaJQ1V9gYdtnufDLxqZBbYpGUaI3fT5veTeTJII7Bjxd1WiFh7ogpFK7xmrk6dxpNYnAh10_kqWTY4BICol7XqeULGMtG2WKsxj0S0ufYtocIOwGvLTq3I-BIGmJR6ET-yNQuuLrvMMm4HCKF7mYWRj9dh1YKrdVTewU3R2d8AHw2ss1E_RoAhvihO-Ql53NZ8_5m8nt1i89YWid0VyF2Qp3L8cnyxHD5sQEYS_kCTLdkJDvZMr1Pp0c2uIga-woqZg4b6jwWKBilBFSn7CqrQRio9bgCwUocdrCrAFaz6a7TUSNSUU-il3a7HTOj1dMdFXfmDrrhmTqT0Ni9TwmdHrh8oViXHbmBY1pRleZ7gSaN6wPj9k8bExqzqvYpyYk3ZsX4UvzB4lwTnqRDkJKO1RIs59Xt11e6cOe-XTeAYU_cuq6LTLxiqGy1yioPC5H36pj2Pbxdcqknalfg6xCnUeYvImoxPL2wvhLBJFdo1Zou7cqi7KG4FY0C_LzA-HXhY5LJcVVC_giWl_W_lxpMINLfSlwQgKmbTJ0_JlM9BU=w160",
-        "#1803",
-        "#C18EFF"
-    ],
-    [
-        "Triton",
-        "Cosmic",
-        "https://lh3.googleusercontent.com/fife/AAWUweWs9FQzLzDY-MR80x9s0ioqR5M3x6yzX8PdHN56MDQxP-ciF7o70UlPffpe6ZxABuEYcg0cMA9UcfsRZFaEtSvshwXUkZCUb6GW8xTbS6OzFC18hbOnngXPhdGul49tdxnM9hHuue1OGZH5hdYpswKFuENV87HejpbANdGv5Ihv-VGw2E9DGheaeBHO8SerVeQN1CSS5sHtpa4s7QOoOD6XrLHXgy3PrrFKaS7Jut-3oVGhS4KdaDBV93rZGvcZB8-0rO1ead04k1tF8-IAoYsbBcXfU3A9q9ig0R5OMIz8wMXGA8umYGsNrBMgld6icgOXXUnIB_TL96-hb_5I7JQT4OW6CxHVHRfvuhl3qKFbo8qEZSNuYF2HIPn6sptAad1yXA2EPNYEH_aQhl8Ei5rwn66L3nL-V_0BrUeov1f0aWzsdnS2JkIxu_tno77rKDkwdUIhXI9LNwqhcIxpuCBhvvjC8cp4L8Nd9DBh-eoZ33FfXqsBo5E2pkrOpk-Ez4sv0QEyghSvYuSk4AW9_0WnrrdPQ5p9-EeTWciWNdUWAiSe2WRaumyOaoeX1vTRNCs9PeR3vETChc-SRWJHBuigtyRH2aRsS9MMHt987rbDzd0v7RANPSFWGsuT7nimrB9rVkhV_I9ZOBnZHQQF_1clWtcBafNfDMOZQoRedfy9w_7dFJHrSoWU2DI7wmTwdjyM5xr7mErbB8BU6y_-p6uciTN9n5OQAKzRbVh96bSjD-ec80VoxpqHnUiN0vZ3BAa0EHFn2y8FXEYp8bfZ7DfVd80iMQCbThdzbpzcfykFab-Uez4TNCib_NXlaa6JwLZv54UxYGW1SxUiIaEsvo_bQ6whViRo7A8kWwHlcF9V2VJJgR6v3vdoYzzKLOYotqctDV8DgnWzPwgFuGFItkpRstk88N7g0D9yBEqwj6JLWlIHm-wAMicsjx5mJcEr0-blykQm1VXbMHeToh-Du_W6FRd0sI3Hq1GhULSrLVv-4hY0s-JdcHeQp0y7mQPeKGzhl19VY1cHTmdMC24tIsq-QHCqcRAHlFp0QKYU8u0AgWlKKUpaUP2DxyglZYikCIwXsSa3M3Dor2pPAIfm5fq36PF5VJ_6PA5ytCsNjQYNXWjg0HVo5DDsKXTmUNSZajsZFmaIO0xr8x6XjspFdrDkAPflft8vEUll42yXAUqcRjLGnKQ3boBL9LxuTdTXbMD4fZv1DCEDpGJ-dYIykOzrAEz38VRWZDjEEpIOMfVNHtT0kSbUmdb5e1YncSlu9c60z1a7nCqepdnrpMkm4oOXGeBaMDKLVn3vkUcwiIH46J0=w160",
-        "#1875",
-        "#40BDEE"
-    ],
-    [
-        "Dead Calm",
-        "Dragon, True Flame",
-        "https://lh3.googleusercontent.com/fife/AAWUweXaO8yg9MIOSqrVQGCFdUJyKfEq9GnJY2mFCgGBJWDCGZ6jlE0N5viYnRMW6w5UIsE8bdcfuc8Pt7KS99vd7eI7i_k-ziFnPDwOEoP4fkILDwHKPp5RuWhFWp2N3jcWiuNS7bxbGwBXCeK_dzCvhv0jtgCCN6MF6EbQQEt_CuH4P3VNN8zRD6ZIGeVamnAxISUWviq0u4mM1AZlBCgqqnFktwYJDV8E1aBdY_ji7NQWUTH0h4FLEOQjasZkAA3lo8yLzpT4EIdbQ4JDS-WhvvWLlfwVi3l9UErWg3Ii_q_bm3mUb1kK7VIP4c87nUuywERdLJTporEjEAuIZ-juwxsuBi6TIhxexthJNaUI1wFzC5kKMrYqTHqd3IhxOh6Rn3zLgLKMn61wGVU5UPzxr4dUnCtPB2UEfv1EJmlLSqSKDC-QRoAYZUcIErJ78AZIlWEa6YWzSwDE1ZExJ55BUskqzOBy6LZ7L2B8NZvqP2wlBaXMrWsVqbZWseOUKAW85K9Pxzi5YrQRsoFgYpOG1P8WxQE75cAZKnr8Qg832J0I0eVr7a-XOgu0XrBSbL6g9-77QNuiobpIaEh6ltEc9ZshUTgB-ISZHypFmg0WRZ3-W-ClvW9LNLqR7Kk0G-77lpr3aCWzt4La6bUwGcqgmpCrfegXR6fsXkbrooDLXMh1Kn8hcQvzjj7hXXbfIidDfkbBJb8RnpwHEytUg0uIObJksB1blyS7Hu2cHZgVOlGXh6lzFE5Nqs9k5HH-5JH0_NQmcxAMjFsNj0oQxgJxU0wbrM1EpDNeLPQHh6rroe_4PZEqfoD3ky_ULKwfkBi9DPN64tv4smTeNmbIs9iJgDDQup60YZP_rQUfiMhIqCjnmLngQcqEe-7q1iSALX3uytslrSb5BS-YdKZ2u_9gEc9Qsofl8zNcU6bfQW97XD1o-OElrSeV3dt0RR67Vspbr8fQo6QjGaTSyujsU_Tjzg41IF8X36dqPG1rCCuUyp16jxoPykg45nA2rRpeYER1wiIbbT7nBpdinz70xpP94-Ii7q2Alk5_wgJoshRvCrO5iiqJE4IsklOQkb7qHBRm5Pc6a6XrR3IUbSRYpbPSGDt8jSGvPXTW1qxDWlqLQHdE_cjgJvl2qu7Ucxev7af4ap9qFSvelSu_LKMnvewPXKpC9nsJf7gf8hJSg1Df3ptcnVkdKpaOW2N_hXOEVpjMngVd2rt5yjEqdf4SkscJBcROWPPGjV74DaMSvcLd1ENdHtaXgBpWFlq49UJxQwdgN95a_7-9cjeYETfjLuu6lbRtYU9bcjXj15KJ5LK_zDf1nZ0=w160",
-        "#2654",
-        "#F0645F"
-    ],
-    [
-        "Saber X",
-        "Hero",
-        "https://lh3.googleusercontent.com/4ieLAWxTAfS9AdgI2472RETaNfccpo9ddUzTCwC0ttn8F5cyj-FUQYXZz6ht947gylD_gb4HFvfmesr5OLdDAmYtAD8K5MUx-8wDZA=w160",
-        "#2770",
-        "#FF8A88"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/8Oqf-NeCEsU8Dv0Zp6i5g7Lq3Wa9KX4wMjqNKCDuAwAoVQBj2nWSMP-WbUln-TxE6uV4nhDkRNQO_3iWuGdvBc6q_1W6TagQAMhd5Q=w160",
-        "#2928",
-        "#ecbe43"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/dqeU93hwZYOWcUt_aBQx7F_AZDtqJ1ijuoHuXDGUFfR3smWaQAu34IZ8XENxbEpCM7xi3akpnUXbZOtLRHESeLDlcoPr4m2g4dTH3w=w160",
-        "#3199",
-        "#212429"
-    ],
-    [
-        "Artic v2",
-        "True Dragon, v2",
-        "https://lh3.googleusercontent.com/Ln6aHDbyTYC_bQVGckDDzMwlG8HvWJHdTcoDGPHNsC5NLi8tPn7hpPaZEvc0U2MsnSgSbZoCV3KTd5AplVFC3aakUBckr19NU0Ynls4=w160",
-        "#3201",
-        "#92CCFA"
-    ],
-    [
-        "Hydro v2",
-        "True Dragon, v2",
-        "https://lh3.googleusercontent.com/ZaGlRZhtqC1MePpv8-SVlxhKNwwEo3e6cuSOMAIsbVZNQOdZ8zgtigbmxp00JxA1jqsMyjZyHNWamvFcP2mTeXQzZSAmH4I7zVNLoyw=w160",
-        "#3202",
-        "#ABB7F7"
-    ],
-    [
-        "Sylph v2",
-        "True Dragon, v2",
-        "https://lh3.googleusercontent.com/R1uCh9a2EHj0YfrQ7X9bjucIukydpI03wohC7p9rvX736OabeGxio6MfnlT28_gqYE7nA2eExpA-queMHi_geS-xYAiut5P5m_MPaTw=w160",
-        "#3203",
-        "#B2FFDA"
-    ],
-    [
-        "Yamato v2",
-        "True Dragon, v2",
-        "https://lh3.googleusercontent.com/2Jdw0izv_zso8fabMib_hBYThU9dKKGe8k6i2YFOeCRSMH2oGb5r3oGS9-j6HnwkIz64sCph0RyFP0D_RpuoGE3e-ajBXWXvTPQmbQ=w160",
-        "#3204",
-        "#e9e3a8"
     ],
     [
         "Yuri v2",
         "True Dragon, v2",
         "https://lh3.googleusercontent.com/tCF_sL_T200iVkd2jPg7HuILcmGXACyEucB_hoq46dVV4poMakAIYj18rKusHPyHVvwZg_IiNjIkmRxbvzdxccRCKwotFmNZjmRsZg=w160",
-        "#3205",
+        "#0721",
         "#F48992"
-    ],
-    [
-        "Boss Neko",
-        "Villain, True Flame",
-        "https://lh3.googleusercontent.com/Dc2z5vSYE8PdwIvo53hFHMrq3hBjPI28ctz1riw1ySkn_LKbaYMsMD_T-a_xSH3LFmItjxCe65qdWiUFUesVG8yflp92vJgwrkd6Vng=w160",
-        "#3277",
-        "#F75A5D"
-    ],
-    [
-        "Yata v2",
-        "Dragon, Cosmic, True Flame, v2",
-        "https://lh3.googleusercontent.com/dg9JbmGOnnyiOmGFyYKkgEiT-YDg6ULMHiiiioRyLVAK79AK-XDadOcgTJhaz4V4aGKEJkB-ZH1onZBQptrzcRzQ_R9hNzg1tLi4Jg=w160",
-        "#3302",
-        "#FEA255"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/zS8A_-hGDBvrlNBbb--AzPjuRniP3sDEcL8xcAWcT4BFkx-q6w43ANhhQylw8tL4Kl0Oyf9SDtWukN9oV0GL7J52fd3wpCIAb1fx=w160",
-        "#3387",
-        "#363642"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/CYiyzzr9ZwvJ0sFAP2l1AAMzFQwNtdBTiXybJX1i4fFKsVUuw3u_MSAFjThxPF24RCGYxS_bFNaznaL3q03GbA3g_WBiaA0dPV0A6ws=w160",
-        "#3409",
-        "#90CFF2"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/TZqRwS8ouna59quXDS6w4_PNS3wW8Y44A_RNhT-kMAqvNX1VcUbtD03e7KF45NtwnBFIOqG1RGaNIli4kdap3-9abGV48i1NbkxJ=w160",
-        "#3410",
-        "#A8A4F4"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/jLlX6vYV6EerQA0PQQZflQ3_WZIS5q5hypplbRnaFuS6wZNhAeD-NXaF3NpjRfT7BJAKzxs5EBGQ2CxrMkGeuVSbsK2TzK8NdDrLw4s=w160",
-        "#3411",
-        "#7EB2FE"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/0xzepAH2__1cQcDNDqpwYnPPaSG87dobLSjKfsk7H8dlzW66ZjhO-BJXhq8whYz5RMgatROE026ky4cOOreKmYxl-jVbMg6Ja-P9iBU=w160",
-        "#3412",
-        "#47AEF1"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/xWYKYz04t3q7vudYAiYGy4hchuZgMB72Z3Xhp9Ilr_DMpLZjTiAMYDfBi0uzxzxHlogyNNwwrxHDTbFC_B7Z3LWdi2BZwq1tNYppuw=w160",
-        "#3413",
-        "#8aabbc"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/0sZN4S5EXKtpCKK-2FENwyDqS_3cmsWLG8FBhLBk9PAdF-m2AdABaPvj7xLFoUa1_GE6AYuDCufiVWLjbWXREbQ03wT4y_1BG1rEKWw=w160",
-        "#3414",
-        "#6850CC"
     ],
     [
         "Fujin",
         "God Dragon, True Flame",
         "https://lh3.googleusercontent.com/bc93QUa4awwIwO9uqZNLk7H4Re05f-XGhKijM4Et83eu0CdgP8xj2jFi4EEAWMrMcvfR6ME6EUY0DfmDrYWI-MBTTQ2f4ICLVMsDgw=w160",
-        "#3415",
+        "#0733",
         "#FCE49D"
     ],
     [
         "",
         "Honorary",
         "https://lh3.googleusercontent.com/1Eoo_uM52zY-1wMJ3ya3eCEzBnRaEOXyLNpaqN9N1zgU5Gk-AO_XGmLDXRRZb7wkZl6wYMct945TYtACAmvZbOR11YDnq1rIn9DMQw=w160",
-        "#3416",
+        "#0734",
         "#47AEF1"
     ],
     [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/71FBh11lCNtZxTP2__srvVdvGGb-s_HecQT7wweCvNUKMeruFwYNcxxr-HiBdN5FCLqlzvrVcoT6MhArFBdogiOxIi6wKHNabs93=w160",
-        "#3417",
-        "#3d9c64"
+        "Mystic Jellyfish",
+        "Animal, Mystic",
+        "https://lh3.googleusercontent.com/2w621VCXRrcL-Dfl7T8yISro54aOJbZCsmSp12cVKkN8_S8r6Ukm8OCeh-_eueTs2K_rVuh2VVSgvXjc8chdQXnfQrcidKMZYo5Q_Q=w160",
+        "#0752",
+        "#cf88ae"
     ],
     [
         "",
         "Honorary",
-        "https://lh3.googleusercontent.com/-7j9DJHNxGwJJsAvuKJMLOEJlIpESC61QiHH5hqBWBdXMJ-fa0Lfmb6hfKNg7Hh9_izepKL3dkAzZlJJprLKB0CXgbWBwsGb4sUNgQ=w160",
-        "#3419",
-        "#80AFFD"
+        "https://lh3.googleusercontent.com/zS8A_-hGDBvrlNBbb--AzPjuRniP3sDEcL8xcAWcT4BFkx-q6w43ANhhQylw8tL4Kl0Oyf9SDtWukN9oV0GL7J52fd3wpCIAb1fx=w160",
+        "#0777",
+        "#363642"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/aoQUdb-E70CSOtIZnySDH9zaCtZRMiAv6iveMLLaQsnne1z-lV5oGLnhSo9IMSo8SE2TQR9eCkLPM1tlmEsL_8pv6ZUXp1DNFLdCYVk=w160",
+        "#0781",
+        "#7D7FFC"
+    ],
+    [
+        "",
+        "Anomaly",
+        "https://lh3.googleusercontent.com/uBQjozRgRY8Hk8Sqqwes5GKjK03ABVC8GHnuPAqPWVw4dRDP5p3q0LytUTaGqwYcoG0CNqlrChKKqSI4vBNoUlCDiNwDKPnkHvmvvw=w160",
+        "#0801",
+        "#FEE567"
+    ],
+    [
+        "Turtle",
+        "Animal",
+        "https://lh3.googleusercontent.com/byx7ghj4xhfxx0ABaBOzlUsbCkQHqzEAEFm0bCTf0j2x_TgUkMsq9Fgyz4IjXkOFlEdwQyneYitHw_G42cGmP-adCDcDnGxyejNuPvk=w160",
+        "#0813",
+        "#b1d498"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/s1DEynfBMiL-5Ux9kV12WQ158-7R6m-7Njg0zBAwFDvQbcNuuZGbmHm79F6P9knUgnkmiTxr8DCVMMUoVs5S6_77Tj9xVmrzwo1jVZ8=w160",
+        "#0830",
+        "#8cc7f4"
+    ],
+    [
+        "USGMEN's Cool Cat",
+        "Honorary",
+        "https://lh3.googleusercontent.com/TUkvpu2Q_MhZlOfFOG0ytwi4lriMfoLS_ALKmCWQFgBt-3kgN-mO8kUVxaoI4xX96HgOgyA5sRMcAs3T2CZhV0ZUbw6sKKPN_o-yIA=w160",
+        "#0837",
+        "#8CCEF1"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/ZmrAeGzdFJZuIUcyykJlDHoN-FsNKrH4qyDL2PWDR08-FN7151BrGqm_Ck6sSTCkiIKu6VhTSZSJoVyM0OYwm4onU19eevyYOVCU2g=w160",
+        "#0847",
+        "#E8B894"
+    ],
+    [
+        "Tyrano",
+        "Hero",
+        "https://lh3.googleusercontent.com/LofTI8GvNyjjTuykvvJkwbINlNRQQkV_OwJKcROFkENMKAdkiPOcbGBczJAMHAhQvgVU4iHq5cPNQ4lgkxMxrOw4SlmiM59nxuacj_g=w160",
+        "#0874",
+        "#FED582"
+    ],
+    [
+        "",
+        "Anomaly, Dragon",
+        "https://lh3.googleusercontent.com/xK_04ZRB7Wsw4urPkePrh0BaSNjIFdb_7yB9vEJn-RSV695rqEWUWNY0IyKK0UT-wUr7eUeEhcyG8VK6el1gyZbKvPjLnlEJTbUl=w160",
+        "#0890",
+        "#FE5E4D"
+    ],
+    [
+        "",
+        "Special",
+        "https://lh3.googleusercontent.com/eSPDWnhzcSHI8T4qPekloxZuREZjj_Rhe1mKVcHff4gAJ2uobFkXeZGBHJjOKyn6TQqUJllOnwnjWjGkFUv0DT9ey2CjTrNevn6V=w160",
+        "#0895",
+        "#A9BAC3"
+    ],
+    [
+        "",
+        "Anomaly",
+        "https://lh3.googleusercontent.com/3lilIgPOzFM0ETxg6UyGYVIs-VzQ7RQBk8zAW4dKQrZOcc8W-xkqnMaszC_G2zl5YF5mbv-DOShTnp9lOxRZS0tbRTqP7kpTnKwErQ=w160",
+        "#0896",
+        "#98c08b"
+    ],
+    [
+        "",
+        "Anomaly",
+        "https://lh3.googleusercontent.com/Xmo4tLVHAvXyIidkx0hlfijFMYwA2i4LlyCBm9I2mASNfyhfjJCmNm2bbS_VlxS-1wmVa1VqblewxqmIfx4UlKE3FRZvTPtfvlJ4AA=w160",
+        "#0927",
+        "#9BEAFF"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/oxvQl0jsAVyd8YkjlB27VqkBbTjoQTIfkZYvh1XGrSrgYOvA8jr7ZYtTOnRyIAYtkb6BT6uQD6HRpwvBSWrXjVVbRrX8oJ1r9XHgPRo=w160",
+        "#0931",
+        "#7a2f91"
+    ],
+    [
+        "Reaper",
+        "Cosmic",
+        "https://lh3.googleusercontent.com/fife/AAWUweVVAsPod3ZTydt9oLADykwQ1w8MBe0r1W7CAJitoPd1Ca-D8d2mM6EIkIMy9CCi_JRciVAip4z8ftx6qvA344t5641HQDfRXNCbZgYO7UBk95T40c8GYB0DOICJqLyIecjJ0_J416OSuUOwbgwV_-Hdyx4fdp-saRQT7y-4RsGkmHub4ObQoJrwuceVhs4ak1pNKRVgnRXUNvsjQHyMQWNpbWQINH0xK1N1b_ML6FR6aC3zpZmlJZfx_oBabWVtLHwaxsbumxYw_2S8dQIM9riosxzdP0Csm4PjN3XIK_6AuuNSbRshSfVKqowVby1H-k7Pjf_Y-rLMGwmVWAimSWxk_kdryOY2K18oefc95SpaUSLWtOScJRz4U2f-iva9sRiodf3Rrh85meoy8GpxeUGEW-KCwtjNsZIXCZF3nLJOL2Jvl7EUgoWUB8WSmF6RLgGOkaMSyFwrUxsaXPRxaIl5WP7IJaHyZlP88MZjm3-t01C2FE5eguxWaNbpmHeA9Dh0DRrRcdhavMLTCebF6QVyNcDdAeEHBLx-e03Vsp860zQNeqadB0tHfW-ZaH4Z3_byQnCh-wNSaRsQ6SPyvpAMsFYjbzdJ0eA07WdQXutJ2gTmO6OplWHKoEnTn8vDgs6nmCoc-zPCl2xZqGQRMoKSitf75xFQ7gGDQbSZgOzvjLbxHC7DQ9EfJBhCS1TBNYmxClwL6EsfyqLbUoABPbZw8HxOCOFnq-7e4jSePe6_Ti0WFhN7AADZwOivmY91G0j46Ayy_bYJ4w7GmKszbPhdk1foTXcz7Oxn3L7Pcxb0v7HlnrYjWYp79Zrj5hG0lVqVvBiK_w0Za9Iw2ETstE42Z2TRWoD-2s_CRFw2jFA3juLc-QkdLtlDFN1kYnbyxSbu7ZPY01oNpYA-HhC4sgvYTK-wHElIEM5L97cpddDGxIN5KH6J6Ff5D3XZ9t4ZFm8-DtfS-pRfPgIvsZPF1tgVcqUvNXkdgyVof-LtujDsBv0I4nNr4pSkRKuwIZPSuKwLPBgBZyI1qQsKzlahRMDlkX0Wf6Gz-08b4TI6QhwfXzKExcxvZX408X84QyGi9O6G5Wu5VevJcJa_3Q4QZj44KX_Z7WfPG0HuiIXLi09I29nqHP24gXj2GTRMC45RVq1lcr1fDg8cUNiTfhvDFy-326RSQkT8uxU3tpjRD6xncc4rJa7HwRO2X072Q-EH_dl3ua-dYEoH5nZ4tCe-E69vW0xqpuGffOo_8zx4NfXe8385TJ-OWIO-MgHDQ9DhJXuRefJDHAgFI1Em0EMzGnU01tW0otJwAUb1CMh1bjKjup8=w160",
+        "#0949",
+        "#3c456c"
+    ],
+    [
+        "Kevin",
+        "Honorary",
+        "https://lh3.googleusercontent.com/pFA6O9JL6NXMuhPW62KcgVzQgN5mW-LfzSkqDX8-Cy2fSCU3rpQW5lGFTky6tsh6-W5_uBSJvUxqeTJyAr9ej8u4_6NXWHk3h7ecKw=w160",
+        "#0975",
+        "#38cd7e"
+    ],
+    [
+        "Hulking",
+        "Cosmic",
+        "https://lh3.googleusercontent.com/fife/AAWUweXFKijWd2eNfsx2gsWXwNjc_RA0WApRmkzn7sBbux9ui7v-zzHAKAXmjfWV-arjnl0llKXgS5UC7TWhhHN6HU7Ori_mrjtSwQG4aoZfMuaEu2dFaWleQhte3cGhJU6axlALiW8L01HhoUAOf4nnthgt-4RqDwGywemyDzzXEwI3Q7SOGT0E_wHw3nSTYwued6hpcspsuyAnMWC7l4ciyTgQKmGG84sjXs6eDUe_0TP0QCqLafFaQBTR5nIJhOXLHAXW5YWiertE8PvtPmBZzO1d6kj0zA6TGNHB29zI3Ym-2fXkzyOwUOtuGuA4rdg5zLTTgWpoguPn95uyLTAzxNi0kw674eF4NadY1b7DIVNspvmtee_WGFmHkvl4UpcOoUdSU2tvt-GytEhwHMnBOpRVszDc4SMpoOtEDRa4VLWlOJPFy9lTdx6xSlzUABkyWw43O-fv1FnBjGqY20otXIsOIEVcpbDkCBP-jYziOTjUPJqCdkZBDkli2ReNvmslzVbth6H05x5qkttFOJfdgAcFRJctuYFCrLsVzAJHQM-hkmnv6ucbATqGF7_vQfrnnpm92-ozPfwq3nNaYzDEl6k-2SY0VFNPCfnClCWP7Apthe7BdOugv6ICnSzFaUfuRSoOfGXX96QWvm0_aauEl7IGEeeebO_s3aY30L_IOXW7cVk1d-gfllkwwvFNBlj2ZxoKkjs4D-FuMK2rHv8DL6PxHeiFUNuZrOOAZpqrwGIj7npxirsrY4mgTX2Thjv8MOS9veZhhwQtKyBNNApwGQ89jyYPCEdgAtbWGzoG_s28bRruX2Yr4SXX9il0y-EcPil5n9CnipkK-J--JfvCvT1Biv9tjj8dY3RJRD2UMsp00UcK8-RoS5ayiiyg3T7qTJtis2F8JfC2d8L6uxnQl2G_s20d1fCbg4_A_D8gjshhdPoN3vyJNk5bZ2UxO2leVsEo2p-Y9StPM5WNN5mjQYUWByg5DJgEfzew8z5VQZdKV7DVwJgDTKbKmeT48CmqBTs3OS5B3WjHn7x3jt4VOjlchm_vZYFtP3HqZMZbvwNxxDGJwHdIjyR49Nq9ojRp-rD9EETWPzKlrEFmef9KqOKE1xvI-bthxbNiew2Uh6NbWbnZibPBHmH0btTHhGKjsXCxiGr7qQH_UyBiv8IQUFjelrdTOgpzNWtoSYJcvxZknEWMmjCC7ic0Hv9wsMhI9UlcVUcGNGVcIvcVOIOxZTGYg_2YjTThZCy_vPK5z-eqw5Th-21S_Gp_j2k5z8hggQBr7sbopQgKnhnoIaOOlfduLdLbAFOaOdr2qQAbAlLSFcY=w160",
+        "#0977",
+        "#f3d553"
+    ],
+    [
+        "Triton",
+        "Cosmic",
+        "https://lh3.googleusercontent.com/fife/AAWUweWs9FQzLzDY-MR80x9s0ioqR5M3x6yzX8PdHN56MDQxP-ciF7o70UlPffpe6ZxABuEYcg0cMA9UcfsRZFaEtSvshwXUkZCUb6GW8xTbS6OzFC18hbOnngXPhdGul49tdxnM9hHuue1OGZH5hdYpswKFuENV87HejpbANdGv5Ihv-VGw2E9DGheaeBHO8SerVeQN1CSS5sHtpa4s7QOoOD6XrLHXgy3PrrFKaS7Jut-3oVGhS4KdaDBV93rZGvcZB8-0rO1ead04k1tF8-IAoYsbBcXfU3A9q9ig0R5OMIz8wMXGA8umYGsNrBMgld6icgOXXUnIB_TL96-hb_5I7JQT4OW6CxHVHRfvuhl3qKFbo8qEZSNuYF2HIPn6sptAad1yXA2EPNYEH_aQhl8Ei5rwn66L3nL-V_0BrUeov1f0aWzsdnS2JkIxu_tno77rKDkwdUIhXI9LNwqhcIxpuCBhvvjC8cp4L8Nd9DBh-eoZ33FfXqsBo5E2pkrOpk-Ez4sv0QEyghSvYuSk4AW9_0WnrrdPQ5p9-EeTWciWNdUWAiSe2WRaumyOaoeX1vTRNCs9PeR3vETChc-SRWJHBuigtyRH2aRsS9MMHt987rbDzd0v7RANPSFWGsuT7nimrB9rVkhV_I9ZOBnZHQQF_1clWtcBafNfDMOZQoRedfy9w_7dFJHrSoWU2DI7wmTwdjyM5xr7mErbB8BU6y_-p6uciTN9n5OQAKzRbVh96bSjD-ec80VoxpqHnUiN0vZ3BAa0EHFn2y8FXEYp8bfZ7DfVd80iMQCbThdzbpzcfykFab-Uez4TNCib_NXlaa6JwLZv54UxYGW1SxUiIaEsvo_bQ6whViRo7A8kWwHlcF9V2VJJgR6v3vdoYzzKLOYotqctDV8DgnWzPwgFuGFItkpRstk88N7g0D9yBEqwj6JLWlIHm-wAMicsjx5mJcEr0-blykQm1VXbMHeToh-Du_W6FRd0sI3Hq1GhULSrLVv-4hY0s-JdcHeQp0y7mQPeKGzhl19VY1cHTmdMC24tIsq-QHCqcRAHlFp0QKYU8u0AgWlKKUpaUP2DxyglZYikCIwXsSa3M3Dor2pPAIfm5fq36PF5VJ_6PA5ytCsNjQYNXWjg0HVo5DDsKXTmUNSZajsZFmaIO0xr8x6XjspFdrDkAPflft8vEUll42yXAUqcRjLGnKQ3boBL9LxuTdTXbMD4fZv1DCEDpGJ-dYIykOzrAEz38VRWZDjEEpIOMfVNHtT0kSbUmdb5e1YncSlu9c60z1a7nCqepdnrpMkm4oOXGeBaMDKLVn3vkUcwiIH46J0=w160",
+        "#0984",
+        "#40BDEE"
+    ],
+    [
+        "Dragon",
+        "Cosmic",
+        "https://lh3.googleusercontent.com/fife/AAWUweXB4IwJu8J9CIZBmH1kyXEuVkhP7BH6n2fmPIoIo9a5rHCn1ntfAblDK_G37nrGc6uHOc8C8jtU5nz6n0r9vQk2lQwSnaBfuDlfr7fgL9DXjnrXzRTGNuKec-I57riEDU9LAY4-CtE7VCfVAjey2ouuaBRMpOiJWkstBbFZJay2V5wzQAy8Rid9dwrNE3D8oLnfjV6jruSmHxxvZGDVQm2Ofg8T8Grbyvj7pHRIjG0KU6_DnlbG4i7LBfQdSSGsxAw8HL5Icgn2nXjAFu39FAFC43GkFENMzmBV-WfwvU7CP-RpeH11iDqTBSGSK6Q4Vd__otBXznLfOdWYDY9y93Bh-FNEJIXXw2shnZZTSFrcsGlHMuj1v83tyzXXmPw4Ef4QI2ZDFYrcR0G3YbuwuwzVP0g2EPgaoew7VZ_a4i4VFUbB6JD72ySub8QtdieALuGd9rifFofmnUxELfv0cpa21W7eduve8Vkv-YBeidKWskHLy-hrBtJ3uibfQrDQzdlC9VD7z3U-P-x5ehMYiOfmMJmANeEhZlnoZN86MzTMze4aZA51q_mnkUCmh2VOprA_EvIyGuTH7IVEtIDwfXtPKrzJuCvPSwfCC_X5WYUHBjAMUp28HJQhnzhy7Xto3Uk4VAo5bls_MIQloRCCqIx4gw9-dKMecHNhTcS6yj3xIykngvFFwBjPznpkjhQ-lPy189bTfcFXlRfmqv2ZkMCEM4M9Acub7HZfyjC2E1BWnJjjkgo9EU9SI-VqhmU8AGi5woT8QsFmQvqcLEOHqHlR8jN0nCjU8IP2ftD2W2rVnRkv5mbFh_eVRIrfc1hcYacdn8h8G0AgZqClHO-aOrhtD7VWSSTtdfpARXgUfILcH8cC31WGCTFhpn4Y9gv8qwklmqMys_T5Upc7Xw_zCvkB_y6vuVl1leqrVoHlmlasYCasnvQLsS73cdRK0-vZOksfIzttggaNL38pe3uR_tEliCbSjAvuqan9fKJjDIiC69dslcdd3fSSVOxC9W9kfme8hLzU5qP9CuSfRhqLpTjLeet4neXC9WIsz0e_aiP1dvp5tU6O1EKMyMTYn3Jy7TZXtlhCN3KdFfCvp03s0G6cn9JcxvL2DZeNtS41sYcK3X9WOmM49sST7rAg7Yl7ZjGQMCVd8d8_d1wpTETGGXzqEGnAH6a8wW_k27D9x5rb0QeCBDuuFMRO2XXl1WH51ukabKTgcq0yqgA-rZpYQF4dKB13-3BJbxasxOUAZvFf2PWL0oKED2AR6sKF76gv51PJd4_BMTUE3WmJJPi6iFiv3Zsee45d4agTMXSzELuW0G8=w160",
+        "#0987",
+        "#7ed6ac"
+    ],
+    [
+        "Saber X",
+        "Hero",
+        "https://lh3.googleusercontent.com/4ieLAWxTAfS9AdgI2472RETaNfccpo9ddUzTCwC0ttn8F5cyj-FUQYXZz6ht947gylD_gb4HFvfmesr5OLdDAmYtAD8K5MUx-8wDZA=w160",
+        "#0998",
+        "#FF8A88"
+    ],
+    [
+        "Shroom",
+        "Cosmic",
+        "https://lh3.googleusercontent.com/fife/AAWUweW7cNHB3z17N9Kx8RaW7sj2jUfzptebr0_s_JmplsoxNdilmroR3jiYdK_keoHePnbCQyeJFiQQbNlmA878kAa5ybKhELObx24nygY2XZQaxXTNhLobC9wKeyAgc0sVqlDkCei4_rB2WSV8mXeVDVeEanuEYva5pzYYvkC1lj_SZmaxLhzv4PXZX3FSZQSev88hC7_VVnuj-hCioyGIEHl6UI2nIwoB2HqCOLXecwgZNOXNG55MXTCbKR6fqFdjoN5z1L2tnL9JLjArUMxKPx4jO6o8E-vuNhHiFMRlA3uqq1MjM_-AJFoXqRpxRpPElUE7iZ5Ep0TgLRItnWWAbAFcz0BiBiNkTtVqSPTeBpquEuwoFpvrmx8Ljxbzbe7XAwfvSgNFSi0qIP789Z5xCU1ukPZ6mbdmYnR-YMjHhlHmMieNsN6cE53pco0k0neVqF_uzGtp6iJxRslVWnlrq_cB1UDHGimw6LOxAq1S7-oEwqOnq-U8JVu96Sc-95sZUwlbhMZkvnIBm8b54nlg8cqFPkQI2s_JnR-1iXNzYT1xYtS21u2sEjzAg-tK68JPOH7kOp0quwmXvXJnzkWrPbgxLClpkpIHkTyUxpTsWSiyCnHJqTUOwMCZMm4DMvhbK10M56xRVCZSSp6Bc1GaYhsrISAKYLlWGIjdNE-XL3dtQBcjZpVgSxXwscq6MuCNnrnN46B8bFaA2vDk51IDVPb1uR12BI79ypBwudobUdFiiI61aC7wp3Rm-NmsLr92wIyhOEbjt3nqU1As2PavPYBnLPxyCZ4umPigUyFtORasXaPiRvVEv-aDr1UtYtgu5itHpnc_K1xcWQEnr08Wgw07uBdFQfVz5U12KHyzbUr9tcczYY9VowGzBOsiGaRlnM9xtUHEOGawua5U_sM3vnjRVmrb4qIB3HXI8cryoQMrT3AXbjj7t2dP3AZzE7XfkVUa1LdmKnipsKyLwyc_K4qhx0E-pmj-OlCdRcG8-rpJ_ho7fzGOuFXh4gZnRrjEqe9cS4wr_uMc_CneLGAXYMaruJMR8_wXLAQ42mynPcNG7KOD0hqSnswq6U0PSe-85Tyc6bxjY48R6YaHHZlkw1Tb5id7UcNjtzVpLsTPK4Idal-9zWUxXVZHiJNcDybd7lQfCmFmq5KE5DBG3_UthJY_RcxhOb0mq0GFcMPEcuWkh_DQPi2T-k88hQXEyVqoF-ikuUl7sk5hVRB88QsOZ4ouYwhbWah6Bnx_a9b0rzTjJErqR2MrCjtTRcRrfvOtS2pwDGdy93IFiueO1f8ZFPhbk6DlIa4ObxnPtdic8f_OUFg=w160",
+        "#1016",
+        "#FF84B8"
+    ],
+    [
+        "Rabbit",
+        "Cosmic, Animal",
+        "https://lh3.googleusercontent.com/fife/AAWUweUrcm2RKqoNqeJlEi_dTlCMuTaf1tbLQXqZTmlVnhBOubmOhRPyjJ689gZoYsl0A9eGThWUHfRYrHuQDx_p6E1ljQ9mHrqQcqOQto7pWytgH2hafUhzMyW6p7uVB1xZIXBR9oVyp-Enr3uAHg5uGjt9s5qmFqs-uZjA3oil3JRQf0p7pAOXM6TfTuaaZ6qYHLESklxjD_0qsEDSYPJhVh2HPzaPrguI8r5NjsKtQ0D6MZQrGB9bt-sGUNO1DSbZsH_1fm-c6jZuXS4VIvsREGZFBQuAadeUgyTYWA9huHEPmdgqyqCmmOD1v-NjseOf3vyJQVxR5tfz8ymp1W7DJY7adyzMIQWWsXG0nw5wcfslb-1aTbem6k7X56OH3q-KlHHGDdTaGvZStEn17Q317YRFAVbNPzzAYcQOA9DA8ghnNnf2afcFxmZMV04OMeKu8_Q73LQEqVTrz_UYYa5QeH4JTw3EhWSWOZm4JEYAcrZyVBnuEmvRMI6x-0vufgUc8jX_w9KE9zivA6fG7F8s2pIG18U9-KOZjbccCf1UCU6CXALo4y5CjBLXm2b9mTVjFpUwzBlneDK08O3sXy9iw40FwaDWha-b5v6hA9TFTTv15eMQOUhw3OJgYL0PQR9VS_a6OVFcopYj9wymy_WGy6wzSD_pLa42BOYdFIXizpXYIU1tuJKpHCGMkeyzSutjSmWQlyK-V8-cU-K1vKSdbwL4qmBn7h0P2Byuts4pTJFUp1HnuA9WdRf7JpB89SirvaiNOtlb1ajYk6_hYWSBYxHo76XgjI39KH3VqVv2Rpge3HYiR5DwAOytcvbIuUrQLVPxxET5zOODOfoLOO-bx1hWzXDNWkJVIrDP8ii0dJ5ex6LVU6kZUW4AKYDl9rWYGiLS6BMyPoO0imUnZavOYFsPvYUVfgXeiVjup43_NO2i0eMBq9NKyf2vQcI6O9ZYnzKVe66vsbpfwn9v60tTsb73ytDB7JDSuWYxjTxLHa8d0yFjDCcOpC4In71QzjX2UY5ki2_tSrmuvTxI3wL53kx0wudrIPcYyqXgvSaLDIpdtNAk5f0hQm-CGLdvyt1fvVa7ZPvYxsRqWIYvq1NzHBeeeLxezrrwsY6U5f3rbsUBqG5S-07-H346zNPISV8UfnR_Sgkl17qR9M9AdbWJV71p3mM2PYUhO1roPrUI_p68LRsahBoeAOM0qQWCM3Y1qu1Rng8_ahKEuPTlYmEJe7P2Nx9GFKl_W88WokkDOrFLv2FvklrXr_7osQN_dFCZVu3af5nCEnlVYJBgNTZzKAQNDLjmvdO0YtbIsEtLNnlmUQ8=w160",
+        "#1023",
+        "#FF7DB5"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/5NWbK4hkW7dNAislOm69uGOsWkFymIfVk_em0rPB2VNSf4VSMa3Migx7vZpHY_xyze9j095hVnJ-GLFOPbkUasOn_Tx96zu9D9Uf694=w160",
+        "#1036",
+        "#edd49d"
+    ],
+    [
+        "Venom",
+        "Cosmic",
+        "https://lh3.googleusercontent.com/fife/AAWUweVsXL1fT-hfvpNeEqistv_ZR8pN60eEZQWeokJQ4pZOsC253JtyGI_CpqIWgjs5p0_LI7OHjWTnXy0mEP8HEDiK_yM2lLk97JU-XCt_5BZf1m78fpeEhgK3HJKbl0vah9me5z8McF_xANG5-Pxl68dZvUz4F3ev7c_ZFmg5r2DHCATCP5g6M5xuiEla8QVSIQy6jr_o_aGEIH4Pkldhn7LqKOWS4mudc2nX_4sTMEsDduKKzP29Kqwst2wm95snD52b6uw8-SwDdJHzQrUcEvtJ88TDzQtqmnF9Ayo3vkpW6NxquxNgZqaL3mfeWl81xiOpcjXjDMNUH0dDrP4luZ1ydIa7RpikopAy-UKqjZgl7X64-hMNX2JFuMXPaIr4etF_PgqAkx3_qRhO7Vb4ekpOAYxwieDkPW1jxnmm4b_NnOAOD2_9gzsGxcZVZxrCvixP7pI_f7VkKIR6Ch45B7CTZM5s0eBDF-fc6-DSBA_NZRAsZX26Q5E1amAZzjDKsbKda5qn4e-NQRvynwvq9v5Hu0JX7ECg4IgVMNeabxfIYfcMfRVnfnU9ER4lh_FftqghJdnbvyLqqxW3YxAPB7jNxx_rxS78lUmJPuctIld5Ke870zLFaAeMMUNwodaUsBTUJL69Cp_Zs1olrnR0IMSoVfAJfNlG6MSXi21HChhRiqOJkKAoVTYeamJvoFK64xhRy32qkhNkiW2EqX2MUEfKrBN7zbwSXxWPJGUcLdRtatOrb4IVbkcUkxX5UDoONBP59ArhYx5Szd7EOzrpzyDf9iYjFIpRPP2Qkq9gHP5t8Uzm9HrwQibAhYRyYC_706MJFxhUxX-H8lHcwNJ4LYmP2LsiaB8z8owMGp_NGno7STRo51e2fQfa-sPKDpGjWBK8fLrgPRr3NmUhvYb_mVBnoFb8hmuute1rO67kZEtKX6ROnudM8mITCrk9RiNOXiRqT5qf9roJ5qYpet8cJuUqK3AIMYLWQ5LAiRt20X7i5PhBhVZcckVctRI2Bav831Md-8JfZsY0ZJsDtNHNJZr9D1TsYbntPW9tOA6NWT0p7pp8D8V0nv3-iz5-mhoZkEw8q1VY-0ydJa35aKb5weGMu6FPI9dljbWMPA1yrpquI_oOALeIh5RuXEFzJHWXxo8B-NFf-MOUU0yJxQIJXVuqWImDpa4ARIHMklZtKi8ISY8FzCcipyiHJnaKRBsHb3h4LQ6gBQkOSshW6IO8IEz8lhGsUL2Cir0Vbrgj93pjbXuaEcNZn18qdKElepsZbkGVOkXiu9jAdoMTAe9mCQbLEwaKzDII31F6HTXnDjdLXx0=w160",
+        "#1038",
+        "#85c4a3"
+    ],
+    [
+        "Hero Neko",
+        "Hero",
+        "https://lh3.googleusercontent.com/5EnI7M1M_AJ2QTLHN_Ku_g-SD_OEigYQPpR59vCoeYn0oL2L-i83gUvnDR7xcfLCW6yTUKyoWO6wPNsqqW4ulES964opfuw_sQ4r=w160",
+        "#1044",
+        "#FFC158"
+    ],
+    [
+        "Artic v2",
+        "True Dragon, v2",
+        "https://lh3.googleusercontent.com/Ln6aHDbyTYC_bQVGckDDzMwlG8HvWJHdTcoDGPHNsC5NLi8tPn7hpPaZEvc0U2MsnSgSbZoCV3KTd5AplVFC3aakUBckr19NU0Ynls4=w160",
+        "#1103",
+        "#92CCFA"
+    ],
+    [
+        "Gold Beard",
+        "True Flame",
+        "https://lh3.googleusercontent.com/0_267Nhep7mwEIEnfVLaznMLQO6YNnQw5wodGYPVUdA_FSWLnEMOz4uZonNiGYPsN-kmR2hc5Wr7rPHhfjeqSUBPluc4uMcMNN1b=w160",
+        "#1119",
+        "#5BA594"
+    ],
+    [
+        "Sage",
+        "Sins",
+        "https://lh3.googleusercontent.com/lTXLVcjD9aLSPrHhUi1zT4FQLYev4Vpfxst_-Bqt0L75FSj1iz1dN9wFk9dBhaouKapSzkKENs6uzS23eDb3uoEvKHQHdVjdrJoZFQ=w160",
+        "#1120",
+        "#77C0EE"
+    ],
+    [
+        "Crisis",
+        "Sins",
+        "https://lh3.googleusercontent.com/t1P5emSS9ReRRw8TNpZtpQo-IVoC3P58OPfvDTjWR4rFA7qAz00o6B3A1y5SpcOhuMlMGoownQ8uY9YyazLf6P-S_JhKFOunL-rk=w160",
+        "#1158",
+        "#E01E39"
+    ],
+    [
+        "Sylph v2",
+        "True Dragon, v2",
+        "https://lh3.googleusercontent.com/R1uCh9a2EHj0YfrQ7X9bjucIukydpI03wohC7p9rvX736OabeGxio6MfnlT28_gqYE7nA2eExpA-queMHi_geS-xYAiut5P5m_MPaTw=w160",
+        "#1210",
+        "#B2FFDA"
+    ],
+    [
+        "Dual Blade Porta",
+        "Special",
+        "https://lh3.googleusercontent.com/BAOWWKBKKjg9WJ5S6ujH1yifM0wfzO8DdhGSI-JyCPQ1jLDxE6Z-Q2O4jyMwslanOABfXdvdvgexZTc1V1c5kyk9fobMrh0871NY7w=w160",
+        "#1218",
+        "#9FB7FF"
+    ],
+    [
+        "Fox",
+        "Animal",
+        "https://lh3.googleusercontent.com/HC_AY9t8oJN7lyZz-qFil1gob5VvSEaN8YXFSBB2RYYgFqUx2g6KH91If025466HkszDPGT8nisP6dsonFz4zZk2F9HJJwHiHHvbig=w160",
+        "#1219",
+        "#FFB667"
     ],
     [
         "Contra",
         "Villain",
         "https://lh3.googleusercontent.com/WAB1jKhostRnwVKQiqxwUj3oz6tMHllUptuMEsm4_17jPgKcQfzlGqY6wC68aox8gFKTSoVOj7j9Deu6fbRFTyNkdSnuC-HkgheiBA=w160",
-        "#3425",
+        "#1246",
         "#F3595B"
     ],
     [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/Wq3yDHBcF4qPm9hcuAotaPcMyUBrCPRqllfKDdCcAE_N-RAmFWtsFwKU4znnx3F8T_iSYUYvms_jarI-rYjmSw7YhT5MA-m7-6DawQ=w160",
-        "#3446",
-        "#94caed"
+        "Shenra",
+        "Sins",
+        "https://lh3.googleusercontent.com/P9FnivCYjKRS6z3Vfi_6Q21YqS2CEVKxdWyF8qxV9sBHHQBmE3GZxWmMtk8n1l_-5N0E8eiGR9fySl_XIJcZWYBsBknSTRXmC5o-zw=w160",
+        "#1289",
+        "#FEC085"
     ],
     [
-        "",
+        "Moonbird",
         "Honorary",
-        "https://lh3.googleusercontent.com/GHZ5Pw_14NilABwomEHeTKKL8KN1ZF4gngltuFY7giTdDT4uHjrygu7fIgbFGAWpuqnfa52d1n6ZV25sqqZYZ-MG4Js4sXuqIFsv=w160",
-        "#3447",
-        "#7E8CC2"
+        "https://lh3.googleusercontent.com/dqeU93hwZYOWcUt_aBQx7F_AZDtqJ1ijuoHuXDGUFfR3smWaQAu34IZ8XENxbEpCM7xi3akpnUXbZOtLRHESeLDlcoPr4m2g4dTH3w=w160",
+        "#1308",
+        "#212429"
     ],
     [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/7CDnpSmIStnCtwEzED3rJSqXMZ7gBstvUzO50bCWAqEU9e39l9jT2Acy3bMtWYklH0oIYxWrWYJxiMXP_s_seapcliI6SdaBjGgWkA=w160",
-        "#3448",
-        "#DCD2FF"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/dNDYrXE8l4tSZ7MiZ3NKY4Rfh1tVViXU44SFB66KzDYsdPj2OxQLFAUXXFF9OraaDgnwIEOAkp1tYHLzbuiVVDH_X1OlpZ-IFBSRD2Y=w160",
-        "#3449",
-        "#ECAB8F"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/1AXsVA8Q0ZR0RkcDjh3fSy0VlxBymvSMNnq25hzjowvd8ME3OEKgAUjhxrY8dwPWQ4JmSbJ1Tj55jHkQhsmg1nNwx9B418wQP80n=w160",
-        "#3450",
-        "#df9daa"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/nHt4POBdUQ__5fX1FcMqSv3RRBz-R8gbrqxU8FkV4u5jfq1Li6Di9J9qyCyhLiOcqQaS0EZH2t7RhIkPJ3K1W0UsBYt8radjSsZWN7k=w160",
-        "#3451",
-        "#eac3dc"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/iFnIMoFdSxmhyksAGOnIYwS3yqe9LqJsLd_oawzyOpNJycD4jVrzTytDsY2e1ItaRRbYFFjuDHmR5MeveeJYz4QNCDoxr_WUqKuuOt4=w160",
-        "#3452",
-        "#4E5280"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/UeBRSz2NW22dfs59ovlcDbvi9tjslAF_7tPGyBPK7oFwv7Icrlay8LF4gJhxPAMtG6z5SWDTXqdgtQuRZvSdzT9Ln2Rldxnlau4UEKw=w160",
-        "#3453",
-        "#F7D07B"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/tRdRdIL_1YimUkf8kY98jycmuti6wG7tVVMG0AulvxyGXI7c97-URMOZSTza05NwrIGQ_4nVG3W4HfuQuUr5FbykbKQn-SU6uHmxjg=w160",
-        "#3454",
-        "#B7A1D0"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/_Q4bHEzPDochlkfYmiqeHar28J8zjBAisWVgBvsX8HLa4CV6aKFovY8LvR5Q5FUFSISXE_T3MnMbUfxWko6duBr4I0Q9wIcdp4lBXQ=w160",
-        "#3455",
-        "#DAA17F"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/1paxNLyxoHUQlniaLQm475I45tpQ0_KrG8uc_OKuwhSS7nxwv7ckA1PsqRLc1cdTAUveWQVolOs1QmK4nc67yimy1xWwu-zmPhOp3A=w160",
-        "#3456",
-        "#FFD50F"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/p86ZivW-Q_WUCu1X21ZodvurCwuT335MCmcCY-rckk45auwYY8RYrNpjod-MJjaAJUYjJDDHJ4hzRIOBDv6oMpmhnvwZZUYolB23WA=w160",
-        "#3457",
-        "#88afef"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/_Nyf5SN8FsvkBtBhOLyrKftxrbXPDigMxKMzb2i8w6zfe97dpIEfNcFRcjycKI4IqfFcehvt7jddSSTT5CUBVXCoDhMvmMOJX9tj=w160",
-        "#3458",
-        "#C5FB64"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/MVTVoxmP_ROsDN8tVZko51L3T5Q6E60mkswHNq8DaeNfciJspL1AozYDSYQUAr3LE7irlOnzL5jv7OHl0_tzZv9ks197HcnTvG3s=w160",
-        "#3459",
-        "#F6E2B0"
-    ],
-    [
-        "",
+        "Bunny",
         "Honorary",
         "https://lh3.googleusercontent.com/cAbQL6SVwOfGR2OabHKraPOja48aIazqaYseU97n62zUUNfJrN26mrilHl_c5Ez5H0qScu_Fi-tnK_aGePhoMQK8bOa9qPdZskRTJg=w160",
-        "#3460",
+        "#1330",
         "#DDC994"
     ],
     [
-        "Sapphire",
-        "Clan Leader, True Flame",
-        "https://lh3.googleusercontent.com/bSqlm2iVpgyIGtxZZd_TRNqiDLvMdGjiqv1nh-DXVzVcWtWU4Qfjl-Gq1vvyBFElFZ1CM779_I1YIQfQGG-GEk55EupvOQ4yjE963g=w160",
-        "#3461",
-        "#2b76c8"
-    ],
-    [
-        "Berserk",
-        "Clan Leader, True Flame",
-        "https://lh3.googleusercontent.com/mM_gDXPpbSWz_xSYvaHFQm4cx1FDK9U9BcYDMU9uPq371m_deqDymHTci_BCgK3tFacd8pjYYTU8a5fkgNX6vCFyZT4LdaFNf5_nMg=w160",
-        "#3462",
-        "#232425"
-    ],
-    [
-        "Nova",
-        "Clan Leader, True Flame",
-        "https://lh3.googleusercontent.com/C8NvI-6lv-gU2X_gSc5biPUqNl8ntmZn4IX9f5qFjbdjdkBTGSpBElonm1wBCL1GUWEfpxgnJSolaM0mAtnRrmLQnK5uWFX_HLBAkg=w160",
-        "#3463",
-        "#e4d5ad"
-    ],
-    [
-        "Phantom",
-        "Clan Leader, True Flame",
-        "https://lh3.googleusercontent.com/7x1OwATS1GqvdGB9vv4BCwQNJars2_uluBcMqZVh_19VlbmmGaSC9DE1z3NBIt1U3PvGUXANJaU1wg_QbVvbxwjH45nzECIs9rAU2tY=w160",
-        "#3464",
-        "#676ad8"
-    ],
-    [
-        "",
+        "0xe8nicebot",
         "Honorary",
-        "https://lh3.googleusercontent.com/es8akDM2QwiH-TmNZSm1WiWz0uBtMvT4pplBTA-N9ELCdGmAD_jvydwGP6jW_qNX5TfPiczVjAZrx6cCBSmAs7NGYYzyTW7Swb4MTg=w160",
-        "#3465",
-        "#5FAF84"
+        "https://lh3.googleusercontent.com/MVTVoxmP_ROsDN8tVZko51L3T5Q6E60mkswHNq8DaeNfciJspL1AozYDSYQUAr3LE7irlOnzL5jv7OHl0_tzZv9ks197HcnTvG3s=w160",
+        "#1342",
+        "#F6E2B0"
+    ],
+    [
+        "Force",
+        "Hero",
+        "https://lh3.googleusercontent.com/sd0XNHdpl7V1nPP6q3kqQd_0fPGZ-25BADw4Q_vH_tAuDjVA_AIUfrkvt7VTvM21gp_gJeTfXiTAr5oYxIzbocJKjKEZ9yyRlAHMpg=w160",
+        "#1419",
+        "#FF6D6E"
     ],
     [
         "",
         "Honorary",
         "https://lh3.googleusercontent.com/fzdqhQ0_3_fJg8SNNA7QNKYU9kFDYIDzQlpz4sxI9NI0tAZ939qoI5G4TOEFkdGZjFGu5leFFLF3jsglm8VfYri5VBpdFd9ldaZd3w=w160",
-        "#3472",
+        "#1435",
         "#ecd379"
-    ],
-    [
-        "Saber Z",
-        "Hero",
-        "https://lh3.googleusercontent.com/RyAnhRi2KRELJkfissW0bpf5uZKgB-RwHWk43YbhmYGMUJU5nv-hDXrYH0YtztzzTU4ACbsZd9tx2_ciIqlS0bD9hb4L2U5wvXtCCA=w160",
-        "#3485",
-        "#F58EBD"
     ],
     [
         "Mummy",
         "Villain",
         "https://lh3.googleusercontent.com/kUagRSmasE0GhuOuLUaqzZ0LvEN5VVS_VGM1HF-u5rPL9PTOMl3Dm-9DfPyoewkqTFcTBBz-37Q68JcHNAQazyAcNUYAczSCHdKuSg=w160",
-        "#3495",
+        "#1443",
         "#FBBD4C"
     ],
     [
-        "Hammerhead",
-        "Animal",
-        "https://lh3.googleusercontent.com/Sppzq7MWDod_-PJqgxcweXOxGwtQTnFyH21Kghn52oYVJvuq5pzeAB62kVu0WHCLsJjDMyF-h8mcLCa04kDInDFPBLFNRTAE8kDe=w160",
-        "#3532",
-        "#9BB3DD"
+        "Glitch",
+        "Anomaly",
+        "https://lh3.googleusercontent.com/SngalLwYs5kXXiDWJJbYXxyl0MZai4uClSxIpjlaeCNv8ZxOewr1qXI9Hj1Pmz9MbFHdMGxg7bbu6_y96L6XmIcCM6K_Q9ansU7f=w160",
+        "#1508",
+        "#000"
+    ],
+    [
+        "Cloud",
+        "Cosmic",
+        "https://lh3.googleusercontent.com/fife/AAWUweXOpUqJMncRfYxKBWjFjNfLpahujKY2SY5zar2ZviaL_w8C3TRIR8vmFesNLa902RqNHUhhu9qWZn0KW6vxUJJemvMnaFQLRnqcZmoDHyxyJULKS616Iydt3yc8z-Fu2hS0AXySq_f9WhRpclN7cn20DFpAN_IMTb96pV-770CIlrxRQmTvIhzTmgbN2YJtmByQvMLTyRZlZHfX3dskcKKC3Y6UF9CwJ57d6H8VqTlJCfJKl0PAH75IbPmLk3ovLxdBZbMeW2V6LmZoJv8QDXw1u-Bhdi7FiStHBLtjjbvgwYcMdISb6uMvHM4J0LSyHoHlpKyVMWL8z9jDiTGt17HonmgnsTGxMSye44GcAq3FEQX8CzjbrWLpE5kcu2x1Ts8ElDfitg1Wlq9qtpb_g3dzka2Xw3EWIGFVlNS6xSO0M-3bfAbub4EibZf3ojy4YZSd-6shllAY0H1p3CQn7P9226RXrIabI7LeZWHBMvUxlb0F8WzDMHDbKcTMUx7ikG45z9pOml1TJv3n-fdkVHPicyZKc6HRxvF4EyuQsfE4FddZvqQl2Kuc0GOXTZEhV2iOjI-8LdVB1DVLk57cQeaapTSDEWFDxDxAhrLZ0wzk87TH-t8DfA2R_CnS5HIXgANf5XjgbCCWqbsKYLtyb-jyUZpFWzQoK-m4i9fER9G0bf8g0v2XzZnueu6zPUIYLlg-Pb-3WVw9rBTmiQrYOD-OtXzdRzVI6PeKRbbzyFITbo439u243eF-DEbpNBittgUUpKDk3tgoGykaFDPOmMP_AW8NRB56YYQdyM7zwKZCcxclG7dyXfnMTXFQT4Yn7Tz_m2yMtf3iSpit1KJzNyi0iiGgpI-DH2yU0H0uPGECJINXhGkoxIy4uAoyV5vmZjJJUDSn1H74WoYYtQnqi3-VDGIsy1zDLsAy6sQSySgsIi1zi83w4tkgietwyjRSg6me3PL555lq52418x5Gx4dzbkzc5LRsm6f-p6r6yDrm45pYzGVrkLSKartCmZgFo-WkgxjXAVqYEkcgWIAbJ2AWsYEcQN5VWnbt2G76sutBGOSOib5x-vSkLrdBnymFylME6h9NzggzmVOxka88LzGvd9xPWUJVZswuRhNj3zaYkvLDz-3hMt9RdT9kfX6oa950A1P2knIyx5w-zfRdEq5CAB5PYWVWVMKDP1xWzXqX-6FkSEMQOnehchxfaIBzD9l-XzzhpXRv_sBJE7vE2l1GIhBTMwfdffYbmBl8sYWS-OXTFFiCjp97jF4NNrug11UJ-GNmX-WuyVZhoLI--wXAbLPQwu3GVx_qCD6jvyA994s=w160",
+        "#1517",
+        "#bbe6f1"
+    ],
+    [
+        "Planetoid",
+        "Cosmic",
+        "https://lh3.googleusercontent.com/fife/AAWUweVb-jW8au3vo4s0O1KNghjnUMBEVkeQBTIZ-3bCpBBI6SYhRXyiS-pI9XYy3q0k25IaDlRKihZFOWP7EH3GpwmjIv3h7rc-ONBrVtb9F4ikpnR6spfFFM1BNVJKqxOglrBJuBNSAPNIGziV8-mbGKugy_TyNrXoJDUEGnCUgtQD_J8Gkx9Zq1FoxGlfharuBNjq-pfVpslDgONlBMyCNjFZ_nq77cABAoFA2e0UhUl5KSfveiL58AaM-VyeDQdRdZz2-agyycwwayninbuuPPik5ARzuqHwmEoH_vLtHIlLZUMUbK9C6XZ8OkPwqVjnL15Od70E1OUyhxVqFuwCj8O7KyjSJL9nNw7U1P1uqC-oXInMBuxvoehPZmrbTqWmOmC-zjAFX2vysUtSzw4ZHaqY77NhbCVKx53gppO6F6loYrylPddgWgML8uw2tOOzxmffS2TDhKf2FJ4-Mji23xdStXUIbAh275EfsVNRbGilF47zYOvqRxt1wyO0IsVvGTcz_G7sMJvVl9C985aNH2XK_Tb9EP9ytAW4XbrTkR4YuSY3XISmzL5Azs4Ccf6f-XioC0iGG0b0g1s3ZTGhYJeP_xC-pCEMghDehO-jwmLogoEL6idbX348WgADmims86sUSb8r0S5PgjIJ3vrDHQrGn3movSv9q41NcowGkE797wqiAng9kk1i9jiyodqni5A3F2p4nVQ0hEv2Vk7TWXSbGsHGE_KJ1NI9RYEEckO6s_pesU1o1-yqTW0ZC6bu7LpATlm9Ht5KZPx8jNocR_Br9x-j-Y3MXemlz5tG6JFzSsy5dLlFsXCSUpW77ZOMKBbZ4pYH7greNRCJOIBA5BvqLDxvUii5Kk5vcPyiwXmgWUQSF40Uxy9T_hGH1pEkx4kBnouT16VpKv7lGb-JVijMq8N1xrn6okiUKYHe12mR0PWFenFjEk6YoJaSbrPMrE2xDVDKSYOUBtDGCDnRW695l8_Lihy1ADhmolMPfXwWl0MUnO2QNwQaqrFwy_owXEiwU-FM6YIwnOEMGYOT4uPItK9jG_927wBAp1gNIURVvQ-A6kbzSowPcrcCaUMZ7lRyGf5Y_Q4jqByF-roJS6xk2Cn7S0WQVWFoCCt9_jKY_HmurM9kZ0qtt8KPOFM7XnF_DRf8zooBLzdPNI-nOwXMC32uzvwdS6Y6_JA4C-iOn1q95XtyqiNw1JpswLz6zWs9EUWBlV2WD5BkMDcROrFfDCJxfy5FSXlEAuxXFpAf12gtxLyI8lSEYWC0KNz95UB_naH5h2E7m2HB16Vgwwtf9ZwJEn6dtd9Pj6By-t20nTI=w160",
+        "#1525",
+        "#FF7F5C"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/tdUjhsJaD1D-xODNhPat_EYFjbXvqLfYtbO3t8Ih0OiyA-cAVyWZ3bKtY9BcsGv6hlvIfdhc_GlIj1HDRW0Eicp9Y240T2g9KTdjWQ=w160",
+        "#1535",
+        "#E28170"
+    ],
+    [
+        "Cosmos",
+        "ETHERLORD",
+        "https://lh3.googleusercontent.com/iE3Y-qBLzl9rj_EusSBJk6Ic8jUqvpxR2tzY9yv1us0TR8ozGhYcnrPX-j_SgT4hrjMx_aHg3L4HooKRfMDo0ukL8oQ1-3Nkmk0KVrs=w160",
+        "#1597",
+        "#505877"
+    ],
+    [
+        "Rowdy",
+        "Cosmic",
+        "https://lh3.googleusercontent.com/fife/AAWUweXXMRomQeYMERc2L8NUPZ_U701K0Wm0dBUmritB2lxrctnTmDG1_P_l6eF6EJGovUZkJ9Xnic2dXDLbsZ_T1UXZwWbc64PkhPfszsZ-NIpAS6jdpSGSO5mmwymGKjp717XNVqmRHHJ_idgnE0j7PkWfgQ25VvPnf_yyw2UxxRzr2HI0Wg6skqlPIxRG_pI41uWjE5eUWlzx3ujZRvtDt4GxEZ2CIdXVOBUl1RSIEXU-HkWg6JJO5NMurdkNGuXVvQ5lwfosJMNuFAn1HCWU9NKuIFD30DPbqMUsL9O_DZC16kcJfYLIns1Fy0BbkMV0JtM1bzL-cO2piC6XHWHX34xRAfykWe3SpVYJZ3mNYG5NFH6DsCByDY_4057RMwG6uFs8GLRTgsl4GSkO_-jxaI90lXRxFdyqQLn22fuw-FLjx5Xqacft6Eb0oTXXd-NagF8NVddeL5ngMI-_xIi0Cx4pPPdQ5VsOOaXLXx0557idz8pDHtxQlWj8zN3ccUUep2CFa8NTPiEtKAh95fMiKwAb4UMRCtHdsyIFh8pugO3B4E7_pnmrJgbIJYis_5sJJNIb7zi_ckEu7QH6Zirdv-z-DpBEu6HQLuTJRRbMx5hThwQnkNzSbuejLewSOI1Wh_63jSvhC5fMTeOv8hpWP8l-p_ShkaZuzkFgEXZGOLyydyNCnLK0J8DPGk7U6I9l-oEKgSSDokeIf2MsMgZB9IvXb1MBKFouGvmd7W16xGH1zG08lR32K8TFBM7be3ZAnp3NdWGjhpCgghESEuiCk5vVNgQ-RqXDLrpkywL2_NcTRAwEBJWzDRFZakpeGp9cNox3hwMmxRuMISzd1lUdUCuRsGBXdKjkKaP9UTvKnIQA8XPQLtJzdFOmzZK-XnfPFvmadHjTmFw3XWMODmIkHeWBkhUsjUQ_vr-JMLBkqppts7G7cplOu_ITEUUnOWLJ-VM0EHhYrmxFdPI7_CnF_z5PoJ_7oiLNQMpP9rjsFm7HwcbA_f7rUiYD7JQeOMvJTD9hNqIFsiDwQU36rZmxhSELpi_So58U2G3Ir042uN3Dtoo-m3mzG4ri0GBCWw8gEUv3H_qhwBUjHbw-V41HMP2WGqkiJHIlhe2VZ2sb0ueKTGLO2n29OF3v-QMqrVdtcUFpaufbbHmQ5j_hFLGIAhR39iBW7a_I_FkFjKPar1WjX-KfivEWCxcciUc8Ap7mOTd8Eq37LNbq0NP1v9QXiNlbv1rrI7nMfUkQGWB7ShDnRTmBwVTJQKOmvTTOkUfS8MsFCYrxCh2Z8weaZMxNMpVu7z6OczoVcOaX9J61Qhey-Eg=w160",
+        "#1598",
+        "#8D63FF"
+    ],
+    [
+        "Warlock",
+        "ETHERLORD",
+        "https://lh3.googleusercontent.com/90OjVHxqHmPtHj3iOWuRmWrCznltbcKTJ04oxHntT88kcSMxgfciQyhihw7tPGVe6aMiVMNsRa8pX71TmLX0hmwcXIX2T_hCNxECifo=w160",
+        "#1608",
+        "#515151"
+    ],
+    [
+        "Fang Gang",
+        "Honorary",
+        "https://lh3.googleusercontent.com/uWkpMhqc8ayCcdKPW3jFYvDRX-BlXoLuUNv5bGOXLqj7ev5f5RenuytzU5s5T4FVvHiIxSJI0N2Q5_IU30CyK3jYZ_cCJcPTFKEDmA=w160",
+        "#1665",
+        "#96c1bb"
+    ],
+    [
+        "Orbit",
+        "Hero",
+        "https://lh3.googleusercontent.com/hjiB4-J8idCcZ9Ivn7tDSev5HWu7U3hgbA-yrL0OKafj2EzLGAB3Nh5GYpef77xCRZvOy9UNpCyjONIYPRNA3JwvtnOJs8Fv71e38g=w160",
+        "#1666",
+        "#FFC35F"
     ],
     [
         "Dark King",
         "Villain",
         "https://lh3.googleusercontent.com/xtdxzHEPjpieNEbjHT18L7AnAVv9HPTV9K-kVH-NeZIraD6u112rcIJ2Ox3rVwiYDJd7rK3AlRPkxZvwA_Yy-e1K2060tKtDxAbg6Jo=w160",
-        "#3553",
+        "#1667",
         "#5F70E0"
+    ],
+    [
+        "Curl",
+        "Cosmic",
+        "https://lh3.googleusercontent.com/fife/AAWUweW4hE5yzrhr2hry52zjLw8-5DbFEq5XrFkKS2uiG6LWt9RYQXjp7xZZyXnsJl5d5GeDfyaD_xVFAfDtshfoM2ajr-31gSr-a3FxO73iEQ5DzwhN2U04_bB_qNXylhnmqJ8VaLVP9cdPUGOtTs-WmAUE-PGiQzTwSLTKXJgDggzNOGhz_2HKjUHumBSevsFuXAynMuudh8Pd1ET1Sxus4dT0Wak2h0_lzQRpvihffKPzdsXLoFV1rymuemWRU209kE90jEDc45Xoq1-J8kBUQb_udhVhs4U62c6x6VSeo-RR-4_S3o_qFLTzGE6R37aPbLl_qjwCWOdP6iMP8kEz1nCsOBabl84fMBg1b2n4e9QtKhwjc7UW5nU3xiWn6K5AoQnY3S3bOmDW6f294_dKr4Hw7ufRQY8abFvwH_aIvaUcUQ0942xZehPh_L3vz7lAYnvHmO-hR2x40e-CNJUIsCOYWuqQchWhKDIyNVakxbJnhzV1vwG6ztRkZQI4vw07s99ozaYHcobTtjTV840CWUZ6LfNPRBSfi07oQ6pSO1FKX_CrBIgmZYY22ziaKszbcDpd_FismjNrK4z0WHr_TWk8pMn8ehbB8kJPHYgE3DC6j3E7Eq539V1YcRHBDre9oDn2KG1O-SJBGY7W0tBkzocklDz0xmCLWVz-IZfjKF3eJnIKhuUENZ0irtPOB6IWS_M0jwAimRcNSmvo8zJffDN6ei2M_jpV9Wnm8uB88nOh-UxfP1iut5Jz15m0N2aUPfVzdX5aRpM_q67BCnZvd8wRZHWol97oLnJ87XNucXozAcyDJG5ZG7NdOQGHVD3jl9o7FGdCDLCyrgkpGgeRd5upb5B555eDl2caIgMxFN8VdBQ6pU5WcMkYdHVNgn3Oa8NSNmfKbBKUmJ-zx0Bgnseun2L2-VXrTaau3CypzXHoZe9PecCYSogLCei4pbxL-04V51kMtLQyDwB3HcWemAVzMjTbzO4kNqG3lvOtoSQuJAwaCIgaSE1eYOUNsql6I9tsXYfTci8c_xWVvTKc8dpGrZFz-Rsi17UBXq5enyPJ4Q4id3H-W5B8Oce0goqGW4NVOgzMfIj96yYI74X1sC0FRY0M3J_WT3p77iD3BpaltPqzDeZiKEaJnBjV4Uc0LMclJPjyN37mdlZEPXrBwyV0ikWMtxXGbWE0I6FSeTLfD7fU2FNP7GLkxNyjV-d58eHDnJ5i6QE9AI66cPPWrG-GHh-Q0i25kem4yJtia0-l-6Y_Fg2ISfpltZqt7WuZ4G2vsOQWZYD4eUmAfjtVdaYlFKdPQt-47ObzGmY2IW7V8mc=w160",
+        "#1699",
+        "#FF994B"
+    ],
+    [
+        "Fujin v2",
+        "God Dragon, v2",
+        "https://lh3.googleusercontent.com/UYcot5scsmaFmHxRLX3EDOKwKHcEiY1nC2qbf7nm3rcvMZ_6VVX0y7OBFzG-NLGGUp-OXSexlvvptVpxB1ZqmBbhNiGxxc6WgOHflA=w160",
+        "#1708",
+        "#F8E887"
+    ],
+    [
+        "Sapphire",
+        "Clan Leader, True Flame",
+        "https://lh3.googleusercontent.com/bSqlm2iVpgyIGtxZZd_TRNqiDLvMdGjiqv1nh-DXVzVcWtWU4Qfjl-Gq1vvyBFElFZ1CM779_I1YIQfQGG-GEk55EupvOQ4yjE963g=w160",
+        "#1792",
+        "#2b76c8"
     ],
     [
         "",
         "Honorary",
-        "https://lh3.googleusercontent.com/z3tntauK3pgeGFNiRhOJQnkfzGcldkm0CjLcA207X7EWCeNKSenYZuYirC8wlWzA45zOIAEHCHO7wejpUQbWkM0fmbesU_rpXoWU=w160",
-        "#3570",
-        "#FDEAD9"
+        "https://lh3.googleusercontent.com/7SQqvnkNWfwxk1z--SlnNjyj_ejlaKCxNXoGhsBLQuUPeX1v9ANuLFrjb2Diu3B_APMNBmlA5i12IeBTRqAjJceR0L7T7LbFPET_4Q=w160",
+        "#1816",
+        "#5AE252"
+    ],
+    [
+        "Plasma",
+        "True Flame",
+        "https://lh3.googleusercontent.com/bXTtsXHc5aj1eIyY3oT3Xx00ik6U6RAPxWj0pa4CMA1_p7FgRS9FURd6q23fZPTSNoBVd_0bQDuSKklxwcu31wYTKxEIop3K3W5oMs8=w160",
+        "#1831",
+        "#d489b2"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/kAMIuGa8KLWHnora8cet0e9_8Ni8ibtTX-E0KwuFD6tybeAAJFQAU1mxcM94ObZl6yKYye3iIUF-XFId_-gleyPs7-JFgsKxFMoQoA=w160",
+        "#1849",
+        "#FEEC9A"
+    ],
+    [
+        "Undead",
+        "Sins",
+        "https://lh3.googleusercontent.com/PYpac9cnpWMZqQdZZqAlCJXXvIqjePOZdEU5mYWtJAa8hLzGTmgRcEidA-zWwIssI0-dUazGTAUOi9WSIf074Y1k350LosVBRzr8Ug=w160",
+        "#1867",
+        "#6ABD88"
+    ],
+    [
+        "Magus",
+        "Cosmic",
+        "https://lh3.googleusercontent.com/fife/AAWUweWBMjvHPA_RHBT-3ImM518y-dGctwsTms2jRYZOQFYkcmBO5mOOHbR7k9iXjatCxP7qIWiknutU-ww4pL1lH1hgVhsAf2PCvQfDMAva4ocEmpVBOjzdfxHtnrx-_HgAweYBpoLlaZbyRzzZrdIh6QRzlQ1vNiiZMiw0SMvMrRzQEixBtSCGGKDB4i_DuVoUkCVliMCCx3CYUmtygru7gXwjoIZ1jY58Jxy8EvTbUxsfJTSPjytXYXV4BjA0hEfMVf2m6KsrNJDOPJpUmoqEQ2N9TMK6LJdhf0oi6NXJqOjp6s8MlCofyYjEUCuwztRCGipFhFFWzjHnDDbhNSsEQbYJte7OfAjQUav3ot1BV-zIJw54Sk32IVJMx2Uzda6n728SY08RN7Ljur27lck6UhXKdvX3-eKpAPUJXyvGWrrj2XU7ZAXejpw-mDF029EkZZFk3V1DlyW30Gs7RM2Ad4cYua-_hMPD0pKKiTuckuNTyxOXGF4d-upqfh2DEZmZwaBgKiuTp50E1z0i8VuC1-O5Q4gYBj_0iMr1Kb2bnvM-dyPNz5dM5wal1sbUpidQTnUUVoTgcEv6nYv8VMhKbXCzlbcqCD8l2IHMccFUr96DnXY9oNNcBhp9oaGG0st3itKkSVh9AqmdmXZ3fAFiehJ1mwTHzi0yQJgFbd7L1lA1R7DDuMvh5ogEwEC32rf-mer44tTaO-Z-zsLu-ZFoYjnX2bUBPpx1gm9nxdJX4FJ7oS6tWd2TKUiSc8gRzA-jzw9iGhQFsI7taKtxNcx-_e6CU5EdCODwa4x8Zz8X-v1dlbbzJulCnZQNe_VmarMD_cLKRKN3Apof8FpAJbbfGFnilTM7KPtbe8b9qFJsmgB6mwVbyP9uQR4C2g5z89oa37vCnQHHT3l59-uBlfYlS9XLAnAzpFQLVICD1EuxHp3VBYGofxy2TGi3Ow2OcxlgfgIIXhxnBzbsS9aWIaDNus176tcASo5DEmLj-3iI-zGR6xRTBZ-a-Y30tyzf6dlH4ZGfISOzYimkhgs7wl1xclbz4on3__cQm-QWdkIoCSZL-H1cS4Oo4hMXas5s_a1reE5vrIBsV029lvrli5h8E2xoLXWXbIYo0Kc1rkl79zef6UnKE3I6O-GqKNVYLzFR4_Tm1RJfHTR2R0hve6VXOOcS7QvSn5yksVmUMTKBXsBEdQF89iZAaCxR0rSc5XxU5G4H6fOR4lvZG3cSHi_8sQkYxRLKGp5K0CbgVIaXt2FerfyLyXMuQKMHlO0fQsu-Z_awgoVvOWzfLxJZ_7hdXJUNiNltPiJ_JYMU13vU8IVTvqI=w160",
+        "#1873",
+        "#51E8FF"
+    ],
+    [
+        "Boss Ape",
+        "Villain",
+        "https://lh3.googleusercontent.com/iMpa4qMnHlfXC7S7VrbrCCuD878_PXeaAKXFKx__8W0Jx8gEeX5fq3O4NXmZzhcX4nVWA6eKe6C5zRExELtx5qI-2bNAvqVmrXHhpVI=w160",
+        "#1894",
+        "#F3595B"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/k_d9kh7WoGiWKpcryEFS_VLhNBSLJr1ALe0kkl6Z3N2_18jmNk1LMBHzl1RXnM1SOo2Z7sOowZ9Mc9Takv6rjKfSkCWxxWL5e5V4s9s=w160",
+        "#1949",
+        "#F9CA74"
+    ],
+    [
+        "Gemstone Keeper of Records",
+        "Anomaly",
+        "https://lh3.googleusercontent.com/hHmjMvR3Gez85tCWWmPh7q_UluTvIpOuCLXfDEZbu9E7TEfrlITUZDYDUrKVlgLgzYwxSz_CrRNm6WG5oeOdIBF_r6JLEj2HkoJWtV8=w160",
+        "#2012",
+        "#a2948b"
+    ],
+    [
+        "Yamato v2",
+        "True Dragon, v2",
+        "https://lh3.googleusercontent.com/2Jdw0izv_zso8fabMib_hBYThU9dKKGe8k6i2YFOeCRSMH2oGb5r3oGS9-j6HnwkIz64sCph0RyFP0D_RpuoGE3e-ajBXWXvTPQmbQ=w160",
+        "#2061",
+        "#e9e3a8"
+    ],
+    [
+        "",
+        "Anomaly",
+        "https://lh3.googleusercontent.com/5P-_sDzNLQ9uDibYmZwzUz0jVi9XQ59C0fepwxpvm20DudZ6bmBSJA7-FEdc75EDsk82ckQh6s8kgW3zMpIN5IigHZk7z0sUCEg5ATM=w160",
+        "#2162",
+        "#D0A9F3"
+    ],
+    [
+        "Specter",
+        "Cosmic",
+        "https://lh3.googleusercontent.com/fife/AAWUweVq4uGnJYherCBs61KZC-erIHpu2yVf9dcr9bjmJ0FGHsb-O_V38ARQA0ybr06zt0ZeI_evBxNnpqWAF_akrPO0upnjYJ2OQwzaMB1coZ5lifQaJaEOmg_prmqVRiFH2k-SWn2Kf338If9lP1UCFW4wmnmvpKM2vh-WLj-_LNsQyHjn6FYisgih3-sHz6VMTpieUK5YyiX5VKclhuVBKQBPS0-V8QQUPnKSw4uG9KcqSAF08yAadzYaGW7gC2zxhJCRrn5RV5ZkdUXs0WkQMKi6xE8WcREx0Dia9s04arp_5UswbDE4jwuiEs70RAMd1GmArwqOiD_d3qxLSKrgzQrBsR4C7eSfXXOQxKsGcCs2lMDVwZAgJ-dUz1hwG2sWwd5cRmhJRU-K1WFOyha3yq8tfQBdgTduIbML9Va5CoQNR1HgQKxDPBL3txcHgXD8IDZs6xOYhcnDPgvIfaDfu5JXs1CqiMiLNH9Y2XjzfxDTmL8y-25g_T3vpWjwECANwzGbvj0d3bv9tDFZM2_-c0K2I2j3tcL2gF5qN7wrZFw-PlDiSFcFuFCID2osbV6F2DmEndVFvOnqtoeji-ACoYyoNBbIlI9DW7AFRp-9x2Y5r2v2yndE-Eoys4zbllJWXIBISC2C-9-8_MdiGX-rwqCzrgmExMHZCDtC0za7xLTY7yNaCuCnQ6mojQI1G6mmM2prReJG-vMnp7QEQ8sjC-VT-zAIEkjGbkWEhJ2uoinB4a01n56een0D358M3K87L6iOydsMmgZtlFDBNr7cie7xtbZ50gBDqtkBdC-aCNa3Y2anIQBLx0OdC6spWZNspSqF44PSJsy-9fwSlHw2Zoat0vun129bN_9Rfd2qm_YGdRnCSn03xpOoGHWcQHbI_P-KLorB895MAEcr5Fzz26io-oYg7kt5Aix7n5qgCMs43v-asDtpuOFx3l9nrrQ6LBIQrB_M26vq15Hq8BP1fqHTyYS1QygQZX9sSX8E4Xp-lPB-X2EjZ3uM2A0GQYzKS_AuZtow_SEQFzizVkFiHpccQS9SSESSwDGm5H7QXsaVCLvqxPZ_MNv40WFiP0uFWBZCucxMqtdXUjDJMVbqzVB7jQRc4C7kWPt5irB51C8AQHv8y6gD-d9VheEyT6IOBFGigViPxA7pHXIauRjwouz1Xxt8JDs9IC5pEihBltI7Wsi2LTEyL5gUZSjy-l1gzem0rMYtIRaSjyYLlZdW2HxJZmyTydRivHP6jmX6Fyd3lo2Io7Mrgc77jY_3ejmZTHK072P7EMwFRz_HqWl5gMArbLg8QiHh3fix11X2LwTG5YM=w160",
+        "#2214",
+        "#7796f4"
+    ],
+    [
+        "Mystic Lion",
+        "Animal, Mystic",
+        "https://lh3.googleusercontent.com/kv8qRq6rAh-bgY8YDn991n9gHc03pF13bQyay_9EQTQz2z1MAWBIYYWGQ0ulD6EFHmmlYlIGPLPGWLtUbJ7hBf4Z40-VZn1D3yRlog=w160",
+        "#2234",
+        "#EAC78E"
+    ],
+    [
+        "Brutus",
+        "Cosmic",
+        "https://lh3.googleusercontent.com/fife/AAWUweViQFFvWx1mMYW0eIHcUDPjmT1ItkokMtHgA6dFAjPTzsCmQtyigK2KO0eNyg8p7ewBcUyTDzHDbZg1b8zRCm6w-zpEXI1FPvXv515ED4CID1pEc6A_TIUffFrVSjRZfsqDpQe_hb6YIf0yyGOwkBwHuECQTKY8EzzngJ1Tyqg9TmY8gYnc9CxmX22RoKXDrnljQQWPoRg_x_A3NXpQQsRImoljdq8knl3JCqkFNnoaCslbepOK9imzVjd9C7RdvjVSVjly5uNHjcYDmjAF5hVWJllno20czqla0kYH8eAo0fDfoQx4gqexJE_N31cUuPLv9WXodq2vjGBjhgWksD4BMfgrCAJuIC3RL-WCW3jDCR_fw0w3cYgljPjELeLhyNPcS_H_qdJrNP5pkZo3kjLLATG7RsTR3m7shkn45WFqw8FVd5bzqgeXqRMjLD9j10zx99vUkzFrTm1TBizmeub6OgRI3SUpFIQ0ub2N2vx0q7ghH7qnCsjAsavhdPq2zY5kUEtgoIS2fkr63fH4FkMTEE1nUrGKH4XPqVc61dL3FrWCRikbVFfCBGzeP7tGR0Qp58Xy1Hk2Qik_MI0KsfofBpRmeYP-dZU2-hj4Dq6-4dLyPnGJuXqSMHGfqV3ytxKsy0F-aicrkcc2RE49M1uVsnlQXa7HygJz_dsKWsgjnyOISmhGppsoCp7Lvjt-u9Zmdtxg9leEquXqKvTI27uGLK0Kf3fLMTJp5-wlDRzMvZ2qClcyWHFzZ1wvASlsR3g27p1FiCEWdEKU1DRGlbDVLPv1pkfR_qjVo2pcybRl3rtJxNT1png6vHA1o129aedhDK7xEY1LnChdTCrtJGJDl7oK96aah-cH7xL8EQljAv-WZzsRVqBRMaFGQjKIHGXjc1K0_bkvzgWW2MGr-_mNhLkGT77Mg3YhRYLyCfV7oRc1ykNnyobG1CUXcriTibhGLnN4LJj-Abwfv4x62mKij-gIZEnQlvosuj8Uhep3Vi-CkYkuVMqnNM8rY4vJbIpZfwvlW4VTaMTJ0AKMvwy1RiPpi5oGPM8yZh9X1XZKn4Es9-nMlSjylGwZOUu_r_uwpO9Jlda-1D78X0FH5IWHWdODTOGQJiX5rGHAlDEOcaESBrRVRxKXKNugBBpB-yXW7p1KEIdVY2cA-1hpAk67PFUgyLUR7uar7yJJ-JqYs_kwjJsYw2dFwpFYPHdgCSqZ-6BPCib2Y84pOugr7_S7JunQy-9TdJciTO4o3qDhLv6foPCkPuQ_bR6BWnEJ47OOVEUGnOCOPhKI6_cmsSBczZcHyC3PBpltorU4T2wGROo=w160",
+        "#2246",
+        "#f27163"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/wZofLqZEFDDVjIU1_ArsZk-jUCxLNUP7k5ptTExZBner973qoI4RH2hNQwIQJ19uaA1aRS5lnxFrnN_uwqDKebazOafTk9RXd0K6GA=w160",
+        "#2285",
+        "#4A4A4A"
+    ],
+    [
+        "",
+        "Anomaly",
+        "https://lh3.googleusercontent.com/6nyw80NfP0ErIGTVage4NKygNVCIxih-61aB4jxa7ubIryzQZF9H64GiEWqkrAzw1_1_J1ZuAlSSjQWBL6XYV4Otdjbn7lUrv398Qg=w160",
+        "#2303",
+        "#79CCFE"
+    ],
+    [
+        "Yata v2",
+        "Dragon, Cosmic, True Flame, v2",
+        "https://lh3.googleusercontent.com/dg9JbmGOnnyiOmGFyYKkgEiT-YDg6ULMHiiiioRyLVAK79AK-XDadOcgTJhaz4V4aGKEJkB-ZH1onZBQptrzcRzQ_R9hNzg1tLi4Jg=w160",
+        "#2317",
+        "#FEA255"
+    ],
+    [
+        "Zippo",
+        "Sins",
+        "https://lh3.googleusercontent.com/l70uTvfuCRNhoQbeK4ykx3_kJ6VHixvyk_JD3EUoQdlIor1dc6OTXCBdoKbgA3PdxfXe18Y9VwiF-9N6ew0pODpVatUriq7vWnfYtw=w160",
+        "#2320",
+        "#D5FFCF"
+    ],
+    [
+        "Scrappy",
+        "Cosmic",
+        "https://lh3.googleusercontent.com/fife/AAWUweXrb-TGf7hyt9o11J_oHFSGa3qTn5fsd0B251DFS_e4ZZBkbMsYHoOEFDkUWGnjdi7dogtfV_-CaeVGv3fU_LGqh0W7s0P20TEGZRclX_292a4f6aR5REEZc82GxfwKaoWWALn1YWxgjrmcZpgHethtlpkxmZXOKXlkxRIWMgeHpygVKuN8If__Otj3yy2L4orWBsEKAy8lOXLk9O1_Z7-82GgUXJVJ4u3oOOyGHw6v1orvCsAOitOjp20gIaWN9CgyDj7ORSUIDuoP-xeDYHnDIYAl-Vfrw2usy1Jz0K3toTmXyoRjgKcWGcNT7p9e1RhJznmDgwYOSSsxOZGGfJvUECYruZ2QQi6TZ_3xpRyiEWnNfKJauT7ZIMhFU5TzpyBg3DIShI9JacrhTc5lH2_iQ10qFBW0mSMDaQvf1HprByrfTrCwPBLegaeSe08t7ZelNdiT0TtEHtBsRgmBlrsZ7iqMbkQQzQ0UNWkWUaAWBGfss83yWOR7Sil_Gppiy7mys6qne2c7YJEj2OcWSExJZsT3meYLlicSmdVpZ8rz1DeW98WtYlfPnb6X648K88V1_CIrOMcPzMGLWsoKAWZwyzmpT1HhtVgx73bFyVjhv_Vb5J3zLOahQA4Mi_FdbFK6z5lOxwK8y0L3OIU8tcsYEDY-d5Ez7KluQEDsUKdHnQCwv7xNVJKCn4KRUWQwjc9za9TjPHm1CxOB3jBbnQzCP8wL_XFlIqryWVQNItOacAL8K8jrHIzhXCZLy7h2GLeLE4gAudid_Ry0lZkZS3i1UUtUvdd_5sCJgaYePB6c0qQmT_Uac7Bm-AiTQIUNnmHy49hHxaQ4Zo1xqO-3PGoJTeWpFcFLWg2tkopLKxjdwB0B3gclBt3hUIulLETqP52RXFGdVE6FQZGgVVl0JKcyvzNQeLjQd-EpljSdh24Kdg7Qg34w68E24-hKxEDiIZlwJqbkJ7-mKivR44-VJY19qZ34p_3OXV5VcNtR0KSLPBeJ_qzxJ8538cHt22JNQDznje613Lfi1t1VxKtTbqwEfLhMxbsD8pEPK3CK-gXrZp_We0jQ1HUSA_GZmseKfkAj6gEb5PRqfolBq6N_iwVWfv0qwRezCQXHRvOFDEUwXVFD65Y3H4EtBfVykw9dCyLwv96LkKU7hwDxRkUOKfO74y4NM-cIcvLL5A2BR0MnX68Do2TZIipM_k2oYbhF9LqDdreBzR5H6dNzO-WxpeMcgQ7p9TI6D_-6aD0Trzl9J7qUfpeAxCv4heUxEUMNVZAO4Uagz4LitRssFaCUagqda9A7HYiZNGhKi59Hn1tArYc=w160",
+        "#2395",
+        "#98f374"
+    ],
+    [
+        "Web3",
+        "Villain",
+        "https://lh3.googleusercontent.com/QehEM2vB2JSF3HldcLA6SAVFf_UAVbF3YxHVpUOR_wrPXU95Tp8yY7LBTn93KVWYckLa6S1MwANg2pRO73fU67giBq6ENt3XrbE6=w160",
+        "#2413",
+        "#f2c875"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/f14M1efFCGneLBfAQpfgdxNy89wAO_mwVFEedS2MzJaOeoBLRXxddl0EM-E-abA_dLvQrXmm5Akb2b-8DKLmqnlv55hPAEFL8lMU=w160",
+        "#2427",
+        "#f5d93c"
+    ],
+    [
+        "Zebra",
+        "Animal",
+        "https://lh3.googleusercontent.com/c7iBYt9VasF7v3GlRxavQlFUCaGvAnvpRpbjzisjNLIcqHMgA8cQmuh4g9rz7h-GslFBsGuC2JhsWOpUFwN9PrrIzEcZ3lKeH7GNVQ=w160",
+        "#2430",
+        "#5B5B5B"
+    ],
+    [
+        "UUUDi",
+        "Honorary",
+        "https://lh3.googleusercontent.com/p86ZivW-Q_WUCu1X21ZodvurCwuT335MCmcCY-rckk45auwYY8RYrNpjod-MJjaAJUYjJDDHJ4hzRIOBDv6oMpmhnvwZZUYolB23WA=w160",
+        "#2450",
+        "#88afef"
+    ],
+    [
+        "Cerberus",
+        "Dark Flame",
+        "https://lh3.googleusercontent.com/s8ZVipnOGdfM3r2Nn-TKtaMITT50inPwBVaOKSl15Ck3b1VKciP4dN2LJlwREZTSSfB52D42Nc-BKKLhSnCK7FJxnQWfGRIufYpfcQ=w160",
+        "#2516",
+        "#4D5A6B"
+    ],
+    [
+        "Phantom",
+        "Clan Leader, True Flame",
+        "https://lh3.googleusercontent.com/7x1OwATS1GqvdGB9vv4BCwQNJars2_uluBcMqZVh_19VlbmmGaSC9DE1z3NBIt1U3PvGUXANJaU1wg_QbVvbxwjH45nzECIs9rAU2tY=w160",
+        "#2539",
+        "#676ad8"
+    ],
+    [
+        "Ugo",
+        "True Flame",
+        "https://lh3.googleusercontent.com/i9TQ6QyYvB7BUiVunsWapgm-AyypHuDDDwcr4tn4LonFMHv4fHbTUbuXKDBG6FHo3GdOEQFtin40IDonWKG5PctQTbijHJD32PFOKg=w160",
+        "#2693",
+        "#50FFE7"
+    ],
+    [
+        "Vodka",
+        "True Flame",
+        "https://lh3.googleusercontent.com/Jl-NEdkZtOYZzZmlCfOfgb-Tt1NPK-VBEYP5iyGpgVQMOZ7mMr8ASlqSweVkb6Col-KVbPfnyQIqn-wdyDQbSObI_QdH-iqbhaaydw=w160",
+        "#2735",
+        "#8775C8"
+    ],
+    [
+        "Alpha",
+        "Hero",
+        "https://lh3.googleusercontent.com/aw4i4SHEwU6LI5RG_T0MR15nEIrHyQYSSD-V1YYI72gunh898Ehy2l5Q6gvPsg3vQcZRPzypPfThbLoeB6tHmXDmNx5vyMtSKPpVLw=w160",
+        "#2779",
+        "#404040"
+    ],
+    [
+        "Saber Y",
+        "Hero",
+        "https://lh3.googleusercontent.com/K-tjwjB6YsxTRzYpJT9tILGMbwHFI0Z2JIL6YkS5O4-ApLjcpqpzARnKVulYFA5AMOIOuhTm37CM_267nV55aYd92MMLSUAliR-Q=w160",
+        "#2801",
+        "#46B8FF"
+    ],
+    [
+        "",
+        "Anomaly",
+        "https://lh3.googleusercontent.com/1B_tv8m52_xvzTEaBZ2hlXXXFupNZWZN0BeXmic9CcaAgqfRFnf5nr1Xlr9ArSqwH1L6T4OoYtekMX6UtZKvZ8cfViWF_JA1vwjK1g=w160",
+        "#2813",
+        "#7FD9FC"
+    ],
+    [
+        "Orchi",
+        "Dark Flame",
+        "https://lh3.googleusercontent.com/iSGav5sec9aokfY5ttRf5Au3IMQ-oL9FZ8azroieJmCHqn2i-K_k-7pyJn_rstX6PunsgjRC4QXkofoBKNqG1tFKDdfTXVzQHZDLAVA=w160",
+        "#2817",
+        "#5558BD"
+    ],
+    [
+        "Bearus",
+        "Sins",
+        "https://lh3.googleusercontent.com/4xFmn6eNCV9O4bjunmLDavjzJn8sp3UN8Pbe_XAYeTLb7ikXclr8eJxs-j-qssHo69rDtGFdyu0fNOil4VtsDx57SMVLwPYsuft6rg=w160",
+        "#2818",
+        "#7BBEE9"
+    ],
+    [
+        "Tora of the Red Flame",
+        "Anomaly",
+        "https://lh3.googleusercontent.com/dJHHHXu0r04r_WR6JXjXyoB2_69wbmuhcn_LpUNR2HTT8QjW4qEzB1iPsAtOMt2Dd6kWW36YzDYwj8BO0o6Gf549gfYLv8a74fLvQg=w160",
+        "#2845",
+        "#FF5770"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/R1VxoyyGPzOK_-8oKFtCGCKHdjCOKFXdmmymjHij67is0N_hxee2v9CNaA9ChpCWw5peDLlNnvxOCM9hpeYdlFyGcL57LKOShka9bg=w160",
+        "#2922",
+        "#dbd1dd"
+    ],
+    [
+        "Neko",
+        "Cosmic, Animal",
+        "https://lh3.googleusercontent.com/fife/AAWUweVACB1JrMTNLAPSr8riNbXrp3gF8ING0UcgbcAYINj74cp64Bv6-HrntvaCElVhLX3sqzngNX3NvQUpJ28dvzQCXnJbO5NpHDL5Yu_EbcU27D51AzP9J-6O7BXnOcfxa2nvYEwwFqQEyKDfXSX6hRKH1lPMhxYeaoh2uER4s7yYtGMRx_2_BPr5qPiXJSNFwzD7oQaslbb2qsVLuwvJz5pOtU9QgLrbOYu46FIGsNMUI0wd7RQ1d2WqS_-dJwegBRWRCXZ7Ho8NQFJ-bbeVAFN0WEXMaSHFelxwctMSgqDUrg3iARDWoDYSnAZLinqnoN0e8zwNFCk1oYtaBAj3cYVDmvrdRTKcoQ7UUCQcIw55L39J-vcgqkhnQkeYxlqhKRfrOEalCaoK6Pt9AEV7hi0aQG-PWD4g9YzN7YoIiOmKZ0tYQXiPkU1yivWJU66R7Z4RPwlynITj8hVfPxZxOUSGT9m8IGTNqgc3euuucBusNmrKB0QUV-Y1lp-wZuurpxePcRilZAIBVodMDgPzUKgmJw5ynzByvklyb4zlX0v7veGCRJov2zCawCgIFTEDcCsGQVPUnpOM2rMx8HK8zlJKRKDGpq587gWuJxIVt3deyO5Tm94AdctK-DSKN3Hm3RnsgipG98NCW0-HxYrHlLLEUP3d27OiTVpGiKvY4uUrq2FkrjZddLVb-IU78FaviC5cTwYCf47dcIj2MVgcEK7OjgBm1fCOk_K39qQT1-UElXPW8J18ZWGPE1Q2yPvJuQcCL9L__e-Cyef7mLDQeK6ykTVbQKXDaxoEJIToZdHPWlanOrdGIL2j7VcHk50XeS9-Akqcm3aupsvq0t-v7bPW-tbGggSOeocY5-ZWozMLUsf0SMO7IlQn8eKKi-OwBr0vOcg9_wtgG4syH10kYT1G9wgys95OstkXDWeli5ucPszoFW-qvcn2aD9xxr7kLu_JvDccOoiSq9i0gmpsUdQAuBgwCNudSCECSZKNWjJ8XbXDKo97IaNK9YdrPG94OzduRfcEc6ZMHdiLuiHMF_cfGu6YSS0QR9lDM9GbvZZLENX7Tk3QGAc26uIZUFRSyZVZRHuo1w6j7zDMyreR2e8G65EFKeG4PmvO-QBYDBCGp7LWs55gvYaA3XMUmmcWJvgaD97nwcxTngPrSMC2qLS_92SZzrXlSgwJdVBF7IX-zxVNtFWS1-ByA4PLsAd22nfGiiTHTm-xKVXniju1K2rIfVFi7gAmN4ZyJRysY7Ahy2dpULVLJnGeSBJudS5370XoujKPIvl_kKhkgsNGYmmiWJPC-6PJchi7a5jcF7r9Hcc=w160",
+        "#2985",
+        "#FC986D"
+    ],
+    [
+        "Hedgehog",
+        "Animal",
+        "https://lh3.googleusercontent.com/KRKQJhu8s4rB-pnTBbzTnt9V-W_IAzxB96qQ0fs0UEHYnRil9ABShYvGoXxCcj8ge5RQ264geXZQ128Jce14z9N18yi4ImmpYsXE=w160",
+        "#3027",
+        "#A9876C"
+    ],
+    [
+        "Angel",
+        "Anomaly",
+        "https://lh3.googleusercontent.com/dBGEdWdybYRy4YYTW6Glxa2HbstfoY3Upu2YNEBK7tq8-P4a8oVMR_60uWki2Idi6ehxreI0dKuboRJLQyPa7YQGnSPBmYJnsPhxzQ=w160",
+        "#3028",
+        "#efd2dd"
+    ],
+    [
+        "Nova",
+        "Clan Leader, True Flame",
+        "https://lh3.googleusercontent.com/C8NvI-6lv-gU2X_gSc5biPUqNl8ntmZn4IX9f5qFjbdjdkBTGSpBElonm1wBCL1GUWEfpxgnJSolaM0mAtnRrmLQnK5uWFX_HLBAkg=w160",
+        "#3051",
+        "#e4d5ad"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/-4LPJoF69Q2ilT418TDXgNvU2nVC-N7VdPldbw1BgvLelxkW4xf29Zsw6kSnY3pFcxGOGPxYvu44mgnN56wyJsLUhEEEOPtmC3BecQ=w160",
+        "#3147",
+        "#C684FF"
+    ],
+    [
+        "Hydro v2",
+        "True Dragon, v2",
+        "https://lh3.googleusercontent.com/ZaGlRZhtqC1MePpv8-SVlxhKNwwEo3e6cuSOMAIsbVZNQOdZ8zgtigbmxp00JxA1jqsMyjZyHNWamvFcP2mTeXQzZSAmH4I7zVNLoyw=w160",
+        "#3193",
+        "#ABB7F7"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/fYSO9u_iBYp9LFGvso37NjBfTP_nqhhxyDnPEd9wWrorN3-Tl_g_bazqNH4og_8cj6eZQtc0ynGp8r3MQTmiuuAPUFqtdaif9ElIOSE=w160",
+        "#3197",
+        "#95BBEA"
+    ],
+    [
+        "Pixis",
+        "Sins",
+        "https://lh3.googleusercontent.com/GpSSn0NDKsu8gqEE1NJ0RNO-Yxm25u0dk2EZugjRrP3azhMIK0r5SOqc0wyLB_mKPRU-awYVR0Dpso62_iNFV3BgxAJlNMrXHr7yhrw=w160",
+        "#3201",
+        "#78FFFB"
+    ],
+    [
+        "Mugen",
+        "ETHERLORD",
+        "https://lh3.googleusercontent.com/NyFW433IkWr1DUiXDqeKrfQpjPBaOIXwnYRyVuUjtAuaSir5q8XCg02VCa3bWDZUOwXH9K7ut8GSMJuj1bnGRbGua6c1Ba9fqUawsQ=w160",
+        "#3221",
+        "#B79AFF"
+    ],
+    [
+        "Panda",
+        "Animal",
+        "https://lh3.googleusercontent.com/pKr7Zfvs52zudChq4Sbe0dY3oWUoA3JS3F6EKqvWiC--bOkxDESaoQnowLgDRU36aOfz8p4V5mbyrbhUT58JtWSjgPltHyWYMEZE-w=w160",
+        "#3338",
+        "#000000"
+    ],
+    [
+        "Demon",
+        "Cosmic",
+        "https://lh3.googleusercontent.com/fife/AAWUweWeb8WkXpfJm8iNR55FuL0eg8wOpYYHc3QKCi0YJAgO1NGO2v-OGa0u0PzGM62JtqoxrAwCJmj-7q9MPKIF8IzmQmDphftYOD47TmgRPgFqdEWrl3YIPVzy1IxFQff8IkYOAoVq3J-1MaWVl4YM9irvfBubxHV1pE-G599Zlz5DoJfzHTCHes6iW9qj9CsEW8RMQ2iffJUguUcSP2nzJ9Vg7vUw_mVetGEQerWupL5dzdi3rP_pMid2z9gIscJWtZnF9HmoMxsNUsouCJBvLE7Xn7dAOSGHuK44xQFLk6yNJrCd7hHaSfMFZy1K96gCsbRovR0juGQBCggpNAnqZVWigu-ELJpf1nnWar9HS-jJjyEzUI0fk_Y1l8VurnIeEPsDRUplRq3HesxhAzw4aMDEkQYeG-LR0Oh5WYO_Wbb5qZewoQtV1fT2jyx2nPFLUSa1LM39HEb9iVct4l5dd7je_vOqzucyzcuUjSmZdpzFm0DYfOLNW86h0zM68VQwj8qtCH4dw1zjynduzZOp3XWjnP6P_KLa6swtebol7h_H1XPpik2gHy1PlMbpSw57Dy0esXg3igRS0J0Egkknnw9SRd4s4YlNRak362vqzqOJ8RYFtqbusA2vezGWwj5IKTbJzSt6o6YkiT5cjQxyPpFs4anEOJ7mIN-6p9j_z6oaorYuZIkcNGtOcQmcmtsPF67dgMX23N-rU1g0s8eN11w2MNKcLr9gx1UhYdogoAoUP8xby9QvwX9xx9rWoReDs2axp9Rvz67yNlLYb5LZtVZNvb8TpJwRcYJT97GhN8977fQHjVSe3q6gUxQ1AGL-Sz5g-8k7F7QozQHIzPiSMouVzUSo0L-HKJFNQ8xMg2vl6yxqO7xFtmPtdoHyU2aWnsgOsDZYWVzmp8OGs7Dob2wHdX6xKFIg4sxjD36of64ab7KMTnNfZM3iUNCWhg4xnmTKitK8vcLagarciNLNNYSND88j5Z3-hxueusvEQE6fyNZ_qoa7fcJU9oTLhyVlUWplZZfuT33qImQUtXlOLU72ArchzkRkHZoCP4vxUs1PoNgWAgIuGoSoo68HHDP9U26K2b9WtNlILj_2tka0lv9UZIPb9jdEANkOvLpUVWJTLEUAV3Yhw3wRIoPSegn7o78_pVdym9MqJ10Kh8G6Tgdji5VtBShVzCE0Vfr7Jtivp2azTUhW2oVdPHY3I-VvTMe1Ouawop-98l9O_Aefhqf9BEjSJ9nSkS0R_JpKQ6uNF6V43zKc9PXSkJLBq-ya8jkQ-A9Pb_8_wOxT3WXNhbU5NGjgjXZArCJlW2s00jXNIIo=w160",
+        "#3473",
+        "#6c62af"
+    ],
+    [
+        "Mine",
+        "Anomaly",
+        "https://lh3.googleusercontent.com/8Cb0cxJeI7DC5pTnDZHTckb-A-oSjKMv_PBej9a-5oDACjmqz0vwWy1o_H4Uo5y0NTBZwzAitI944J-wrpN-byXjDgNWlpmAf8d-vZY=w160",
+        "#3522",
+        "#717181"
+    ],
+    [
+        "",
+        "Special",
+        "https://lh3.googleusercontent.com/QKKevcx51PziAa3WZUzJVem54nZoNue8QPDCsP3144OKUefL1KrbLa1x9LcviWYa8l7mpqyFivs9hA2q5K8NKEPLSu3ztD6TCK4G=w160",
+        "#3710",
+        "#b9d1e7"
+    ],
+    [
+        "Boss Neko",
+        "Villain, True Flame",
+        "https://lh3.googleusercontent.com/Dc2z5vSYE8PdwIvo53hFHMrq3hBjPI28ctz1riw1ySkn_LKbaYMsMD_T-a_xSH3LFmItjxCe65qdWiUFUesVG8yflp92vJgwrkd6Vng=w160",
+        "#3831",
+        "#F75A5D"
+    ],
+    [
+        "Hammerhead",
+        "Animal",
+        "https://lh3.googleusercontent.com/Sppzq7MWDod_-PJqgxcweXOxGwtQTnFyH21Kghn52oYVJvuq5pzeAB62kVu0WHCLsJjDMyF-h8mcLCa04kDInDFPBLFNRTAE8kDe=w160",
+        "#3840",
+        "#9BB3DD"
     ],
     [
         "",
         "Honorary",
         "https://lh3.googleusercontent.com/5qxwW4dlmnxMPgpjVjeKFX6JY7k7V_QX5H9rRjHrC8y1xCv99_HMzfaWet_9Pz_mAOutCaQHqwaDt3AEbnOEG2l36b_7p6aK7F6jSw=w160",
-        "#3577",
+        "#3847",
         "#BCBCCF"
     ],
     [
         "",
         "Honorary",
         "https://lh3.googleusercontent.com/uwZ9uMtqv16WCxQqB_OSlGIkfwc1IZbO9nNxWsH9TpJ0eLRL27BnXnzVpI-NGLEK8AzZ6bwijCIhagbGiYfZCp1MWO2f4iGgI3kSMA=w160",
-        "#3588",
+        "#3855",
         "#d1bfe1"
     ],
     [
         "Elephant",
         "Animal",
         "https://lh3.googleusercontent.com/Lbe79M1tDa6RavyiojleYcWifQPJydvin8_XyQmKZiZVigRV13DKFu2Rapj6872WXr9FJimqyqdQYpLq2Kx3Zs1IOeWaT971qTfW=w160",
-        "#3597",
+        "#3856",
         "#D9E7F7"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/7rKJ6vh-oc4oAiOdUIiGYNgXkpsDKmuRgNr4paNQrkeQEcBKycjxa5L4b9D5JfCxj6tbO_ady66iNLlbEr2cKds64nW0uOgXZUsSPWk=w160",
-        "#3609",
-        "#F1C17F"
     ],
     [
         "Hamster",
         "Animal",
         "https://lh3.googleusercontent.com/HbsIqH-8388q4hmHYlVuxXJ0uze4pkXC3_UGXB9wPniUoWNrE-CHj9cDgM0Gu-Js5blzYVNY2BPt0_QvDwRP3UWDvTJvJPj0BTmJyg=w160",
-        "#3621",
+        "#3857",
         "#B5B5B5"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/aoQUdb-E70CSOtIZnySDH9zaCtZRMiAv6iveMLLaQsnne1z-lV5oGLnhSo9IMSo8SE2TQR9eCkLPM1tlmEsL_8pv6ZUXp1DNFLdCYVk=w160",
-        "#3622",
-        "#7D7FFC"
-    ],
-    [
-        "Bolt",
-        "Cosmic",
-        "https://lh3.googleusercontent.com/fife/AAWUweVlwcZ0KjWxyDSsLVTdJo3bydgKJLd9CSCjitAB__3HUI8sgGw8QjZ9Nj9PSQUaxaN-iE4IUrTTjfDCf-u0KnSbS_NmJXBuk7ySTNWvQ-fXzWXg2TkJmTfsGcfR1v5wexQBUSGXqILha0y5IdZetAfpidpqFhNorzp_ZkWumjHbVtsW-BraT09Z9z0A4rPujPN_dOjWS5xTMoI3zLBaqXi61WFGN34VtG4BDeZ61f58K6-slq38A7KXaRlaWjK_O_oYwZUITzEBJgrGqs352El3ckKTvuC8beTyKbi7YaZMUcvyNa2LDp3GlteXkigoMY1wIRfkHP3XQbkqvwmgxPkLC5BNQUbyxO2UFJvEKBYN4yo7lNwPF5uCkHtR_Quq9KLpZfItJwBIlQ051H53vQRsjqaX2dJTuG6nUc6EDADyIN7PT6ToxHLmxEnQ0rQXYIrPSxta0b5fsMhm9EpSpbaFvLwUJAX-PAcyE1-Nzmi1t0BdQf7V-zclL2n1Ji2Wgo8ozaKh79iA_m8wjU97YhUnl6M5fe7iYY9A-VSESjizbq8Z-DqxbIauyA8Mn_QhCSS1B1kiL7ZI9_oa5MgEuZOHTw301MVmzIWOMvCPGP5f0HXSMkKoRThjjVKasERycr9XIfRLrPgtFaFWjm9_VuhA-ByXp9IiFzjEkfBGQckCYuTB1OfYm6V9FiVF3YZnOTEXjQ0keaTl7EngzqCo8YMzc6jX8IRnxtrU29bYJxhqf42_dSTEp5CSv8S_M-oxtFBso2XG1ufrJ-4I31mZTQClpb6yPlzJauQINIQfLlGrA8ZVE74FaeaoHEYv33OMHIOiByd6I2moqxHcGPO6w8sezJkcqWzr9tOE62YqnMZYfX7cluVWKI0bfKrYEsrUBqsv8G0NNem1Tvl9RK6t8Z9S3Dmpq6TKI1OA1HNaPxpaymBcxwBy-5bpg124SBmf6BMJHjjNNOzcIl_q9ZcLbIzbP9tCf1VI_gvv8fIFF0_xAQTG_VUQJDRGJRyShoGnbmsipv7INZlmSvBaMblBXNLFSA658TepU-w3VQzRnNpUmFlaDjgT3M6Pmaj4OLRZLLk1ZzIYqKX_Dsu6bd4ffxSjE16Qy-pe5auYi6VZ0T415-yw6UJRjIk8nAsL4_bRYwax1BEYMgPgw_isHnhZlLPvHiJHZoO5QfZBFErSejWLG9XTkHwJohQo6ZMupOdEc02mFSaJmYV4vt6oUg1V0ED3s_6HKQfOch2nbZNw7tAx5iks2gONJC5hn9sISL_ygmBFtCpDcVpuy91a9aLArpPh3QdGqq49lYOQ1bevoykJr8A=w160",
-        "#3623",
-        "#FFE07E"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/tdUjhsJaD1D-xODNhPat_EYFjbXvqLfYtbO3t8Ih0OiyA-cAVyWZ3bKtY9BcsGv6hlvIfdhc_GlIj1HDRW0Eicp9Y240T2g9KTdjWQ=w160",
-        "#3636",
-        "#E28170"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/k_d9kh7WoGiWKpcryEFS_VLhNBSLJr1ALe0kkl6Z3N2_18jmNk1LMBHzl1RXnM1SOo2Z7sOowZ9Mc9Takv6rjKfSkCWxxWL5e5V4s9s=w160",
-        "#3637",
-        "#F9CA74"
-    ],
-    [
-        "",
-        "Anomaly",
-        "https://lh3.googleusercontent.com/ayIg763A-LrkF1Ss4BOWDcBX7fw3_BjGA-_rMafSfMXp2KCfAVdCgn89hvxS70HRnYcQpDtDJKrN4wtDB5UC-_wIle8MToIpTQCxDg=w160",
-        "#3654",
-        "#FF8B8B"
-    ],
-    [
-        "",
-        "Anomaly",
-        "https://lh3.googleusercontent.com/uBQjozRgRY8Hk8Sqqwes5GKjK03ABVC8GHnuPAqPWVw4dRDP5p3q0LytUTaGqwYcoG0CNqlrChKKqSI4vBNoUlCDiNwDKPnkHvmvvw=w160",
-        "#3668",
-        "#FEE567"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/kAMIuGa8KLWHnora8cet0e9_8Ni8ibtTX-E0KwuFD6tybeAAJFQAU1mxcM94ObZl6yKYye3iIUF-XFId_-gleyPs7-JFgsKxFMoQoA=w160",
-        "#3714",
-        "#FEEC9A"
     ],
     [
         "Crocodile",
         "Animal",
         "https://lh3.googleusercontent.com/_zuv06iPLJT7-Gs95U1EuD1wUJ7AcrTsPXwXQwpNJ89AAKWXsyG3CzoNiYyt0meRnJKrWIRCfG7ODnOXLIyPpaTvhlLrjqUmB9Hucv4=w160",
-        "#3726",
+        "#3863",
         "#8dd7b4"
-    ],
-    [
-        "Fujin v2",
-        "God Dragon, v2",
-        "https://lh3.googleusercontent.com/UYcot5scsmaFmHxRLX3EDOKwKHcEiY1nC2qbf7nm3rcvMZ_6VVX0y7OBFzG-NLGGUp-OXSexlvvptVpxB1ZqmBbhNiGxxc6WgOHflA=w160",
-        "#3759",
-        "#F8E887"
-    ],
-    [
-        "Boss Ape",
-        "Villain",
-        "https://lh3.googleusercontent.com/iMpa4qMnHlfXC7S7VrbrCCuD878_PXeaAKXFKx__8W0Jx8gEeX5fq3O4NXmZzhcX4nVWA6eKe6C5zRExELtx5qI-2bNAvqVmrXHhpVI=w160",
-        "#3767",
-        "#F3595B"
-    ],
-    [
-        "Web3",
-        "Villain",
-        "https://lh3.googleusercontent.com/QehEM2vB2JSF3HldcLA6SAVFf_UAVbF3YxHVpUOR_wrPXU95Tp8yY7LBTn93KVWYckLa6S1MwANg2pRO73fU67giBq6ENt3XrbE6=w160",
-        "#3791",
-        "#f2c875"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/dbaYVL9m0LrgZI29SYkiN-_fseF_UKrReeEcRNAAwiMEEFs7rf5p8EtyIYooo8E68cNBRuIbJQAX_mnM2sUtIua-TagaRX5c_9m4XA=w160",
-        "#3816",
-        "#9BC7EC"
-    ],
-    [
-        "Anubis v2",
-        "God Dragon, v2",
-        "https://lh3.googleusercontent.com/YT4W91-kW1FE1lw9SGpxotn2wBfarT435o5lpvEMJmbFpJSRWEXIuUwW2Q_XYKC1SePcTD6jUdIr7flyxZ3nkvuR32u4Xq76jezt=w160",
-        "#3880",
-        "#C984EF"
     ],
     [
         "Shark",
         "Animal",
         "https://lh3.googleusercontent.com/qqyTlxBZoEKRMHBFpXLtEarnJBOvSj65WVDFOt0q_B3WLHG4bHedg7be5z9AneYTH2_1yGCy5G4URM-PITH8V85d95391KiQp_jMXQ=w160",
-        "#3885",
+        "#3878",
         "#90C3F2"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/5NWbK4hkW7dNAislOm69uGOsWkFymIfVk_em0rPB2VNSf4VSMa3Migx7vZpHY_xyze9j095hVnJ-GLFOPbkUasOn_Tx96zu9D9Uf694=w160",
-        "#3886",
-        "#edd49d"
-    ],
-    [
-        "",
-        "Anomaly",
-        "https://lh3.googleusercontent.com/N74m30pt8lU0I7mr5-ouuZ6TYy2HN-CJZNuCyllx2nV5_m-MurX73hzVbKyggTEkZagBh4gfZag0gwk79JUEMVWGwmBjlDd7hFyrBQ=w160",
-        "#3916",
-        "#8a92f2"
-    ],
-    [
-        "Delta",
-        "Hero",
-        "https://lh3.googleusercontent.com/ZwRzzulUgHpdqUI9Q_7xMoxdPYjYeftH6GlQCqVbH_xF8mgiDRfZ4gSUuUK7lGRbp-xTz1CG0OIoUZmYKyybKTXNEx7l9d5nWtfJiA=w160",
-        "#3921",
-        "#FED787"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/TndQhNU2v6HJPG0o_puoagmh86wyqlToSqqjfNn9w6dUxXs76nmGZkJX3GET3lOA33UADmbPoIkTmIRjmd5v_hz1-8GtZXi9XIY7=w160",
-        "#3924",
-        "#94A5B5"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/-tGR-IXikFAqSlbdt6LABo66sc1vmZfy3Stl3sM7pYF-nQgh9coVy0x863YdikGkCS8eIl-PczT5tz1pGo9mBwSjsJPqCsMtIi4s9OY=w160",
-        "#3927",
-        "#181b20"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/X7tkQdRfKPQn06X4kIhNiOZSev_2HtxccBTvmw4chREj2GaSf0ZX2X8NCYiiRd6ig0AfLTGyF8al2DPzWybkrsEmuNhj-Sulk3hKGA=w160",
-        "#3928",
-        "#7B4623"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/R1VxoyyGPzOK_-8oKFtCGCKHdjCOKFXdmmymjHij67is0N_hxee2v9CNaA9ChpCWw5peDLlNnvxOCM9hpeYdlFyGcL57LKOShka9bg=w160",
-        "#3941",
-        "#dbd1dd"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/-4LPJoF69Q2ilT418TDXgNvU2nVC-N7VdPldbw1BgvLelxkW4xf29Zsw6kSnY3pFcxGOGPxYvu44mgnN56wyJsLUhEEEOPtmC3BecQ=w160",
-        "#3952",
-        "#C684FF"
-    ],
-    [
-        "",
-        "Anomaly",
-        "https://lh3.googleusercontent.com/5P-_sDzNLQ9uDibYmZwzUz0jVi9XQ59C0fepwxpvm20DudZ6bmBSJA7-FEdc75EDsk82ckQh6s8kgW3zMpIN5IigHZk7z0sUCEg5ATM=w160",
-        "#3965",
-        "#D0A9F3"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/7SQqvnkNWfwxk1z--SlnNjyj_ejlaKCxNXoGhsBLQuUPeX1v9ANuLFrjb2Diu3B_APMNBmlA5i12IeBTRqAjJceR0L7T7LbFPET_4Q=w160",
-        "#3967",
-        "#5AE252"
     ],
     [
         "",
         "Anomaly",
         "https://lh3.googleusercontent.com/SVq1hYtVsWCsIWIlRg6l_KHr1MUsGCcAVWfFxDZPdyvVigm28BRdJaTGt7-OR_NtWwGsWvChJQKZlXPmJQMmbMAtYOExxlTfbuSb0Q=w160",
-        "#3980",
+        "#3879",
         "#FFE040"
     ],
     [
-        "Taurus",
-        "Hero",
-        "https://lh3.googleusercontent.com/xKg7mxQyroyoYQfvfl0zfoMmGKNU_auSvrhichmwWOyK5S1QHV4RNstIkhK0SEGBUQ-zn-K1XTrRtyIqXUNbZuYlTA6kHWpkbsYh2A=w160",
-        "#4032",
-        "#FF628F"
+        "Dead Calm",
+        "Dragon, True Flame",
+        "https://lh3.googleusercontent.com/fife/AAWUweXaO8yg9MIOSqrVQGCFdUJyKfEq9GnJY2mFCgGBJWDCGZ6jlE0N5viYnRMW6w5UIsE8bdcfuc8Pt7KS99vd7eI7i_k-ziFnPDwOEoP4fkILDwHKPp5RuWhFWp2N3jcWiuNS7bxbGwBXCeK_dzCvhv0jtgCCN6MF6EbQQEt_CuH4P3VNN8zRD6ZIGeVamnAxISUWviq0u4mM1AZlBCgqqnFktwYJDV8E1aBdY_ji7NQWUTH0h4FLEOQjasZkAA3lo8yLzpT4EIdbQ4JDS-WhvvWLlfwVi3l9UErWg3Ii_q_bm3mUb1kK7VIP4c87nUuywERdLJTporEjEAuIZ-juwxsuBi6TIhxexthJNaUI1wFzC5kKMrYqTHqd3IhxOh6Rn3zLgLKMn61wGVU5UPzxr4dUnCtPB2UEfv1EJmlLSqSKDC-QRoAYZUcIErJ78AZIlWEa6YWzSwDE1ZExJ55BUskqzOBy6LZ7L2B8NZvqP2wlBaXMrWsVqbZWseOUKAW85K9Pxzi5YrQRsoFgYpOG1P8WxQE75cAZKnr8Qg832J0I0eVr7a-XOgu0XrBSbL6g9-77QNuiobpIaEh6ltEc9ZshUTgB-ISZHypFmg0WRZ3-W-ClvW9LNLqR7Kk0G-77lpr3aCWzt4La6bUwGcqgmpCrfegXR6fsXkbrooDLXMh1Kn8hcQvzjj7hXXbfIidDfkbBJb8RnpwHEytUg0uIObJksB1blyS7Hu2cHZgVOlGXh6lzFE5Nqs9k5HH-5JH0_NQmcxAMjFsNj0oQxgJxU0wbrM1EpDNeLPQHh6rroe_4PZEqfoD3ky_ULKwfkBi9DPN64tv4smTeNmbIs9iJgDDQup60YZP_rQUfiMhIqCjnmLngQcqEe-7q1iSALX3uytslrSb5BS-YdKZ2u_9gEc9Qsofl8zNcU6bfQW97XD1o-OElrSeV3dt0RR67Vspbr8fQo6QjGaTSyujsU_Tjzg41IF8X36dqPG1rCCuUyp16jxoPykg45nA2rRpeYER1wiIbbT7nBpdinz70xpP94-Ii7q2Alk5_wgJoshRvCrO5iiqJE4IsklOQkb7qHBRm5Pc6a6XrR3IUbSRYpbPSGDt8jSGvPXTW1qxDWlqLQHdE_cjgJvl2qu7Ucxev7af4ap9qFSvelSu_LKMnvewPXKpC9nsJf7gf8hJSg1Df3ptcnVkdKpaOW2N_hXOEVpjMngVd2rt5yjEqdf4SkscJBcROWPPGjV74DaMSvcLd1ENdHtaXgBpWFlq49UJxQwdgN95a_7-9cjeYETfjLuu6lbRtYU9bcjXj15KJ5LK_zDf1nZ0=w160",
+        "#3880",
+        "#F0645F"
     ],
     [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/nrAgrNLiOMnuN2f0HLHPuHhC-KYy6ZhfkmqtYi4IR3S4R3kFF53xunCy8cLl3IcKxRGdXACJR-aGMKJSFYuInHpIhDgnkY_lOCWklA=w160",
-        "#4040",
-        "#f0d34d"
-    ],
-    [
-        "Alpha",
-        "Hero",
-        "https://lh3.googleusercontent.com/aw4i4SHEwU6LI5RG_T0MR15nEIrHyQYSSD-V1YYI72gunh898Ehy2l5Q6gvPsg3vQcZRPzypPfThbLoeB6tHmXDmNx5vyMtSKPpVLw=w160",
-        "#4043",
-        "#404040"
-    ],
-    [
-        "Force",
-        "Hero",
-        "https://lh3.googleusercontent.com/sd0XNHdpl7V1nPP6q3kqQd_0fPGZ-25BADw4Q_vH_tAuDjVA_AIUfrkvt7VTvM21gp_gJeTfXiTAr5oYxIzbocJKjKEZ9yyRlAHMpg=w160",
-        "#4071",
-        "#FF6D6E"
-    ],
-    [
-        "",
-        "Anomaly",
-        "https://lh3.googleusercontent.com/8Cb0cxJeI7DC5pTnDZHTckb-A-oSjKMv_PBej9a-5oDACjmqz0vwWy1o_H4Uo5y0NTBZwzAitI944J-wrpN-byXjDgNWlpmAf8d-vZY=w160",
-        "#4081",
-        "#717181"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/s1DEynfBMiL-5Ux9kV12WQ158-7R6m-7Njg0zBAwFDvQbcNuuZGbmHm79F6P9knUgnkmiTxr8DCVMMUoVs5S6_77Tj9xVmrzwo1jVZ8=w160",
-        "#4089",
-        "#8cc7f4"
-    ],
-    [
-        "Panda",
-        "Animal",
-        "https://lh3.googleusercontent.com/pKr7Zfvs52zudChq4Sbe0dY3oWUoA3JS3F6EKqvWiC--bOkxDESaoQnowLgDRU36aOfz8p4V5mbyrbhUT58JtWSjgPltHyWYMEZE-w=w160",
-        "#4092",
-        "#000000"
-    ],
-    [
-        "",
-        "Anomaly",
-        "https://lh3.googleusercontent.com/6nyw80NfP0ErIGTVage4NKygNVCIxih-61aB4jxa7ubIryzQZF9H64GiEWqkrAzw1_1_J1ZuAlSSjQWBL6XYV4Otdjbn7lUrv398Qg=w160",
-        "#4095",
-        "#79CCFE"
-    ],
-    [
-        "Hedgehog",
-        "Animal",
-        "https://lh3.googleusercontent.com/KRKQJhu8s4rB-pnTBbzTnt9V-W_IAzxB96qQ0fs0UEHYnRil9ABShYvGoXxCcj8ge5RQ264geXZQ128Jce14z9N18yi4ImmpYsXE=w160",
-        "#4104",
-        "#A9876C"
-    ],
-    [
-        "Saber Y",
-        "Hero",
-        "https://lh3.googleusercontent.com/K-tjwjB6YsxTRzYpJT9tILGMbwHFI0Z2JIL6YkS5O4-ApLjcpqpzARnKVulYFA5AMOIOuhTm37CM_267nV55aYd92MMLSUAliR-Q=w160",
-        "#4115",
-        "#46B8FF"
-    ],
-    [
-        "Scar",
-        "Villain",
-        "https://lh3.googleusercontent.com/lnmMJtHw6-46FeC3QinY4V9Js_sCeZNi8yu4rRRB7JAeEaHXnCwAMWwkrORHQ1S0_zo_b8ZKiDlLNIaMepe9ckHW85DcXwFdYTR9eA=w160",
-        "#4116",
-        "#F3595B"
-    ],
-    [
-        "",
-        "Anomaly",
-        "https://lh3.googleusercontent.com/dJHHHXu0r04r_WR6JXjXyoB2_69wbmuhcn_LpUNR2HTT8QjW4qEzB1iPsAtOMt2Dd6kWW36YzDYwj8BO0o6Gf549gfYLv8a74fLvQg=w160",
-        "#4126",
-        "#FF5770"
-    ],
-    [
-        "Lamb",
-        "Animal",
-        "https://lh3.googleusercontent.com/nW1hXvYJUGyyv-PcCYX3Z9g7KDYgBd1E4_n1kYA8ncWCX92XPaXUGtoMtxnX4VovVTzj6lp69OutpsIKrdM9-PlTDscamULBS1LdatQ=w160",
-        "#4150",
-        "#EBE5FF"
-    ],
-    [
-        "Kappa",
-        "Hero",
-        "https://lh3.googleusercontent.com/8z4azvmypeApbcheZTKUltt3Wm7s1LEAxCdl_K-2zkQtVh3jvE-W1zfx6SbC8GGxaTD4R8K-cUlsWiehLprG2zkw2JVM5M-xtsdCU6E=w160",
-        "#4156",
-        "#B4E297"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/G9ZxqOAHugmYd3xqxxxoTT1PQc_I5ObIGwpUfqxjzwR_kGos2nVWhjv-NmMsTHiGitVBqaS_rKmdAFlIRLg2wuA0wEoidm71WFEkss0=w160",
-        "#4159",
-        "#FF2C21"
-    ],
-    [
-        "Tyrano",
-        "Hero",
-        "https://lh3.googleusercontent.com/LofTI8GvNyjjTuykvvJkwbINlNRQQkV_OwJKcROFkENMKAdkiPOcbGBczJAMHAhQvgVU4iHq5cPNQ4lgkxMxrOw4SlmiM59nxuacj_g=w160",
-        "#4161",
-        "#FED582"
-    ],
-    [
-        "Turtle",
-        "Animal",
-        "https://lh3.googleusercontent.com/byx7ghj4xhfxx0ABaBOzlUsbCkQHqzEAEFm0bCTf0j2x_TgUkMsq9Fgyz4IjXkOFlEdwQyneYitHw_G42cGmP-adCDcDnGxyejNuPvk=w160",
-        "#4170",
-        "#b1d498"
-    ],
-    [
-        "Cerberus",
-        "Dark Flame",
-        "https://lh3.googleusercontent.com/s8ZVipnOGdfM3r2Nn-TKtaMITT50inPwBVaOKSl15Ck3b1VKciP4dN2LJlwREZTSSfB52D42Nc-BKKLhSnCK7FJxnQWfGRIufYpfcQ=w160",
-        "#4176",
-        "#4D5A6B"
-    ],
-    [
-        "Hades",
-        "Dark Flame",
-        "https://lh3.googleusercontent.com/8NRspzF4cXWv6M00Cx77bU6W0LZEhDYUP80OqKrEFC0GHfRasVvr1z5K57R69t1HOx61bAodFRpvOClyu-UtQKLN-7wVutTlDUB9LA=w160",
-        "#4177",
-        "#FE7673"
-    ],
-    [
-        "Orchi",
-        "Dark Flame",
-        "https://lh3.googleusercontent.com/iSGav5sec9aokfY5ttRf5Au3IMQ-oL9FZ8azroieJmCHqn2i-K_k-7pyJn_rstX6PunsgjRC4QXkofoBKNqG1tFKDdfTXVzQHZDLAVA=w160",
-        "#4178",
-        "#5558BD"
-    ],
-    [
-        "Phoenix",
+        "Berserk",
         "Clan Leader, True Flame",
-        "https://lh3.googleusercontent.com/ScEK2xIQh0gW9f7c4gaOid_IHGVOwLBB7rBhxMWXjtLYMFR82fTPaPm3yskjaDxyjWKaavxwsaN_jRFyiZfPqPuTN1ut6VUB8_5dxQ=w160",
-        "#4179",
-        "#F92B28"
+        "https://lh3.googleusercontent.com/mM_gDXPpbSWz_xSYvaHFQm4cx1FDK9U9BcYDMU9uPq371m_deqDymHTci_BCgK3tFacd8pjYYTU8a5fkgNX6vCFyZT4LdaFNf5_nMg=w160",
+        "#3981",
+        "#232425"
     ],
     [
-        "Phoenix Knight",
-        "Clan Lieutenant",
-        "https://lh3.googleusercontent.com/7AFFhGvkZUxdyTusaZiwr7V7SxXBONFDP5weamXMEJ53OK0LS5Vjvl_aiYfNPIS3Rx-zB4m8VleyNRadwPGhIrfwUtmqny4QPToQJg=w160",
-        "#4180",
-        "#e0606a"
+        "Vespa",
+        "True Flame",
+        "https://lh3.googleusercontent.com/ppvbnXfrFwktgk6DU0Y2arI0nF7tRAiJag8W-iS8I1Z4C58FvLmHnHfaQlO-_oh3TzoyKz6fG_bTBHH8ReB0wclM_mcASHogL8LFoQ=w160",
+        "#4100",
+        "#FFEC95"
     ],
     [
-        "",
+        "Wonderpal",
         "Honorary",
-        "https://lh3.googleusercontent.com/4m4XwqQsAu8TCviy2kY2mu2g4Xb2auOm7mOKK52CsJYUI5W76xXhFHNVgBDa8vFLztSR8iahffZi_CnZe52NHLczA06l9sUkwBsN=w160",
-        "#4181",
-        "#28353a"
+        "https://lh3.googleusercontent.com/8Oqf-NeCEsU8Dv0Zp6i5g7Lq3Wa9KX4wMjqNKCDuAwAoVQBj2nWSMP-WbUln-TxE6uV4nhDkRNQO_3iWuGdvBc6q_1W6TagQAMhd5Q=w160",
+        "#4115",
+        "#ecbe43"
     ],
     [
-        "Zippo",
-        "Sins",
-        "https://lh3.googleusercontent.com/l70uTvfuCRNhoQbeK4ykx3_kJ6VHixvyk_JD3EUoQdlIor1dc6OTXCBdoKbgA3PdxfXe18Y9VwiF-9N6ew0pODpVatUriq7vWnfYtw=w160",
-        "#4182",
-        "#D5FFCF"
+        "Ruechi",
+        "True Flame",
+        "https://lh3.googleusercontent.com/CiV-DDeJ8LgIA1qVVl5NSgaT84UTr7UXC5_8fxaeyKPHF86CyYGzGEj52CyofIMb-g1Sy9KwgW0u4tdDMwswPjiuhiAZ9bMh6K40yw=w160",
+        "#4158",
+        "#e7e8c3"
     ],
     [
-        "Tear",
+        "Saber Z",
         "Hero",
-        "https://lh3.googleusercontent.com/R1iHeDI85DBpV5qDPy1nPa6PX2FYwG9gBkcVvv9AAtA6nOY3P6mn7ym7aAOUXerA6c6vXWfth4QB4p-pYhi1vu7qkJ5f6D92m7sp=w160",
-        "#4194",
-        "#f0d39b"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/SsxDN1aj6B6mjdrqWm_f2D7niBFcByqOQWXd3YSxzXjadwaLaHzMUTR4yPPURwUTQuRSlFT9znygPX1RyUUT0x_zktiyfsii3OHw=w160",
-        "#4196",
-        "#4E4E4E"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/-BsqKev1ewLVHiAjPeZzm600B7iBthIwZRUl0vrKLzBvpeRG0v0k94a3VVy0jXZw0TX_phX7dZDTTT3LzwUIdKwsF6Ah6sV-5F_i=w160",
-        "#4200",
-        "#343D7E"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/f14M1efFCGneLBfAQpfgdxNy89wAO_mwVFEedS2MzJaOeoBLRXxddl0EM-E-abA_dLvQrXmm5Akb2b-8DKLmqnlv55hPAEFL8lMU=w160",
-        "#4217",
-        "#f5d93c"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/4DE3m1m3ptw3OY40Xo9V0L2k2v02yROtm2-K8YJdj4m6jeTFtGCcY4jtxqD9EgxyqxqjK9hxYZscJ-wNq6qx2G-zNBHKv-70pN8M=w160",
-        "#4222",
-        "#9FEA8C"
-    ],
-    [
-        "",
-        "Special",
-        "https://lh3.googleusercontent.com/QKKevcx51PziAa3WZUzJVem54nZoNue8QPDCsP3144OKUefL1KrbLa1x9LcviWYa8l7mpqyFivs9hA2q5K8NKEPLSu3ztD6TCK4G=w160",
-        "#4226",
-        "#b9d1e7"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/pdSgFavKE2ElJjfcescFDnHT3ycl0H1OMG2kMKRgmXGSC4FS-iEx4lFRXeV_ztANvx4_S7FnQogfwqspIKR0BjiSVGcOesuot8Mq=w160",
-        "#4229",
-        "#0d0f0d"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/_obUle8k11AXSvJ2aOkf2qpxmWRtfd0JIIkXa1NyH4w0nWfCowUTzmwZi-UHjK6ROWW4Rm5HF2pSoDLJUiXrTVb1UBBUPgIRLya0=w160",
-        "#4240",
-        "#FDCA34"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/7cPWOzKtWvl8emxopoPqmJPypIwP-wz4s8PI_VmjKstQYvBb2Zhur94dwcwhd-sRTyr2Xu9iAUwxjyWIH7WNSdqHEv-Vvq78YDSuug=w160",
-        "#4245",
-        "#E5904F"
-    ],
-    [
-        "Zebra",
-        "Animal",
-        "https://lh3.googleusercontent.com/c7iBYt9VasF7v3GlRxavQlFUCaGvAnvpRpbjzisjNLIcqHMgA8cQmuh4g9rz7h-GslFBsGuC2JhsWOpUFwN9PrrIzEcZ3lKeH7GNVQ=w160",
-        "#4266",
-        "#5B5B5B"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/wZofLqZEFDDVjIU1_ArsZk-jUCxLNUP7k5ptTExZBner973qoI4RH2hNQwIQJ19uaA1aRS5lnxFrnN_uwqDKebazOafTk9RXd0K6GA=w160",
-        "#4271",
-        "#4A4A4A"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/Zt9c42NZT6mlyZgYcy9TUmt8cXv02lU4CXSqxhx0ozJ5AVKuCvRk7n8oxdPY9CRS9c0rrgmHEt-Qu-s4YecdyIwfVrxbn-YN1sKdqw=w160",
-        "#4272",
-        "#aba3e0"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/yGlmslc6dlYmGHUbXNt3YzAs9gto8ldNQhXD9jD6Vv_JecIvBAaMd4vQ56a1cApnFhyzJBzhknvKsVlTnFOb4uHnhbEN1WRx066q5g=w160",
-        "#4273",
-        "#F9D88E"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/39UeiVQqPhhJo6XXK_QoHWvZ6sAkFBiCG3Nx5AMq6SlXMRXBmKBxGKqPgUijtc7z45g0WiazVlBUuvInRwTb8stQsEUBDREMnRnfVXU=w160",
-        "#4274",
-        "#F89239"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/LTrpEjUS1R30Cyi5wc87lLN0J1FIhtlcHJSVIuHvq9oWt_H1S_raD05qpvUzzFX4GgS1LS4s2Duxwt0xxcZDKHMk0lR1iTc-ny1KmQ=w160",
-        "#4280",
-        "#4486B8"
-    ],
-    [
-        "",
-        "Anomaly",
-        "https://lh3.googleusercontent.com/hHmjMvR3Gez85tCWWmPh7q_UluTvIpOuCLXfDEZbu9E7TEfrlITUZDYDUrKVlgLgzYwxSz_CrRNm6WG5oeOdIBF_r6JLEj2HkoJWtV8=w160",
-        "#4282",
-        "#a2948b"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/oxvQl0jsAVyd8YkjlB27VqkBbTjoQTIfkZYvh1XGrSrgYOvA8jr7ZYtTOnRyIAYtkb6BT6uQD6HRpwvBSWrXjVVbRrX8oJ1r9XHgPRo=w160",
-        "#4289",
-        "#7a2f91"
-    ],
-    [
-        "",
-        "Anomaly",
-        "https://lh3.googleusercontent.com/dBGEdWdybYRy4YYTW6Glxa2HbstfoY3Upu2YNEBK7tq8-P4a8oVMR_60uWki2Idi6ehxreI0dKuboRJLQyPa7YQGnSPBmYJnsPhxzQ=w160",
-        "#4290",
-        "#efd2dd"
-    ],
-    [
-        "",
-        "Anomaly, Dragon",
-        "https://lh3.googleusercontent.com/xK_04ZRB7Wsw4urPkePrh0BaSNjIFdb_7yB9vEJn-RSV695rqEWUWNY0IyKK0UT-wUr7eUeEhcyG8VK6el1gyZbKvPjLnlEJTbUl=w160",
-        "#4300",
-        "#FE5E4D"
-    ],
-    [
-        "Mystic Lion",
-        "Animal, Mystic",
-        "https://lh3.googleusercontent.com/kv8qRq6rAh-bgY8YDn991n9gHc03pF13bQyay_9EQTQz2z1MAWBIYYWGQ0ulD6EFHmmlYlIGPLPGWLtUbJ7hBf4Z40-VZn1D3yRlog=w160",
-        "#4304",
-        "#EAC78E"
-    ],
-    [
-        "",
-        "Special, Bot",
-        "https://lh3.googleusercontent.com/4EAf99CDFrYkFJyNk9PfB5Qf2hOa8DmP-PECmp23Qaf_3wzTBIhpFJNWseBTmK8iPDBxMHSKELInoXxcEpo0fHUz_XaFe8AI5g3QMQ=w160",
-        "#4310",
-        "#B2B9F8"
-    ],
-    [
-        "",
-        "Anomaly",
-        "https://lh3.googleusercontent.com/1B_tv8m52_xvzTEaBZ2hlXXXFupNZWZN0BeXmic9CcaAgqfRFnf5nr1Xlr9ArSqwH1L6T4OoYtekMX6UtZKvZ8cfViWF_JA1vwjK1g=w160",
-        "#4318",
-        "#7FD9FC"
+        "https://lh3.googleusercontent.com/RyAnhRi2KRELJkfissW0bpf5uZKgB-RwHWk43YbhmYGMUJU5nv-hDXrYH0YtztzzTU4ACbsZd9tx2_ciIqlS0bD9hb4L2U5wvXtCCA=w160",
+        "#4308",
+        "#F58EBD"
     ],
     [
         "Lion",
@@ -1862,270 +1799,116 @@ suits = [
         "#cd9b6a"
     ],
     [
-        "Mystic Jellyfish",
-        "Animal, Mystic",
-        "https://lh3.googleusercontent.com/2w621VCXRrcL-Dfl7T8yISro54aOJbZCsmSp12cVKkN8_S8r6Ukm8OCeh-_eueTs2K_rVuh2VVSgvXjc8chdQXnfQrcidKMZYo5Q_Q=w160",
-        "#4325",
-        "#cf88ae"
+        "gbrie",
+        "Honorary",
+        "https://lh3.googleusercontent.com/7CDnpSmIStnCtwEzED3rJSqXMZ7gBstvUzO50bCWAqEU9e39l9jT2Acy3bMtWYklH0oIYxWrWYJxiMXP_s_seapcliI6SdaBjGgWkA=w160",
+        "#4356",
+        "#DCD2FF"
     ],
     [
         "",
         "Honorary",
-        "https://lh3.googleusercontent.com/TUkvpu2Q_MhZlOfFOG0ytwi4lriMfoLS_ALKmCWQFgBt-3kgN-mO8kUVxaoI4xX96HgOgyA5sRMcAs3T2CZhV0ZUbw6sKKPN_o-yIA=w160",
-        "#4335",
-        "#8CCEF1"
-    ],
-    [
-        "",
-        "Special, Ninja",
-        "https://lh3.googleusercontent.com/pL8rMVr3xXw5YxnlpfO5RsQG1WiGe-iiEXKmqU_iOzyBIMAtMQlJwVCbXNdl8AnuXu6Xe2pvSZ2AdAi2LrY0vJiYWgJcjwpUyekYzg=w160",
-        "#4352",
-        "#825DAD"
+        "https://lh3.googleusercontent.com/CYiyzzr9ZwvJ0sFAP2l1AAMzFQwNtdBTiXybJX1i4fFKsVUuw3u_MSAFjThxPF24RCGYxS_bFNaznaL3q03GbA3g_WBiaA0dPV0A6ws=w160",
+        "#4360",
+        "#90CFF2"
     ],
     [
         "",
         "Honorary",
-        "https://lh3.googleusercontent.com/fYSO9u_iBYp9LFGvso37NjBfTP_nqhhxyDnPEd9wWrorN3-Tl_g_bazqNH4og_8cj6eZQtc0ynGp8r3MQTmiuuAPUFqtdaif9ElIOSE=w160",
+        "https://lh3.googleusercontent.com/TZqRwS8ouna59quXDS6w4_PNS3wW8Y44A_RNhT-kMAqvNX1VcUbtD03e7KF45NtwnBFIOqG1RGaNIli4kdap3-9abGV48i1NbkxJ=w160",
+        "#4361",
+        "#A8A4F4"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/jLlX6vYV6EerQA0PQQZflQ3_WZIS5q5hypplbRnaFuS6wZNhAeD-NXaF3NpjRfT7BJAKzxs5EBGQ2CxrMkGeuVSbsK2TzK8NdDrLw4s=w160",
         "#4362",
-        "#95BBEA"
+        "#7EB2FE"
     ],
     [
         "",
-        "Special",
-        "https://lh3.googleusercontent.com/eSPDWnhzcSHI8T4qPekloxZuREZjj_Rhe1mKVcHff4gAJ2uobFkXeZGBHJjOKyn6TQqUJllOnwnjWjGkFUv0DT9ey2CjTrNevn6V=w160",
-        "#4370",
-        "#A9BAC3"
-    ],
-    [
-        "Goop",
-        "True Flame",
-        "https://lh3.googleusercontent.com/gu9trBs4LZZOFiZOI1q9x-fidtzJue_rqf6_Dd6APZ_tnKO-im7_zi09xZ2PvEQ8u6UQq9T94AazWk6wlFXW1aa3GZOq2UbSSHVZc2M=w160",
-        "#4375",
-        "#86CC91"
-    ],
-    [
-        "Vespa",
-        "True Flame",
-        "https://lh3.googleusercontent.com/ppvbnXfrFwktgk6DU0Y2arI0nF7tRAiJag8W-iS8I1Z4C58FvLmHnHfaQlO-_oh3TzoyKz6fG_bTBHH8ReB0wclM_mcASHogL8LFoQ=w160",
-        "#4376",
-        "#FFEC95"
-    ],
-    [
-        "Aura",
-        "True Flame",
-        "https://lh3.googleusercontent.com/Cvpn1miWOYU7VI78vN7fqDwI47zfSX4V_6jmS0X37bllVpCiJsx75WsDZC3WgEAlvyoyQ8fg9eAWnuwFqdT7g_lR2FFEIMhobu64=w160",
-        "#4377",
-        "#97cbe2"
-    ],
-    [
-        "Gold Beard",
-        "True Flame",
-        "https://lh3.googleusercontent.com/0_267Nhep7mwEIEnfVLaznMLQO6YNnQw5wodGYPVUdA_FSWLnEMOz4uZonNiGYPsN-kmR2hc5Wr7rPHhfjeqSUBPluc4uMcMNN1b=w160",
-        "#4378",
-        "#5BA594"
-    ],
-    [
-        "Ugo",
-        "True Flame",
-        "https://lh3.googleusercontent.com/i9TQ6QyYvB7BUiVunsWapgm-AyypHuDDDwcr4tn4LonFMHv4fHbTUbuXKDBG6FHo3GdOEQFtin40IDonWKG5PctQTbijHJD32PFOKg=w160",
-        "#4379",
-        "#50FFE7"
-    ],
-    [
-        "Ruechi",
-        "True Flame",
-        "https://lh3.googleusercontent.com/CiV-DDeJ8LgIA1qVVl5NSgaT84UTr7UXC5_8fxaeyKPHF86CyYGzGEj52CyofIMb-g1Sy9KwgW0u4tdDMwswPjiuhiAZ9bMh6K40yw=w160",
-        "#4380",
-        "#e7e8c3"
-    ],
-    [
-        "Plasma",
-        "True Flame",
-        "https://lh3.googleusercontent.com/bXTtsXHc5aj1eIyY3oT3Xx00ik6U6RAPxWj0pa4CMA1_p7FgRS9FURd6q23fZPTSNoBVd_0bQDuSKklxwcu31wYTKxEIop3K3W5oMs8=w160",
-        "#4381",
-        "#d489b2"
-    ],
-    [
-        "Stan",
-        "True Flame",
-        "https://lh3.googleusercontent.com/23hI5PEQ7m91H16qFC8fCw1WWyiY3aRLard7FBoIoOsx4TWhdfz0yOwbn929lFtfIYek3A4t5aGLUD0h9rhSIiJbyKzd1q_iOLAiCbE=w160",
-        "#4382",
-        "#70D170"
-    ],
-    [
-        "Vodka",
-        "True Flame",
-        "https://lh3.googleusercontent.com/Jl-NEdkZtOYZzZmlCfOfgb-Tt1NPK-VBEYP5iyGpgVQMOZ7mMr8ASlqSweVkb6Col-KVbPfnyQIqn-wdyDQbSObI_QdH-iqbhaaydw=w160",
-        "#4383",
-        "#8775C8"
-    ],
-    [
-        "Neko Neko",
-        "True Flame",
-        "https://lh3.googleusercontent.com/iDAlyPD-wbuWIdtSwv6UhWWfYFpOFvguonlBnVBFOGKeWN4zugavQEE2YxEVwxyYT01o_Ot35nDH2x8xfX24_u4hdG56EJvGbZfsKg=w160",
-        "#4384",
-        "#FFCDD2"
+        "Honorary",
+        "https://lh3.googleusercontent.com/0xzepAH2__1cQcDNDqpwYnPPaSG87dobLSjKfsk7H8dlzW66ZjhO-BJXhq8whYz5RMgatROE026ky4cOOreKmYxl-jVbMg6Ja-P9iBU=w160",
+        "#4363",
+        "#47AEF1"
     ],
     [
         "",
-        "Anomaly",
-        "https://lh3.googleusercontent.com/3lilIgPOzFM0ETxg6UyGYVIs-VzQ7RQBk8zAW4dKQrZOcc8W-xkqnMaszC_G2zl5YF5mbv-DOShTnp9lOxRZS0tbRTqP7kpTnKwErQ=w160",
-        "#4385",
-        "#98c08b"
+        "Honorary",
+        "https://lh3.googleusercontent.com/xWYKYz04t3q7vudYAiYGy4hchuZgMB72Z3Xhp9Ilr_DMpLZjTiAMYDfBi0uzxzxHlogyNNwwrxHDTbFC_B7Z3LWdi2BZwq1tNYppuw=w160",
+        "#4364",
+        "#8aabbc"
     ],
     [
         "",
-        "Special",
-        "https://lh3.googleusercontent.com/BAOWWKBKKjg9WJ5S6ujH1yifM0wfzO8DdhGSI-JyCPQ1jLDxE6Z-Q2O4jyMwslanOABfXdvdvgexZTc1V1c5kyk9fobMrh0871NY7w=w160",
+        "Honorary",
+        "https://lh3.googleusercontent.com/0sZN4S5EXKtpCKK-2FENwyDqS_3cmsWLG8FBhLBk9PAdF-m2AdABaPvj7xLFoUa1_GE6AYuDCufiVWLjbWXREbQ03wT4y_1BG1rEKWw=w160",
+        "#4365",
+        "#6850CC"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/71FBh11lCNtZxTP2__srvVdvGGb-s_HecQT7wweCvNUKMeruFwYNcxxr-HiBdN5FCLqlzvrVcoT6MhArFBdogiOxIi6wKHNabs93=w160",
+        "#4366",
+        "#3d9c64"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/-7j9DJHNxGwJJsAvuKJMLOEJlIpESC61QiHH5hqBWBdXMJ-fa0Lfmb6hfKNg7Hh9_izepKL3dkAzZlJJprLKB0CXgbWBwsGb4sUNgQ=w160",
+        "#4367",
+        "#80AFFD"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/Wq3yDHBcF4qPm9hcuAotaPcMyUBrCPRqllfKDdCcAE_N-RAmFWtsFwKU4znnx3F8T_iSYUYvms_jarI-rYjmSw7YhT5MA-m7-6DawQ=w160",
+        "#4386",
+        "#94caed"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/dNDYrXE8l4tSZ7MiZ3NKY4Rfh1tVViXU44SFB66KzDYsdPj2OxQLFAUXXFF9OraaDgnwIEOAkp1tYHLzbuiVVDH_X1OlpZ-IFBSRD2Y=w160",
+        "#4387",
+        "#ECAB8F"
+    ],
+    [
+        "Fresh's Doodle",
+        "Honorary",
+        "https://lh3.googleusercontent.com/nHt4POBdUQ__5fX1FcMqSv3RRBz-R8gbrqxU8FkV4u5jfq1Li6Di9J9qyCyhLiOcqQaS0EZH2t7RhIkPJ3K1W0UsBYt8radjSsZWN7k=w160",
+        "#4388",
+        "#eac3dc"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/UeBRSz2NW22dfs59ovlcDbvi9tjslAF_7tPGyBPK7oFwv7Icrlay8LF4gJhxPAMtG6z5SWDTXqdgtQuRZvSdzT9Ln2Rldxnlau4UEKw=w160",
+        "#4389",
+        "#F7D07B"
+    ],
+    [
+        "Phoenix",
+        "Clan Leader, True Flame",
+        "https://lh3.googleusercontent.com/ScEK2xIQh0gW9f7c4gaOid_IHGVOwLBB7rBhxMWXjtLYMFR82fTPaPm3yskjaDxyjWKaavxwsaN_jRFyiZfPqPuTN1ut6VUB8_5dxQ=w160",
         "#4390",
-        "#9FB7FF"
-    ],
-    [
-        "",
-        "Anomaly",
-        "https://lh3.googleusercontent.com/Xmo4tLVHAvXyIidkx0hlfijFMYwA2i4LlyCBm9I2mASNfyhfjJCmNm2bbS_VlxS-1wmVa1VqblewxqmIfx4UlKE3FRZvTPtfvlJ4AA=w160",
-        "#4400",
-        "#9BEAFF"
+        "#F92B28"
     ],
     [
         "",
         "Honorary",
-        "https://lh3.googleusercontent.com/ZmrAeGzdFJZuIUcyykJlDHoN-FsNKrH4qyDL2PWDR08-FN7151BrGqm_Ck6sSTCkiIKu6VhTSZSJoVyM0OYwm4onU19eevyYOVCU2g=w160",
-        "#4415",
-        "#E8B894"
-    ],
-    [
-        "Fox",
-        "Animal",
-        "https://lh3.googleusercontent.com/HC_AY9t8oJN7lyZz-qFil1gob5VvSEaN8YXFSBB2RYYgFqUx2g6KH91If025466HkszDPGT8nisP6dsonFz4zZk2F9HJJwHiHHvbig=w160",
-        "#4450",
-        "#FFB667"
-    ],
-    [
-        "",
-        "Anomaly",
-        "https://lh3.googleusercontent.com/SngalLwYs5kXXiDWJJbYXxyl0MZai4uClSxIpjlaeCNv8ZxOewr1qXI9Hj1Pmz9MbFHdMGxg7bbu6_y96L6XmIcCM6K_Q9ansU7f=w160",
-        "#4552",
-        "#000"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/93ic4sn6FpiN-azZNdFe7F-U8vO_tYCBdGiflWwuRTME7QR2XnsA0rAXJb-oPFC-9JJHMzlem5XwOQBKSbfupyqgl9veZfd4od5I=w160",
-        "#4480",
-        "#86AACC"
-    ],
-    [
-        "Bearus",
-        "Sins",
-        "https://lh3.googleusercontent.com/4xFmn6eNCV9O4bjunmLDavjzJn8sp3UN8Pbe_XAYeTLb7ikXclr8eJxs-j-qssHo69rDtGFdyu0fNOil4VtsDx57SMVLwPYsuft6rg=w160",
-        "#4510",
-        "#7BBEE9"
-    ],
-    [
-        "Mugen",
-        "ETHERLORD",
-        "https://lh3.googleusercontent.com/NyFW433IkWr1DUiXDqeKrfQpjPBaOIXwnYRyVuUjtAuaSir5q8XCg02VCa3bWDZUOwXH9K7ut8GSMJuj1bnGRbGua6c1Ba9fqUawsQ=w160",
-        "#4514",
-        "#B79AFF"
-    ],
-    [
-        "Pixis",
-        "Sins",
-        "https://lh3.googleusercontent.com/GpSSn0NDKsu8gqEE1NJ0RNO-Yxm25u0dk2EZugjRrP3azhMIK0r5SOqc0wyLB_mKPRU-awYVR0Dpso62_iNFV3BgxAJlNMrXHr7yhrw=w160",
-        "#4520",
-        "#78FFFB"
-    ],
-    [
-        "Sage",
-        "Sins",
-        "https://lh3.googleusercontent.com/lTXLVcjD9aLSPrHhUi1zT4FQLYev4Vpfxst_-Bqt0L75FSj1iz1dN9wFk9dBhaouKapSzkKENs6uzS23eDb3uoEvKHQHdVjdrJoZFQ=w160",
-        "#4522",
-        "#77C0EE"
-    ],
-    [
-        "Warlock",
-        "ETHERLORD",
-        "https://lh3.googleusercontent.com/90OjVHxqHmPtHj3iOWuRmWrCznltbcKTJ04oxHntT88kcSMxgfciQyhihw7tPGVe6aMiVMNsRa8pX71TmLX0hmwcXIX2T_hCNxECifo=w160",
-        "#4525",
-        "#515151"
+        "https://lh3.googleusercontent.com/39UeiVQqPhhJo6XXK_QoHWvZ6sAkFBiCG3Nx5AMq6SlXMRXBmKBxGKqPgUijtc7z45g0WiazVlBUuvInRwTb8stQsEUBDREMnRnfVXU=w160",
+        "#4391",
+        "#F89239"
     ],
     [
         "King Omni",
         "ETHERLORD",
         "https://lh3.googleusercontent.com/fLyZstRupwbFDmLrPaxL9ynjive5FxWITPKSmSe3UkX6kjfIjzZKpiGuHBd6dUMor7xopGlRgimJQW4jhHksic8fbSNY9zXQC5SE=w160",
-        "#4530",
+        "#4410",
         "#BA3A96"
-    ],
-    [
-        "Shenra",
-        "Sins",
-        "https://lh3.googleusercontent.com/P9FnivCYjKRS6z3Vfi_6Q21YqS2CEVKxdWyF8qxV9sBHHQBmE3GZxWmMtk8n1l_-5N0E8eiGR9fySl_XIJcZWYBsBknSTRXmC5o-zw=w160",
-        "#4538",
-        "#FEC085"
-    ],
-    [
-        "Cosmos",
-        "ETHERLORD",
-        "https://lh3.googleusercontent.com/iE3Y-qBLzl9rj_EusSBJk6Ic8jUqvpxR2tzY9yv1us0TR8ozGhYcnrPX-j_SgT4hrjMx_aHg3L4HooKRfMDo0ukL8oQ1-3Nkmk0KVrs=w160",
-        "#4540",
-        "#505877"
-    ],
-    [
-        "Crisis",
-        "Sins",
-        "https://lh3.googleusercontent.com/t1P5emSS9ReRRw8TNpZtpQo-IVoC3P58OPfvDTjWR4rFA7qAz00o6B3A1y5SpcOhuMlMGoownQ8uY9YyazLf6P-S_JhKFOunL-rk=w160",
-        "#4545",
-        "#E01E39"
-    ],
-    [
-        "Undead",
-        "Sins",
-        "https://lh3.googleusercontent.com/PYpac9cnpWMZqQdZZqAlCJXXvIqjePOZdEU5mYWtJAa8hLzGTmgRcEidA-zWwIssI0-dUazGTAUOi9WSIf074Y1k350LosVBRzr8Ug=w160",
-        "#4550",
-        "#6ABD88"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/mOmMR4dlbyrfCa3r8eMB9EikzO08HuYbEhjDy3ujg2Yvvy7eSoSB5g8bxQHN0xKr6k5eBrViST6X7XTaeKFrS9MEeBnnR_woZU3ceIE=w160",
-        "#4560",
-        "#E3B398"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/nytWhhj97ZDnUIEvuG64PxHF_H67_oZR8FGXXBDstBCZstWZoVf0arBMMznTH6cymxjDEiV19eQkQtZvyhppMVZ-tgmN0UYI3LoYdQ=w160",
-        "#4561",
-        "#E3B398"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/yn1du4S9Zu6LPX0300VBNLYKvYYFNF8xdefaw92wPAkYbCCu3mowrVc-HB1X5OHhB-TMtl8AP-0NAF2ItkBkUoX7QecTN602heVd=w160",
-        "#4562",
-        "#E3B398"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/4XucokWnDpEVzeWlP0DjcVZQs1a6Yvua1c_4oLaUJz5FAb8SW5qsZ5LWEBRSaxt1tfT4bWu3u5Adu9Vhv36BVTYF7CmXAGSAkgqH=w160",
-        "#4563",
-        "#E3B398"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/Zkr6mPzVW7Qu-0nfd_AnJ8VZF0JvP26xow07CnqRUm4A0G15s4xVy0pAOS1fwZJ94cf9xyyz7Sc-3jrUB4sDqImreQ34OgWlRJ3ZmP4=w160",
-        "#4564",
-        "#E3B398"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/MfoeUyxsflC5QS9uMdxnf2rAX0AdQTxFj79M1wYFrG8l2PQ4ujhC7BasvLqBeck1Fhgu1w-YxdNKob58LIKX7t1U5FtbNph15PnVdQ=w160",
-        "#4565",
-        "#40CDBC"
     ],
     [
         "Kurama v2",
@@ -2137,48 +1920,262 @@ suits = [
     [
         "",
         "Honorary",
+        "https://lh3.googleusercontent.com/1AXsVA8Q0ZR0RkcDjh3fSy0VlxBymvSMNnq25hzjowvd8ME3OEKgAUjhxrY8dwPWQ4JmSbJ1Tj55jHkQhsmg1nNwx9B418wQP80n=w160",
+        "#4731",
+        "#df9daa"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/iFnIMoFdSxmhyksAGOnIYwS3yqe9LqJsLd_oawzyOpNJycD4jVrzTytDsY2e1ItaRRbYFFjuDHmR5MeveeJYz4QNCDoxr_WUqKuuOt4=w160",
+        "#4732",
+        "#4E5280"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/tRdRdIL_1YimUkf8kY98jycmuti6wG7tVVMG0AulvxyGXI7c97-URMOZSTza05NwrIGQ_4nVG3W4HfuQuUr5FbykbKQn-SU6uHmxjg=w160",
+        "#4733",
+        "#B7A1D0"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/_Q4bHEzPDochlkfYmiqeHar28J8zjBAisWVgBvsX8HLa4CV6aKFovY8LvR5Q5FUFSISXE_T3MnMbUfxWko6duBr4I0Q9wIcdp4lBXQ=w160",
+        "#4734",
+        "#DAA17F"
+    ],
+    [
+        "USGMEN",
+        "Honorary",
+        "https://lh3.googleusercontent.com/_Nyf5SN8FsvkBtBhOLyrKftxrbXPDigMxKMzb2i8w6zfe97dpIEfNcFRcjycKI4IqfFcehvt7jddSSTT5CUBVXCoDhMvmMOJX9tj=w160",
+        "#4735",
+        "#C5FB64"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/7rKJ6vh-oc4oAiOdUIiGYNgXkpsDKmuRgNr4paNQrkeQEcBKycjxa5L4b9D5JfCxj6tbO_ady66iNLlbEr2cKds64nW0uOgXZUsSPWk=w160",
+        "#4752",
+        "#F1C17F"
+    ],
+    [
+        "Bolt",
+        "Cosmic",
+        "https://lh3.googleusercontent.com/fife/AAWUweVlwcZ0KjWxyDSsLVTdJo3bydgKJLd9CSCjitAB__3HUI8sgGw8QjZ9Nj9PSQUaxaN-iE4IUrTTjfDCf-u0KnSbS_NmJXBuk7ySTNWvQ-fXzWXg2TkJmTfsGcfR1v5wexQBUSGXqILha0y5IdZetAfpidpqFhNorzp_ZkWumjHbVtsW-BraT09Z9z0A4rPujPN_dOjWS5xTMoI3zLBaqXi61WFGN34VtG4BDeZ61f58K6-slq38A7KXaRlaWjK_O_oYwZUITzEBJgrGqs352El3ckKTvuC8beTyKbi7YaZMUcvyNa2LDp3GlteXkigoMY1wIRfkHP3XQbkqvwmgxPkLC5BNQUbyxO2UFJvEKBYN4yo7lNwPF5uCkHtR_Quq9KLpZfItJwBIlQ051H53vQRsjqaX2dJTuG6nUc6EDADyIN7PT6ToxHLmxEnQ0rQXYIrPSxta0b5fsMhm9EpSpbaFvLwUJAX-PAcyE1-Nzmi1t0BdQf7V-zclL2n1Ji2Wgo8ozaKh79iA_m8wjU97YhUnl6M5fe7iYY9A-VSESjizbq8Z-DqxbIauyA8Mn_QhCSS1B1kiL7ZI9_oa5MgEuZOHTw301MVmzIWOMvCPGP5f0HXSMkKoRThjjVKasERycr9XIfRLrPgtFaFWjm9_VuhA-ByXp9IiFzjEkfBGQckCYuTB1OfYm6V9FiVF3YZnOTEXjQ0keaTl7EngzqCo8YMzc6jX8IRnxtrU29bYJxhqf42_dSTEp5CSv8S_M-oxtFBso2XG1ufrJ-4I31mZTQClpb6yPlzJauQINIQfLlGrA8ZVE74FaeaoHEYv33OMHIOiByd6I2moqxHcGPO6w8sezJkcqWzr9tOE62YqnMZYfX7cluVWKI0bfKrYEsrUBqsv8G0NNem1Tvl9RK6t8Z9S3Dmpq6TKI1OA1HNaPxpaymBcxwBy-5bpg124SBmf6BMJHjjNNOzcIl_q9ZcLbIzbP9tCf1VI_gvv8fIFF0_xAQTG_VUQJDRGJRyShoGnbmsipv7INZlmSvBaMblBXNLFSA658TepU-w3VQzRnNpUmFlaDjgT3M6Pmaj4OLRZLLk1ZzIYqKX_Dsu6bd4ffxSjE16Qy-pe5auYi6VZ0T415-yw6UJRjIk8nAsL4_bRYwax1BEYMgPgw_isHnhZlLPvHiJHZoO5QfZBFErSejWLG9XTkHwJohQo6ZMupOdEc02mFSaJmYV4vt6oUg1V0ED3s_6HKQfOch2nbZNw7tAx5iks2gONJC5hn9sISL_ygmBFtCpDcVpuy91a9aLArpPh3QdGqq49lYOQ1bevoykJr8A=w160",
+        "#4757",
+        "#FFE07E"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/z3tntauK3pgeGFNiRhOJQnkfzGcldkm0CjLcA207X7EWCeNKSenYZuYirC8wlWzA45zOIAEHCHO7wejpUQbWkM0fmbesU_rpXoWU=w160",
+        "#4761",
+        "#FDEAD9"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/dbaYVL9m0LrgZI29SYkiN-_fseF_UKrReeEcRNAAwiMEEFs7rf5p8EtyIYooo8E68cNBRuIbJQAX_mnM2sUtIua-TagaRX5c_9m4XA=w160",
+        "#4776",
+        "#9BC7EC"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/TndQhNU2v6HJPG0o_puoagmh86wyqlToSqqjfNn9w6dUxXs76nmGZkJX3GET3lOA33UADmbPoIkTmIRjmd5v_hz1-8GtZXi9XIY7=w160",
+        "#4777",
+        "#94A5B5"
+    ],
+    [
+        "Anubis v2",
+        "God Dragon, v2",
+        "https://lh3.googleusercontent.com/YT4W91-kW1FE1lw9SGpxotn2wBfarT435o5lpvEMJmbFpJSRWEXIuUwW2Q_XYKC1SePcTD6jUdIr7flyxZ3nkvuR32u4Xq76jezt=w160",
+        "#4783",
+        "#C984EF"
+    ],
+    [
+        "",
+        "Anomaly",
+        "https://lh3.googleusercontent.com/N74m30pt8lU0I7mr5-ouuZ6TYy2HN-CJZNuCyllx2nV5_m-MurX73hzVbKyggTEkZagBh4gfZag0gwk79JUEMVWGwmBjlDd7hFyrBQ=w160",
+        "#4786",
+        "#8a92f2"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/-tGR-IXikFAqSlbdt6LABo66sc1vmZfy3Stl3sM7pYF-nQgh9coVy0x863YdikGkCS8eIl-PczT5tz1pGo9mBwSjsJPqCsMtIi4s9OY=w160",
+        "#4787",
+        "#181b20"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/X7tkQdRfKPQn06X4kIhNiOZSev_2HtxccBTvmw4chREj2GaSf0ZX2X8NCYiiRd6ig0AfLTGyF8al2DPzWybkrsEmuNhj-Sulk3hKGA=w160",
+        "#4788",
+        "#7B4623"
+    ],
+    [
+        "Taurus",
+        "Hero",
+        "https://lh3.googleusercontent.com/xKg7mxQyroyoYQfvfl0zfoMmGKNU_auSvrhichmwWOyK5S1QHV4RNstIkhK0SEGBUQ-zn-K1XTrRtyIqXUNbZuYlTA6kHWpkbsYh2A=w160",
+        "#4795",
+        "#FF628F"
+    ],
+    [
+        "Hades",
+        "Dark Flame",
+        "https://lh3.googleusercontent.com/8NRspzF4cXWv6M00Cx77bU6W0LZEhDYUP80OqKrEFC0GHfRasVvr1z5K57R69t1HOx61bAodFRpvOClyu-UtQKLN-7wVutTlDUB9LA=w160",
+        "#4808",
+        "#FE7673"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/G9ZxqOAHugmYd3xqxxxoTT1PQc_I5ObIGwpUfqxjzwR_kGos2nVWhjv-NmMsTHiGitVBqaS_rKmdAFlIRLg2wuA0wEoidm71WFEkss0=w160",
+        "#4814",
+        "#FF2C21"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/4m4XwqQsAu8TCviy2kY2mu2g4Xb2auOm7mOKK52CsJYUI5W76xXhFHNVgBDa8vFLztSR8iahffZi_CnZe52NHLczA06l9sUkwBsN=w160",
+        "#4816",
+        "#28353a"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/4DE3m1m3ptw3OY40Xo9V0L2k2v02yROtm2-K8YJdj4m6jeTFtGCcY4jtxqD9EgxyqxqjK9hxYZscJ-wNq6qx2G-zNBHKv-70pN8M=w160",
+        "#4821",
+        "#9FEA8C"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/pdSgFavKE2ElJjfcescFDnHT3ycl0H1OMG2kMKRgmXGSC4FS-iEx4lFRXeV_ztANvx4_S7FnQogfwqspIKR0BjiSVGcOesuot8Mq=w160",
+        "#4822",
+        "#0d0f0d"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/7cPWOzKtWvl8emxopoPqmJPypIwP-wz4s8PI_VmjKstQYvBb2Zhur94dwcwhd-sRTyr2Xu9iAUwxjyWIH7WNSdqHEv-Vvq78YDSuug=w160",
+        "#4827",
+        "#E5904F"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/Zt9c42NZT6mlyZgYcy9TUmt8cXv02lU4CXSqxhx0ozJ5AVKuCvRk7n8oxdPY9CRS9c0rrgmHEt-Qu-s4YecdyIwfVrxbn-YN1sKdqw=w160",
+        "#4833",
+        "#aba3e0"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/yGlmslc6dlYmGHUbXNt3YzAs9gto8ldNQhXD9jD6Vv_JecIvBAaMd4vQ56a1cApnFhyzJBzhknvKsVlTnFOb4uHnhbEN1WRx066q5g=w160",
+        "#4834",
+        "#F9D88E"
+    ],
+    [
+        "",
+        "Special, Bot",
+        "https://lh3.googleusercontent.com/4EAf99CDFrYkFJyNk9PfB5Qf2hOa8DmP-PECmp23Qaf_3wzTBIhpFJNWseBTmK8iPDBxMHSKELInoXxcEpo0fHUz_XaFe8AI5g3QMQ=w160",
+        "#4838",
+        "#B2B9F8"
+    ],
+    [
+        "Neko Neko",
+        "True Flame",
+        "https://lh3.googleusercontent.com/iDAlyPD-wbuWIdtSwv6UhWWfYFpOFvguonlBnVBFOGKeWN4zugavQEE2YxEVwxyYT01o_Ot35nDH2x8xfX24_u4hdG56EJvGbZfsKg=w160",
+        "#4847",
+        "#FFCDD2"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/mOmMR4dlbyrfCa3r8eMB9EikzO08HuYbEhjDy3ujg2Yvvy7eSoSB5g8bxQHN0xKr6k5eBrViST6X7XTaeKFrS9MEeBnnR_woZU3ceIE=w160",
+        "#???",
+        "#E3B398"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/nytWhhj97ZDnUIEvuG64PxHF_H67_oZR8FGXXBDstBCZstWZoVf0arBMMznTH6cymxjDEiV19eQkQtZvyhppMVZ-tgmN0UYI3LoYdQ=w160",
+        "#???",
+        "#E3B398"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/yn1du4S9Zu6LPX0300VBNLYKvYYFNF8xdefaw92wPAkYbCCu3mowrVc-HB1X5OHhB-TMtl8AP-0NAF2ItkBkUoX7QecTN602heVd=w160",
+        "#???",
+        "#E3B398"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/4XucokWnDpEVzeWlP0DjcVZQs1a6Yvua1c_4oLaUJz5FAb8SW5qsZ5LWEBRSaxt1tfT4bWu3u5Adu9Vhv36BVTYF7CmXAGSAkgqH=w160",
+        "#???",
+        "#E3B398"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/Zkr6mPzVW7Qu-0nfd_AnJ8VZF0JvP26xow07CnqRUm4A0G15s4xVy0pAOS1fwZJ94cf9xyyz7Sc-3jrUB4sDqImreQ34OgWlRJ3ZmP4=w160",
+        "#???",
+        "#E3B398"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/MfoeUyxsflC5QS9uMdxnf2rAX0AdQTxFj79M1wYFrG8l2PQ4ujhC7BasvLqBeck1Fhgu1w-YxdNKob58LIKX7t1U5FtbNph15PnVdQ=w160",
+        "#???",
+        "#40CDBC"
+    ],
+    [
+        "",
+        "Honorary",
         "https://lh3.googleusercontent.com/ow0iSFH8PMAicPKd-ZKQemk2vO5MgnfAlJZMExUg3KwsOmqzYi-ym6W4omlrp_9PXi98lPCOGdn0tVxqgrUwjaTJ9acdq-bwAu7m=w160",
-        "#4567",
+        "#???",
         "#6F65C3"
     ],
     [
         "",
         "Honorary",
         "https://lh3.googleusercontent.com/7z2GY3oLhhym9IpXiMVEVAUpcH_tDuwzXWgffmJUgF6ZfLzdwMKfwfk63X0GbkX8HpArVjPTdErZOXMVh42C8bL_bALE4jheUEhnSQ=w389",
-        "#4568",
+        "#???",
         "#6F65C3"
     ],
     [
         "",
         "Honorary",
         "https://lh3.googleusercontent.com/s8SsUFY11DeXUp8HHa3mbCGieB4F08StmXBy98DuAOcrtmffRSQrNUsbZLgyezhnxifbokZyTCrMrFmNTBtnYUdUsl-Td1NbtEGn=w160",
-        "#4569",
+        "#???",
         "#6F65C3"
     ],
     [
         "",
         "Honorary",
         "https://lh3.googleusercontent.com/ksegpVBukzicRlalHdIODEq4hrHVUq1y28bpyX1wfJHrj2v32kZe1_4AmSZtGeogARWU2751HLYS-c14NLyEU6JVGkE3QLsLkXNBjys=w160",
-        "#4570",
+        "#???",
         "#6F65BC"
     ],
     [
         "",
         "Honorary",
         "https://lh3.googleusercontent.com/OLKh2dg2m_m2gY6E2mZgQ7M37Rxjm7u6STMHF3qyw91AcqwOuJE3KCjZQlayi_h4pt-iFb6CNpYjjq5WmTdPM9beQ6OUbkr1nQCm8g=w160",
-        "#4571",
+        "#???",
         "#FC8BD0"
     ],
     [
         "",
         "Honorary",
         "https://lh3.googleusercontent.com/mpvDmyuSUD6mSAhX8rg08xYbygsbXcs8BvXIdKulHYcYHEmLBuw0fb-7ggy3pPP2KfLt43VfAvfve7A3rD7ReMo7X0WL82PxcPbOKQ=w160",
-        "#4572",
+        "#???",
         "#F5C33F"
-    ]
-]
-
-newsuits = [
+    ],
     [
         "Neto v2",
         "v2",

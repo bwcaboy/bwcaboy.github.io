@@ -9,7 +9,7 @@
         <link rel="preconnect" href="https://fonts.googleapis.com">
         <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
         <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@500&display=swap" rel="stylesheet">
-        <link rel="shortcut icon" type="image/png" href="favicon.png">
+        <link rel="shortcut icon" type="image/png" href="zetsu.png">
         <style>
             body {
                 font-family: Poppins, sans-serif;
@@ -25,6 +25,17 @@
                 }
                 to {
                     height: 10rem;
+                    opacity: 1;
+                }
+            }
+
+            @keyframes slideDownSmall {
+                from {
+                    height: 0;
+                    opacity: 0;
+                }
+                to {
+                    height: 2rem;
                     opacity: 1;
                 }
             }
@@ -76,7 +87,7 @@
                 margin-left: auto;
                 margin-right: auto;
             }
-            #buttons {
+            .categoryMenu {
                 display: flex;
                 align-items: center;
                 justify-content: center;
@@ -86,6 +97,8 @@
                 white-space: nowrap;
                 margin-left: 5vw;
                 margin-right: 5vw;
+                height: auto;
+                animation: fadeIn 1s;
             }
             button {
                 align-items: center;
@@ -267,12 +280,93 @@
                 font-size: 2.5rem;
             }
 
+            #zetsuMenu {
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                flex-flow: row wrap;
+                align-content: center;
+                margin-bottom: 20px;
+                margin-top: 20px;
+            }
+
+            #zetsu {
+                height: 14vh;
+            }
+
+            .chat {
+                position:relative;
+                text-align: center;
+                padding:10px;
+                margin: 10px 30px;
+                color:black;
+                background:#D4DDFC;
+                border-radius: 30px;
+                display: flex;
+                flex-flow: row nowrap;
+                gap: 1rem;
+                justify-content: center;
+                align-items: center;
+            }
+
+            /* creates part of the curve */
+            .chat:before {
+                content: "";
+                position: absolute;
+                z-index: 2;
+                top: 7px;
+                left: -8px;
+                height: 20px;
+                border-left: 20px solid #D4DDFC;
+                border-bottom-right-radius: 16px 14px;
+                -webkit-transform: translate(0, -2px);
+            }
+
+            /* creates part of the curved pointy bit */
+            .chat:after {
+                content: "";
+                position: absolute;
+                z-index: 3;
+                top: 7px;
+                left: 4px;
+                width: 26px;
+                height: 20px;
+                background: #FFFFFF;
+                border-top-right-radius: 14px;
+                -webkit-transform: translate(-30px, -2px);
+            }
+
+            .categoryZetsu {
+                color: #000;
+                border-radius: 100px;
+                border: 1px solid #D4DDFC;
+                height: auto;
+                padding: 5px 15px;
+                font-size: 0.75rem;
+                background: #D4DDFC;
+            }
+            .categoryZetsu:hover{
+                background: #D4DDFC;
+                cursor: pointer;
+                transform: scale(1.05);
+                transition: transform 0.5s;
+            }
+
             @media only screen and (max-width: 500px) {
                 .grid {
                     grid-template-columns: repeat(auto-fit, 4.5rem);
                 }
                 .suitImage {
                     width: 4.5rem;
+                }
+                #zetsu {
+                    height: 4.5rem;
+                }
+                h2 {
+                    font-size: 0.75rem;
+                }
+                h1 {
+                    font-size: 1.25rem;
                 }
             }
 
@@ -281,8 +375,17 @@
     </head>
     <body>
         <main>
-            <img id="title" src="https://monstersuit.io/images/home/logo.png" onclick="showSuits('All')">
-            <div id="buttons">
+            <div id="zetsuMenu">
+                <img id="zetsu" src="zetsu.png" onclick="showSuits('All')">
+                <div class="chat">
+                    <button class="categoryZetsu" onclick="toggleCategories()">FILTER</button>
+                    <button class="categoryZetsu" onclick="shuffleSuits()" id="shuffleButton">SHUFFLE</button>
+                    <a href="https://monstersuit.io">
+                        <button class="categoryZetsu">INFO</button>
+                    </a>
+                </div>
+            </div>
+            <div id="buttons" class="isHidden">
                 <button class="categoryGhost" onclick="showSuits('All')">All</button>
                 <button class="categoryDragon" onclick="showSuits('Dragon')">Dragons</button>
                 <button class="categoryClan" onclick="showSuits('Clan')">Clans</button>
@@ -317,6 +420,19 @@
             </ul>
             <script src="metadata.js"></script>
             <script>
+
+                suits = masterSuits.slice(0)
+
+                function toggleCategories() {
+                    let x = document.getElementById("buttons")
+                    if(x.className == "isHidden") {
+                        x.className = "categoryMenu"
+                    }
+                    else {
+                        x.className = "isHidden"
+                    }
+                }
+
                 function shuffle(array) {
                     let currentIndex = array.length,  randomIndex;
 
@@ -335,14 +451,34 @@
                     return array;
                 }
 
-                shuffle(suits)
+                var deadCalmNumber
+                var shuffled = false
 
-                suits.unshift(newsuits[0], newsuits[1], newsuits[2], newsuits[3])
+                function shuffleSuits() {
+                    console.log("pressed")
+                    if(shuffled == false) {
+                        shuffle(suits)
+                        for(let i = 0; i < suits.length; i++) {
+                            if(suits[i][0] == "Dead Calm") {
+                                deadCalmNumber = i
+                                break
+                            }
+                        }
+                        shuffled = true
+                        document.getElementById("shuffleButton").innerText = "Sort"
+                    }   
+                    else {
+                        suits = masterSuits.slice(0)
+                        shuffled = false
+                        document.getElementById("shuffleButton").innerText = "Shuffle"
+                    }
+                    assignSuits()
+                    showSuits("All")
+                }
                 
                 for(let i = 0; i < suits.length; i++) {
                     if(suits[i][0] == "Dead Calm") {
-                        var deadCalmNumber = i
-                        console.log("Success!")
+                        deadCalmNumber = i
                         break
                     }
                 }
@@ -350,6 +486,7 @@
 
                 function showSuits(x) {
                     document.body.style.backgroundColor = "#FFF"
+                    document.getElementById("zetsuMenu").style.filter="brightness(100%)"
                     //Set all images back to full colour
                     for(let i = 0; i < suits.length; i++) {
                         document.getElementById(i.toString() + "Image").style.filter="grayscale(0%)"
@@ -562,6 +699,7 @@
 
                 function expand(x) {
                     document.body.style.backgroundColor = "#FFF"
+                    document.getElementById("zetsuMenu").style.filter="brightness(100%)"
                     //If another information window is open, close that window
                     if(x != activeSuit && activeSuit > -1) {
                         document.getElementById(activeSuit).className = "isHidden"
@@ -593,127 +731,133 @@
                         for(let i = 0; i < suits.length; i++) {
                             document.getElementById(i.toString() + "Image").style.filter="brightness(7%)"
                         }
+                        document.getElementById("zetsuMenu").style.filter="brightness(7%)"
                         document.getElementById(deadCalmNumber.toString() + "Image").style.filter="brightness(100%)"
                     }
                 }
+                function assignSuits() {
+                    console.log("Assigning suits")
+                    document.getElementById("genesis").innerHTML = ""
+                    for(let i = 0; i < suits.length; i++) {
+                        //Create grid element to hold image
+                        let imageWrapper = document.createElement("li")
+                        imageWrapper.id = i.toString() + "Image"
+                        //Create image of suit
+                        let image = document.createElement("img")
+                        image.src = suits[i][2]
+                        image.className = "suitImage"
+                        imageWrapper.appendChild(image)
+                        document.getElementById("genesis").appendChild(imageWrapper)
+                        //Add event listener to the image
+                        image.addEventListener('click', function(){ expand(i.toString()) })
+                        //Create grid element to store information
+                        let information = document.createElement("li")
+                        information.id = i.toString()
+                        information.className = "isHidden"
+                        //SUIT NUMBER
+                        let number = document.createElement("h2")
+                        number.innerHTML = suits[i][3]
+                        number.style.color = suits[i][4];
+                        information.appendChild(number)
+                        //SUIT NAME
+                        let name = document.createElement("h1")
+                        name.innerHTML = suits[i][0]
+                        information.appendChild(name)
+                        //SUIT CATEGORIES
+                        let suitCategories = suits[i][1].split(", ")
+                        for(let j = 0; j < suitCategories.length; j++) {
+                            let category = document.createElement("p")
+                            category.innerHTML = suitCategories[j]
+                            if(suitCategories[j].includes("Dragon")) {
+                                category.className = "categoryDragon"
+                                category.onclick = function() {showSuits("Dragon")}
+                            }
+                            else if(suitCategories[j].includes("Animal")) {
+                                category.className = "categoryAnimal"
+                                category.onclick = function() {showSuits("Animal")}
+                            }
+                            else if(suitCategories[j].includes("Bot")) {
+                                category.className = "categoryBot"
+                                category.onclick = function() {showSuits("Bot")}
+                            }
+                            else if(suitCategories[j].includes("Ninja")) {
+                                category.className = "categoryNinja"
+                                category.onclick = function() {showSuits("Ninja")}
+                            }
+                            else if(suitCategories[j].includes("Mystic Neko")) {
+                                category.className = "categoryMysticNeko"
+                                category.onclick = function() {showSuits("Mystic Neko")}
+                            }
+                            else if(suitCategories[j].includes("Mystic")) {
+                                category.className = "categoryMystic"
+                                category.onclick = function() {showSuits("Mystic")}
+                            }
+                            else if(suitCategories[j].includes("Ghost")) {
+                                category.className = "categoryGhost"
+                                category.onclick = function() {showSuits("Ghost")}
+                            }
+                            else if(suitCategories[j].includes("Cosmic")) {
+                                category.className = "categoryCosmic"
+                                category.onclick = function() {showSuits("Cosmic")}
+                            }
+                            else if(suitCategories[j].includes("Honorary")) {
+                                category.className = "categoryHonorary"
+                                category.title = "Honorary suits celebrate notable individuals and communities within web3."
+                                category.onclick = function() {showSuits("Honorary")}
+                            }
+                            else if(suitCategories[j].includes("Hero")) {
+                                category.className = "categoryHero"
+                                category.onclick = function() {showSuits("Hero")}
+                            }
+                            else if(suitCategories[j].includes("Villain")) {
+                                category.className = "categoryVillain"
+                                category.onclick = function() {showSuits("Villain")}
+                            }
+                            else if(suitCategories[j].includes("Clan")) {
+                                category.className = "categoryClan"
+                                category.onclick = function() {showSuits("Clan")}
+                            }
+                            else if(suitCategories[j].includes("True Flame")) {
+                                category.className = "categoryTrueFlame"
+                                category.onclick = function() {showSuits("True Flame")}
+                            }
+                            else if(suitCategories[j].includes("Anomaly")) {
+                                category.className = "categoryAnomaly"
+                                category.onclick = function() {showSuits("Anomaly")}
+                            }
+                            else if(suitCategories[j].includes("Dark Flame")) {
+                                category.className = "categoryDarkFlame"
+                                category.onclick = function() {showSuits("Dark Flame")}
+                            }
+                            else if(suitCategories[j].includes("Sins")) {
+                                category.className = "categorySins"
+                                category.onclick = function() {showSuits("Sins")}
+                            }
+                            else if(suitCategories[j].includes("ETHERLORD")) {
+                                category.className = "categoryETHLORD"
+                                category.onclick = function() {showSuits("Etherlord")}
+                            }
+                            else if(suitCategories[j].includes("Genesis")) {
+                                category.className = "categoryGenesis"
+                                category.onclick = function() {showSuits("Genesis")}
+                            }
+                            else if(suitCategories[j].includes("v2")) {
+                                category.className = "categoryV2"
+                                category.onclick = function() {showSuits("v2")}
+                            }
+                            else {
+                                category.className = "categoryGenesis"
+                                category.onclick = function() {showSuits("All")}
+                            }
+                            information.appendChild(category)
+                        }
 
-                for(let i = 0; i < suits.length; i++) {
-                    //Create grid element to hold image
-                    let imageWrapper = document.createElement("li")
-                    imageWrapper.id = i.toString() + "Image"
-                    //Create image of suit
-                    let image = document.createElement("img")
-                    image.src = suits[i][2]
-                    image.className = "suitImage"
-                    imageWrapper.appendChild(image)
-                    document.getElementById("genesis").appendChild(imageWrapper)
-                    //Add event listener to the image
-                    image.addEventListener('click', function(){ expand(i.toString()) })
-                    //Create grid element to store information
-                    let information = document.createElement("li")
-                    information.id = i.toString()
-                    information.className = "isHidden"
-                    //SUIT NUMBER
-                    let number = document.createElement("h2")
-                    number.innerHTML = suits[i][3]
-                    number.style.color = suits[i][4];
-                    information.appendChild(number)
-                    //SUIT NAME
-                    let name = document.createElement("h1")
-                    name.innerHTML = suits[i][0]
-                    information.appendChild(name)
-                    //SUIT CATEGORIES
-                    let suitCategories = suits[i][1].split(", ")
-                    for(let j = 0; j < suitCategories.length; j++) {
-                        let category = document.createElement("p")
-                        category.innerHTML = suitCategories[j]
-                        if(suitCategories[j].includes("Dragon")) {
-                            category.className = "categoryDragon"
-                            category.onclick = function() {showSuits("Dragon")}
-                        }
-                        else if(suitCategories[j].includes("Animal")) {
-                            category.className = "categoryAnimal"
-                            category.onclick = function() {showSuits("Animal")}
-                        }
-                        else if(suitCategories[j].includes("Bot")) {
-                            category.className = "categoryBot"
-                            category.onclick = function() {showSuits("Bot")}
-                        }
-                        else if(suitCategories[j].includes("Ninja")) {
-                            category.className = "categoryNinja"
-                            category.onclick = function() {showSuits("Ninja")}
-                        }
-                        else if(suitCategories[j].includes("Mystic Neko")) {
-                            category.className = "categoryMysticNeko"
-                            category.onclick = function() {showSuits("Mystic Neko")}
-                        }
-                        else if(suitCategories[j].includes("Mystic")) {
-                            category.className = "categoryMystic"
-                            category.onclick = function() {showSuits("Mystic")}
-                        }
-                        else if(suitCategories[j].includes("Ghost")) {
-                            category.className = "categoryGhost"
-                            category.onclick = function() {showSuits("Ghost")}
-                        }
-                        else if(suitCategories[j].includes("Cosmic")) {
-                            category.className = "categoryCosmic"
-                            category.onclick = function() {showSuits("Cosmic")}
-                        }
-                        else if(suitCategories[j].includes("Honorary")) {
-                            category.className = "categoryHonorary"
-                            category.title = "Honorary suits celebrate notable individuals and communities within web3."
-                            category.onclick = function() {showSuits("Honorary")}
-                        }
-                        else if(suitCategories[j].includes("Hero")) {
-                            category.className = "categoryHero"
-                            category.onclick = function() {showSuits("Hero")}
-                        }
-                        else if(suitCategories[j].includes("Villain")) {
-                            category.className = "categoryVillain"
-                            category.onclick = function() {showSuits("Villain")}
-                        }
-                        else if(suitCategories[j].includes("Clan")) {
-                            category.className = "categoryClan"
-                            category.onclick = function() {showSuits("Clan")}
-                        }
-                        else if(suitCategories[j].includes("True Flame")) {
-                            category.className = "categoryTrueFlame"
-                            category.onclick = function() {showSuits("True Flame")}
-                        }
-                        else if(suitCategories[j].includes("Anomaly")) {
-                            category.className = "categoryAnomaly"
-                            category.onclick = function() {showSuits("Anomaly")}
-                        }
-                        else if(suitCategories[j].includes("Dark Flame")) {
-                            category.className = "categoryDarkFlame"
-                            category.onclick = function() {showSuits("Dark Flame")}
-                        }
-                        else if(suitCategories[j].includes("Sins")) {
-                            category.className = "categorySins"
-                            category.onclick = function() {showSuits("Sins")}
-                        }
-                        else if(suitCategories[j].includes("ETHERLORD")) {
-                            category.className = "categoryETHLORD"
-                            category.onclick = function() {showSuits("Etherlord")}
-                        }
-                        else if(suitCategories[j].includes("Genesis")) {
-                            category.className = "categoryGenesis"
-                            category.onclick = function() {showSuits("Genesis")}
-                        }
-                        else if(suitCategories[j].includes("v2")) {
-                            category.className = "categoryV2"
-                            category.onclick = function() {showSuits("v2")}
-                        }
-                        else {
-                            category.className = "categoryGenesis"
-                            category.onclick = function() {showSuits("All")}
-                        }
-                        information.appendChild(category)
+                        
+                        document.getElementById("genesis").appendChild(information)
                     }
+                }   
 
-                    
-                    document.getElementById("genesis").appendChild(information)
-                }
+                assignSuits()
             </script>
         
         </main>
