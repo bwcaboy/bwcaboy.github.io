@@ -1911,13 +1911,6 @@ masterSuits = [
         "#BA3A96"
     ],
     [
-        "Kurama v2",
-        "Mystic Neko, v2",
-        "https://lh3.googleusercontent.com/dX0l45fvgwmA30MnXJDQRxfl6X39ekFIMf-2xFXOp5qicURSYl12Kd9qDliPt3mjvjhQL05Zeye3xWiESGBeGlWqagDKZVRHW5BYbd4=w160",
-        "#4566",
-        "#F9D73A"
-    ],
-    [
         "",
         "Honorary",
         "https://lh3.googleusercontent.com/1AXsVA8Q0ZR0RkcDjh3fSy0VlxBymvSMNnq25hzjowvd8ME3OEKgAUjhxrY8dwPWQ4JmSbJ1Tj55jHkQhsmg1nNwx9B418wQP80n=w160",
@@ -2091,6 +2084,13 @@ masterSuits = [
         "https://lh3.googleusercontent.com/iDAlyPD-wbuWIdtSwv6UhWWfYFpOFvguonlBnVBFOGKeWN4zugavQEE2YxEVwxyYT01o_Ot35nDH2x8xfX24_u4hdG56EJvGbZfsKg=w160",
         "#4847",
         "#FFCDD2"
+    ],
+    [
+        "Kurama v2",
+        "Mystic Neko, v2",
+        "https://lh3.googleusercontent.com/dX0l45fvgwmA30MnXJDQRxfl6X39ekFIMf-2xFXOp5qicURSYl12Kd9qDliPt3mjvjhQL05Zeye3xWiESGBeGlWqagDKZVRHW5BYbd4=w160",
+        "#???",
+        "#F9D73A"
     ],
     [
         "",
