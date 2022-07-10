@@ -2086,122 +2086,178 @@ masterSuits = [
         "#FFCDD2"
     ],
     [
-        "Kurama v2",
-        "Mystic Neko, v2",
-        "https://lh3.googleusercontent.com/dX0l45fvgwmA30MnXJDQRxfl6X39ekFIMf-2xFXOp5qicURSYl12Kd9qDliPt3mjvjhQL05Zeye3xWiESGBeGlWqagDKZVRHW5BYbd4=w160",
-        "#???",
-        "#F9D73A"
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/mpvDmyuSUD6mSAhX8rg08xYbygsbXcs8BvXIdKulHYcYHEmLBuw0fb-7ggy3pPP2KfLt43VfAvfve7A3rD7ReMo7X0WL82PxcPbOKQ=w160",
+        "#4409",
+        "#F5C33F"
+    ],
+    [
+        "Zeta v2",
+        "v2",
+        "https://lh3.googleusercontent.com/fife/AAWUweXzKWdWdswA-bus1eEhfRxMNCzW4EMJwFwEYbz7rqMs6HF1tBA5230Lcaj109ZLLU9nbny7DuhFK4ohQ6lBLjF4rrvfJTBfKthQBUUHAnYZhmWmiyyOYvi93nXQaCG9X6aS-uus1S4X8OpolhOYXabreysQPOpOPapqxBSXKjva6tWkCRFmpaHlznT-KANt6eessRkKDHOza-konNAMzAVBOkLUAB8gI3cegf0ZAHH5WNTgRp5VM0sLRbVX7iSB_Xwt2jSCCKx-9YQVKD2NUxz48Iw83z1c9tmYx4EVyWOcPzTLj-g_NNGB7bZPWrmCT0Y3P6tdpW9sOl8ocGLHPwv06h9pf8nlO_MWIwM10pxJv9kUayh4jyyakM35KxNIQg5DA0-HVPP3Kyo62_9o9C1PNXuegU8oWu9vg8dYMQot07xqk-dae_Ouc1oJK0paMAwL9oo85Sq9n2gNQkEISnCKwJgYCzjgFgKMXEVN-xa0CSQO4t2LFb3EYDJ7OSDZqXg6aXrM2YVJr8ELKQeVBGP60JxGAoa-ORZ8xQIzoso8FmXaJb4MYw_Im9FqEBYC5tgS2MNGbAwghZWxY0cUGwLeioc9D6OGif64z1p6ySL2DR--73PYsTf7Lt86aD3_tcc3G6uuh9NGeXkfdNR19erhCLRy-24pfT1bkwjMc0wdN3Sx32FiHFJKKu87lFK1RBik8XXwBbp17LGhmtbZg5xPDyoZICcvZWcO9I_3RejHwzKMXKPlRarFZDN72gGhOM7Sp25uinnz3aIaJ4l5RZvkuTNKdffOxhQPKWpco7YHQwyuXVsnB9TZSjlU-XRRV8OgxH5H7XPRKpYfop0FDP7KdXESNwrr8Ni3GfpXsct3x9z1ksBN9d_ln4WKrwa3E9Iy-y65aaMI5-7-Qj2CrbT260ORBmZVZAi2GghmbFYGjWRNvOxES9bYzRVTbOAUWOwXqvTuFQVte8bpoNiNwvw9KNaiNxe3l3z43KjKXO_QoEibWJmcpa4LOrPm-9z_Lh9BPzLOeigy6kvsSM3qssS155lgrchhn0VkmTe3PLnQhKEYMw9-GyD3koIh9MmG_SCqstTzXxt7JNsd-Jm7RwGPUF0FgasgS5_j4EsnrgVBE1lhs8brQ8mb1UNV0ERGsjbWU5DtQ8WraybibXjFZa1UT2VWRkRuMPHE3hc5rahyREgs161Oh-XZEzlwNt5BkVzUqSvJyfKT-Mw4tj8XCgZtNLJqtFg9TdaS6PJkj8GSltBV8lkEwRJ6smM87Ez2oy5RHh7vd2FwSY5Cbnwd9CapMe-xaYP5kNG6u_fKOWQeraE=w160",
+        "#4421",
+        "#3C99DE"
     ],
     [
         "",
         "Honorary",
-        "https://lh3.googleusercontent.com/mOmMR4dlbyrfCa3r8eMB9EikzO08HuYbEhjDy3ujg2Yvvy7eSoSB5g8bxQHN0xKr6k5eBrViST6X7XTaeKFrS9MEeBnnR_woZU3ceIE=w160",
-        "#???",
-        "#E3B398"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/nytWhhj97ZDnUIEvuG64PxHF_H67_oZR8FGXXBDstBCZstWZoVf0arBMMznTH6cymxjDEiV19eQkQtZvyhppMVZ-tgmN0UYI3LoYdQ=w160",
-        "#???",
-        "#E3B398"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/yn1du4S9Zu6LPX0300VBNLYKvYYFNF8xdefaw92wPAkYbCCu3mowrVc-HB1X5OHhB-TMtl8AP-0NAF2ItkBkUoX7QecTN602heVd=w160",
-        "#???",
-        "#E3B398"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/4XucokWnDpEVzeWlP0DjcVZQs1a6Yvua1c_4oLaUJz5FAb8SW5qsZ5LWEBRSaxt1tfT4bWu3u5Adu9Vhv36BVTYF7CmXAGSAkgqH=w160",
-        "#???",
-        "#E3B398"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/Zkr6mPzVW7Qu-0nfd_AnJ8VZF0JvP26xow07CnqRUm4A0G15s4xVy0pAOS1fwZJ94cf9xyyz7Sc-3jrUB4sDqImreQ34OgWlRJ3ZmP4=w160",
-        "#???",
-        "#E3B398"
-    ],
-    [
-        "",
-        "Honorary",
-        "https://lh3.googleusercontent.com/MfoeUyxsflC5QS9uMdxnf2rAX0AdQTxFj79M1wYFrG8l2PQ4ujhC7BasvLqBeck1Fhgu1w-YxdNKob58LIKX7t1U5FtbNph15PnVdQ=w160",
-        "#???",
-        "#40CDBC"
+        "https://lh3.googleusercontent.com/OLKh2dg2m_m2gY6E2mZgQ7M37Rxjm7u6STMHF3qyw91AcqwOuJE3KCjZQlayi_h4pt-iFb6CNpYjjq5WmTdPM9beQ6OUbkr1nQCm8g=w160",
+        "#4428",
+        "#FC8BD0"
     ],
     [
         "",
         "Honorary",
         "https://lh3.googleusercontent.com/ow0iSFH8PMAicPKd-ZKQemk2vO5MgnfAlJZMExUg3KwsOmqzYi-ym6W4omlrp_9PXi98lPCOGdn0tVxqgrUwjaTJ9acdq-bwAu7m=w160",
-        "#???",
+        "#4434",
         "#6F65C3"
+    ],
+    [
+        "Dazai",
+        "Hero",
+        "https://lh3.googleusercontent.com/fife/AAWUweV2UD__FFITm9yqmE7ZT45mrJ5UVhSMMKLgC41H_B7WdjtYDdOiKuPHbAE1tW1DydlCf2dbXuSDgc6ZsoBLDYHQX59m_AHDmTXN6HgRtcdw1aB5EcTSRZGOxR_6yFui6aVx9-4cOCxbFYEFyxsJ3uqQ4s94MDbouud2H6i6nW46kAVeaW0B75b97CojMxB8Sx62kqttpn-v2AjhEkHTdWgf47cDrQnOu7_y97qA5irS85CshhFuCneN2iRkqgSyXhvFTunyQrEWdFU2GvpPdVjQMeYfGDRLL1JtagefTuDV0sZYC3b8kOro0kCg-B4pBSHvcln53yxgY9VneQKhT_0BYgZB0wYLLiX_NobY9qxGu_fwabzSj3j76etmB284U9QSa9vY6eMt3rTETO0kNiNG8vsX0jGwaiSff_NeufqaPQiksT5shliENV71XCdpa9Q-FP48WfHeMHOMthUFXSFSxfgPwJCN1X3B9pLgX2uK40mTmobebUnrmnhVNRSXtR9xE6qJK_XQ7fMIUVFCkpzShY22lHUzL79isYMqDBUfUIfsnQhvRv-3t-gcJbus370Dk9moUps4aGxXZCuPqd8mQ4xzTWojavSZWdszgFeIyAJvnzaJXSPZNJyDKjyeR1o7YZIkukziaBSBDIdFplXc72IhySvyzIwxME0QA6RzHj-hKPjTOqq_ANbTYyMKXcK3fNOrOOx1MnsOjx4rWVhlM2G4_RbmOag2isRBop4VYkAwYANBClibI38Un0uCsPiEBxwn6EmZuN161rJQnB8WmWd2Z3L_lPVn3KDEEpMtNgNkeEi1FQ-EQZ8meFDRxEVDsVXDlRNA5YE8Vz8a4GSC3694NiBxWQf5ZLx4PRH62mQYlJBtVKy6BazT6pgTpXstizPNVliGU_zrBL_6cnQMumHfHi47IcnRWN3Wgvk8MlRS3prgsL9qv9YeiKwAnSVg10-rb84fSXTDUBhJpGmuqY_SnGBg-UnBgSpMtehlFF0QGdzCEicMZIG5vmxAe1qpIj7rxtvLNrYKg85SnXGs5zrWK6oyH_MSW4gSdcgjH74LP2CFJHv3m4YDnqKlUkyyBe6Y5SvA36ZRa4pH_xAxeIYQCyL7VWYt--LjWveEUsUaZadTjuGk53cU-88A0oj5-yP5CXtBzR9f5Bx8kIeJagzzfjJoSVZiQNnWg7D_BIdZxzjIMSGCxMHf9Lh1cvrbWiHKcCrXibY9dg55lYaALxvj11gCVwn6nNlzR4ausSpkc2v2wvg5bmbDShz7t_vmt1zpu6BpjFiA6ONOPBlh_iYuEcYzp3Dk3Latj3_xaSs=w160",
+        "#4448",
+        "#61B7FD"
     ],
     [
         "",
         "Honorary",
-        "https://lh3.googleusercontent.com/7z2GY3oLhhym9IpXiMVEVAUpcH_tDuwzXWgffmJUgF6ZfLzdwMKfwfk63X0GbkX8HpArVjPTdErZOXMVh42C8bL_bALE4jheUEhnSQ=w389",
-        "#???",
+        "https://lh3.googleusercontent.com/5ec4beJWFi53w_uESH-Kt9KewLQTPUQNugrWsO5v_rVZ-bHgTBoE2vq58uZooAWiYiorMNeigM7zLmRIA4mszY_JV3bGiNSGVzeho_c=w160",
+        "#4476",
+        "#FFE785"
+    ],
+    [
+        "Yuri x Yamato",
+        "True Fusion, Dragon, True Flame",
+        "https://lh3.googleusercontent.com/JI5lwUBPpNWulJGVIVjKVhg8UHF8kCLY-xHfSUs0G90T4RfMNwyyx6Jq_MKAn03kd1XhKx4DNCBD7g5iylTJrs4v-ZW1UFfSloEL4Tw=w160",
+        "#4489",
+        "fea02e"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/ksegpVBukzicRlalHdIODEq4hrHVUq1y28bpyX1wfJHrj2v32kZe1_4AmSZtGeogARWU2751HLYS-c14NLyEU6JVGkE3QLsLkXNBjys=w160",
+        "#4496",
+        "#6F65BC"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/MfoeUyxsflC5QS9uMdxnf2rAX0AdQTxFj79M1wYFrG8l2PQ4ujhC7BasvLqBeck1Fhgu1w-YxdNKob58LIKX7t1U5FtbNph15PnVdQ=w160",
+        "#4507",
+        "#40CDBC"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/L2eezHT26_GeJ1FG5GNUknOo-uykgWRYpiNRZSuzKPvfEJ6re3BwvwCw6La7bb4_j3fXqtr-tGdAu4z-YL1YhJk3WY1lxBaenlJD=w160",
+        "#4524",
+        "#B5D0ED"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/7z2GY3oLhhym9IpXiMVEVAUpcH_tDuwzXWgffmJUgF6ZfLzdwMKfwfk63X0GbkX8HpArVjPTdErZOXMVh42C8bL_bALE4jheUEhnSQ=w160",
+        "#4536",
         "#6F65C3"
     ],
     [
         "",
         "Honorary",
         "https://lh3.googleusercontent.com/s8SsUFY11DeXUp8HHa3mbCGieB4F08StmXBy98DuAOcrtmffRSQrNUsbZLgyezhnxifbokZyTCrMrFmNTBtnYUdUsl-Td1NbtEGn=w160",
-        "#???",
+        "#4563",
         "#6F65C3"
     ],
     [
-        "",
+        "kduck",
         "Honorary",
-        "https://lh3.googleusercontent.com/ksegpVBukzicRlalHdIODEq4hrHVUq1y28bpyX1wfJHrj2v32kZe1_4AmSZtGeogARWU2751HLYS-c14NLyEU6JVGkE3QLsLkXNBjys=w160",
-        "#???",
-        "#6F65BC"
+        "https://lh3.googleusercontent.com/K2rrihVRZ5bQYA-jOQbptOaVftniCmDvD-dPKTAbLd5B5ygwQXSfNLuRQCCKcXXbCTUy2aquoClzMkT70pWnre2hAQd73vNwZ3jR=w160",
+        "#4564",
+        "#A4A3F7"
     ],
     [
         "",
         "Honorary",
-        "https://lh3.googleusercontent.com/OLKh2dg2m_m2gY6E2mZgQ7M37Rxjm7u6STMHF3qyw91AcqwOuJE3KCjZQlayi_h4pt-iFb6CNpYjjq5WmTdPM9beQ6OUbkr1nQCm8g=w160",
-        "#???",
-        "#FC8BD0"
+        "https://lh3.googleusercontent.com/WvgCnXyBO8pMhncYE2FWQ7tyq00_GS6gESEF33ejN4U_ASmHCQ_j0Gm-7QMIuPTZBTAJcSvVD1PQAyqN-xm45VboM3OhVo2wnwevhg=w600",
+        "#4587",
+        "#EDAACD"
     ],
     [
         "",
         "Honorary",
-        "https://lh3.googleusercontent.com/mpvDmyuSUD6mSAhX8rg08xYbygsbXcs8BvXIdKulHYcYHEmLBuw0fb-7ggy3pPP2KfLt43VfAvfve7A3rD7ReMo7X0WL82PxcPbOKQ=w160",
-        "#???",
-        "#F5C33F"
+        "https://lh3.googleusercontent.com/6L31vMsW6zn3YwmEINr-2qAgdgxUX20SzzVZeGtqSH03qWuaZtkMPv1RPGJSZJjJr0OxZ46yTlDVCFh3AoQTaozgVy5MCy6ssf3jWA=w160",
+        "#4598",
+        "#F5E49D"
     ],
     [
         "Neto v2",
         "v2",
         "https://lh3.googleusercontent.com/fife/AAWUweXhwrnsS1_ThhODkTKQVdBMIboviD968cpLyUsXXinEXNh3zrQXRO9ABwo3j1tWLLAeFmaAfbZ6wbvQwuZpLABR2ZHmtUsB-_7BDlNqjzklKoXTJiynVxMcuiZBMDJ7ybxpB8CaFd8kpV-utru2O7vHbqlB9Jo9UamPmRsNzZmhMIi5ZT5cQ-WCNJS6w2gpJCr_m95nuKDm4keAuF1ijUC0FH8-dQHUVfaxVy38Yz81mHvTYeS38KTiARiyku9OkAaVaz1lBtJsWJTm3GQ5KarxEikncCyWxgRfgp7zPZtdJQZE9cd-2aW6T3VOhOF9IU98z_62XxLHwhN8UCEVx6Yuud2KJzh8LLkYdkCet-zefnCxFlQ34C4lrAnwmQPrGI4fNkYtj3e9yTQ6ZQCQkcMkKks0kHOVL4TUC6r8seww1bP-UBf_hPPQILZW9r8wCBWeDKBp6vOrlIQ9ZkNe3f9_1pzBxia86KeFYdc9m0aMsQeOnbLrPNNQDyIx0Vf68PvcTGvvvA1so3IstFjQ9umNt8ddaAAAG9-nKb6ULREeW2JHypZ7Qo7dWsbcFJdKXwC5KI9vkotxVcx7ykajfigaYHLg5XgeaVaYbTInqOcPsq8gRGGDlz2obrpfD1_j00pn9cH78BoQ7L0Gt_g9m4dxvTxbi_8efi93nfdeIyjnCQBG4TVtHWfyMzIzhZVg9Y6eFkMoR18mIGyMKvFiyEtBNRfwoJKlEGyBqbBR4maJLUeLMLugHMoD8DBTbstShFeznWaT1cK-ORBc-WoVA8v0yWwvnznnpkv1JMOt6JcUOooCNRNX9dV2o-63YgNI8bqgwx1dgB5DUdLKKROrfb5-oEGFY1iC5Sje3_WlzzuiZOSKIHxUinGs16tasL3klDghY4GR9ThdOAcpxgQ_SP5l2g9jtvRsj9dQCxpd-UksKiSpwmagE-EjCzYUESCy0TuOAqMAMMNQBJPo2_D6hn0ZinMzHLYVUTqGg4uQrIi_02Q-xi4GlwSCu3VKE2CS5wlMIEe9oifxZL7I7Le5J9D-IED5Q9O60RTkcL07Xu4sDaYpG9u68Ms30yDxcnT7D1mx6BRYpfz5EOpu-BWyOQRy9IdCI9A7i3i7Vh7MNSLFB64nfa8Ke3I2Iu1s8LByyNetoFojh8DVcJegwakyf_qyPnmEX5EjXr-vDqWyGRCSvp-XALcj4bpjwlHR42B5JvBTJrdgBaBvFTreHhly-si-wbyxrVr55okNcf1r6Wj8WDHCsqlIuGqld_kQB8yKh1pSl6MnYVQWFvFOFciqbnX1vHQ6MRDc9mjjbgr5GASWItA=w160",
-        "#???",
+        "#4618",
         "#FCF969"
     ],
     [
-        "Zeta v2",
-        "v2",
-        "https://lh3.googleusercontent.com/fife/AAWUweXzKWdWdswA-bus1eEhfRxMNCzW4EMJwFwEYbz7rqMs6HF1tBA5230Lcaj109ZLLU9nbny7DuhFK4ohQ6lBLjF4rrvfJTBfKthQBUUHAnYZhmWmiyyOYvi93nXQaCG9X6aS-uus1S4X8OpolhOYXabreysQPOpOPapqxBSXKjva6tWkCRFmpaHlznT-KANt6eessRkKDHOza-konNAMzAVBOkLUAB8gI3cegf0ZAHH5WNTgRp5VM0sLRbVX7iSB_Xwt2jSCCKx-9YQVKD2NUxz48Iw83z1c9tmYx4EVyWOcPzTLj-g_NNGB7bZPWrmCT0Y3P6tdpW9sOl8ocGLHPwv06h9pf8nlO_MWIwM10pxJv9kUayh4jyyakM35KxNIQg5DA0-HVPP3Kyo62_9o9C1PNXuegU8oWu9vg8dYMQot07xqk-dae_Ouc1oJK0paMAwL9oo85Sq9n2gNQkEISnCKwJgYCzjgFgKMXEVN-xa0CSQO4t2LFb3EYDJ7OSDZqXg6aXrM2YVJr8ELKQeVBGP60JxGAoa-ORZ8xQIzoso8FmXaJb4MYw_Im9FqEBYC5tgS2MNGbAwghZWxY0cUGwLeioc9D6OGif64z1p6ySL2DR--73PYsTf7Lt86aD3_tcc3G6uuh9NGeXkfdNR19erhCLRy-24pfT1bkwjMc0wdN3Sx32FiHFJKKu87lFK1RBik8XXwBbp17LGhmtbZg5xPDyoZICcvZWcO9I_3RejHwzKMXKPlRarFZDN72gGhOM7Sp25uinnz3aIaJ4l5RZvkuTNKdffOxhQPKWpco7YHQwyuXVsnB9TZSjlU-XRRV8OgxH5H7XPRKpYfop0FDP7KdXESNwrr8Ni3GfpXsct3x9z1ksBN9d_ln4WKrwa3E9Iy-y65aaMI5-7-Qj2CrbT260ORBmZVZAi2GghmbFYGjWRNvOxES9bYzRVTbOAUWOwXqvTuFQVte8bpoNiNwvw9KNaiNxe3l3z43KjKXO_QoEibWJmcpa4LOrPm-9z_Lh9BPzLOeigy6kvsSM3qssS155lgrchhn0VkmTe3PLnQhKEYMw9-GyD3koIh9MmG_SCqstTzXxt7JNsd-Jm7RwGPUF0FgasgS5_j4EsnrgVBE1lhs8brQ8mb1UNV0ERGsjbWU5DtQ8WraybibXjFZa1UT2VWRkRuMPHE3hc5rahyREgs161Oh-XZEzlwNt5BkVzUqSvJyfKT-Mw4tj8XCgZtNLJqtFg9TdaS6PJkj8GSltBV8lkEwRJ6smM87Ez2oy5RHh7vd2FwSY5Cbnwd9CapMe-xaYP5kNG6u_fKOWQeraE=w160",
-        "#???",
-        "#3C99DE"
+        "Kurama v2",
+        "Mystic Neko, v2",
+        "https://lh3.googleusercontent.com/dX0l45fvgwmA30MnXJDQRxfl6X39ekFIMf-2xFXOp5qicURSYl12Kd9qDliPt3mjvjhQL05Zeye3xWiESGBeGlWqagDKZVRHW5BYbd4=w160",
+        "#4668",
+        "#F9D73A"
     ],
     [
-        "Dazai",
-        "Hero",
-        "https://lh3.googleusercontent.com/fife/AAWUweV2UD__FFITm9yqmE7ZT45mrJ5UVhSMMKLgC41H_B7WdjtYDdOiKuPHbAE1tW1DydlCf2dbXuSDgc6ZsoBLDYHQX59m_AHDmTXN6HgRtcdw1aB5EcTSRZGOxR_6yFui6aVx9-4cOCxbFYEFyxsJ3uqQ4s94MDbouud2H6i6nW46kAVeaW0B75b97CojMxB8Sx62kqttpn-v2AjhEkHTdWgf47cDrQnOu7_y97qA5irS85CshhFuCneN2iRkqgSyXhvFTunyQrEWdFU2GvpPdVjQMeYfGDRLL1JtagefTuDV0sZYC3b8kOro0kCg-B4pBSHvcln53yxgY9VneQKhT_0BYgZB0wYLLiX_NobY9qxGu_fwabzSj3j76etmB284U9QSa9vY6eMt3rTETO0kNiNG8vsX0jGwaiSff_NeufqaPQiksT5shliENV71XCdpa9Q-FP48WfHeMHOMthUFXSFSxfgPwJCN1X3B9pLgX2uK40mTmobebUnrmnhVNRSXtR9xE6qJK_XQ7fMIUVFCkpzShY22lHUzL79isYMqDBUfUIfsnQhvRv-3t-gcJbus370Dk9moUps4aGxXZCuPqd8mQ4xzTWojavSZWdszgFeIyAJvnzaJXSPZNJyDKjyeR1o7YZIkukziaBSBDIdFplXc72IhySvyzIwxME0QA6RzHj-hKPjTOqq_ANbTYyMKXcK3fNOrOOx1MnsOjx4rWVhlM2G4_RbmOag2isRBop4VYkAwYANBClibI38Un0uCsPiEBxwn6EmZuN161rJQnB8WmWd2Z3L_lPVn3KDEEpMtNgNkeEi1FQ-EQZ8meFDRxEVDsVXDlRNA5YE8Vz8a4GSC3694NiBxWQf5ZLx4PRH62mQYlJBtVKy6BazT6pgTpXstizPNVliGU_zrBL_6cnQMumHfHi47IcnRWN3Wgvk8MlRS3prgsL9qv9YeiKwAnSVg10-rb84fSXTDUBhJpGmuqY_SnGBg-UnBgSpMtehlFF0QGdzCEicMZIG5vmxAe1qpIj7rxtvLNrYKg85SnXGs5zrWK6oyH_MSW4gSdcgjH74LP2CFJHv3m4YDnqKlUkyyBe6Y5SvA36ZRa4pH_xAxeIYQCyL7VWYt--LjWveEUsUaZadTjuGk53cU-88A0oj5-yP5CXtBzR9f5Bx8kIeJagzzfjJoSVZiQNnWg7D_BIdZxzjIMSGCxMHf9Lh1cvrbWiHKcCrXibY9dg55lYaALxvj11gCVwn6nNlzR4ausSpkc2v2wvg5bmbDShz7t_vmt1zpu6BpjFiA6ONOPBlh_iYuEcYzp3Dk3Latj3_xaSs=w160",
-        "#???",
-        "#61B7FD"
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/yn1du4S9Zu6LPX0300VBNLYKvYYFNF8xdefaw92wPAkYbCCu3mowrVc-HB1X5OHhB-TMtl8AP-0NAF2ItkBkUoX7QecTN602heVd=w160",
+        "#4703",
+        "#E3B398"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/mOmMR4dlbyrfCa3r8eMB9EikzO08HuYbEhjDy3ujg2Yvvy7eSoSB5g8bxQHN0xKr6k5eBrViST6X7XTaeKFrS9MEeBnnR_woZU3ceIE=w160",
+        "#4704",
+        "#E3B398"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/NAVpApdENGKpBaBPhGduFmA5cPDs-5XEq-1kirG7LCZ9dNrb2ROckLOPhRxIj_S1gzNzT8Evx3NKQTece1JmydHKOB_9rnyzBPbK=w160",
+        "#4718",
+        "#AE95E9"
     ],
     [
         "Mech Neko",
         "Bot, v2",
         "https://lh3.googleusercontent.com/fife/AAWUweXggcz6k9h-faBsUgP0kkvQfJSLOHksoHqQ1xIO0nIx5IzZwlGVVnAifdWlmA9Qk04K28D67_bXlaCX9axrkpLKU9nNQADqfPOKOQ7wMnQQKPIZy0bInhNYou4bYrcMzVY804RJVlgLYbs60f1ydUzSsRFPX6aTfi1fxd9mM6Lju3Gq7ro928iJ6NCOHqZswGv1OIv0RhUQeYmHQWJlyqJPDtEwTNAxho5Djgyv7vOn4shGa1udtTVCfJ7wamlUVmNFiIdizBPHOtWSrbH2AX6YdbBXMbqradqU5ZRr_-fbRf9ZbLY_qY91aoLyxut8hewUYbuQP_fSIzs5iDvRwq1XIxwDNfx12qvBraD5qRz_LGg7UGpuLlcL_md4mSZLx_DuB58SC986QTOrkxuXtA3zoQYSqUQv9N3TFn9ivYb7rtHNl0OUhBdD9XHBko0oRqibHMnCOrIcnLBLQb8SG0xb_S9L7FqD-kSLaRB8Rqu05mviHN9KhRr3zsCy6KWu4T3f77lznOXfoIMD6_e20NLxnN704N_214DCX0Gk5DVcmMpRBEh-5Grznai_dn_rths44U1vZuATLNMCWQ67Ex7TxSOXfWdqjTWtDlAmn3-o-f1BGXcxdAQ4FzGaPOiMjONJ-JlD3fq386fy1XImCh9T2rqRQGLYkAkPz_lS3m54OiLewm8_rfrNFsN4Cg9yEOGy1juyiP3DjQ4l5gvGDK0ZEKPqNN5eM1gvXfpskcCkRBgBeKJrVtxhJ1WQKRnm-rS5gWlATuCNIVSnB_vmBM7s0Mu9oOq76qQcGYyeC8vPl-xbGIICzenS9vOYkZyLhR-dFLoV1VuEGLsaF06cJoveI67SYUvXi_dZLp1w-f9s5vjw9g1OsZvVdsTP_VbJvBjHXBppEv1r6MAGTEnm_RaMnob-7p9oeaR9Y2UNCRxfKTQxlRK1Mj6s9JAIUOD88kPVXQKAFqnh0gB9uBI01ziPxkiF6NoY3-PEw-wPz6eUvk0Q2Rg_voMF1zqnThWkWFvUhqbdZsKIAfpKooUZlWmOluJdfG6qzXx8_GHz_tbt2Jym7zi8sbTtR_izWP9tzuNDw7uFOYHgCJenIup6uSL_V52UbqbwJhpGIL78lzbeeSsXBg5EDqsKUjkyv1zZSN6WIax4LImjpiQkEZrN7aqvHa0O-ks6Bhjw37BHCuLIZziqmHmP3iGzuYUH1pexigp3zfph6z0B6j3b-O5DG_5lvfxoqoLEg-RRoWFLDa9JNdmxoSfUdZlSOY_Tj1IjTRjFD_uIopw5xt3Id6eRyyjhqIrji062pZBq_rIze2-gEdc=w160",
-        "#???",
+        "#4730",
         "#CDC4FE"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/4XucokWnDpEVzeWlP0DjcVZQs1a6Yvua1c_4oLaUJz5FAb8SW5qsZ5LWEBRSaxt1tfT4bWu3u5Adu9Vhv36BVTYF7CmXAGSAkgqH=w160",
+        "#4868",
+        "#E3B398"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/nytWhhj97ZDnUIEvuG64PxHF_H67_oZR8FGXXBDstBCZstWZoVf0arBMMznTH6cymxjDEiV19eQkQtZvyhppMVZ-tgmN0UYI3LoYdQ=w160",
+        "#4944",
+        "#E3B398"
+    ],
+    [
+        "Wubs",
+        "Honorary",
+        "https://lh3.googleusercontent.com/1ipQWYAFwL2X60hJafMi6bY3ZqdQSuWVw1YyzsIcLNV6Xpy7u-0Qhlb9cEJR0rf5IYDaNfAq5cxGbWVyRGY4MaiILvVwPffwYaQP_Q=w160",
+        "#4985",
+        "#E8A78B"
+    ],
+    [
+        "",
+        "Honorary",
+        "https://lh3.googleusercontent.com/Zkr6mPzVW7Qu-0nfd_AnJ8VZF0JvP26xow07CnqRUm4A0G15s4xVy0pAOS1fwZJ94cf9xyyz7Sc-3jrUB4sDqImreQ34OgWlRJ3ZmP4=w160",
+        "#4997",
+        "#E3B398"
     ]
 ]
